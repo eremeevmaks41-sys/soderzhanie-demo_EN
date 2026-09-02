@@ -122,7 +122,8 @@ KEYWORD_TAGS = [
     ("health",      ["медиц", "врач", "болезн", "вирус", "вакцин", "пациент", "здоровь", "эпидеми",
                      "health", "vaccine", "virus", "hospital"]),
     ("incidents",   ["землетрясен", "наводнен", "пожар", "авиакатастроф", "крушен", "вспышк", "авар",
-                     "incident", "crash", "fire", "flood", "earthquake"]),
+                     "взрыв", "взорвал", "жертв", "обрушен", "затоплен",
+                     "incident", "crash", "fire", "flood", "earthquake", "explosion", "killed", "casualt"]),
     ("culture",     ["фильм", "преми", "фестивал", "альбом", "сериал", "книг", "выставк", "оскар",
                      "culture", "film", "festival"]),
     ("sport",       ["чемпион", "матч", "кубок", "олимпиад", "турнир", "футбол", "хоккей",
@@ -149,11 +150,26 @@ AI_SYSTEM = (
     "— Write everything in ENGLISH. If the input is in Russian, translate it: "
     "render the card in natural, idiomatic news English (not word-for-word), "
     "preserving every number, name and fact.\n"
-    "— tags: 1–3 labels STRICTLY from the list, the first one being the main topic:\n"
+    "— tags: 1–3 labels STRICTLY from the list, the first one being the MAIN topic. Topic rubric:\n"
     "  " + ", ".join(TAG_WHITELIST) + "\n"
-    "  Describe the factual topic of the story (e.g. oil/exchange rates → economy, "
-    "elections/summits → politics, disease/medicine → health, "
-    "accidents/disasters → incidents). No confident topic — []. "
+    "  Topic boundaries: conflict — hostilities, strikes, shelling, drones; "
+    "incidents — explosions, fires, floods, crashes, accidents, attacks with damage or casualties "
+    "(including at hydro plants, factories, pipelines and power lines); "
+    "energy — the industry as business and projects (oil & gas pipelines, power-plant construction, electricity markets); "
+    "technology — ONLY gadgets, internet, AI, cybersecurity; "
+    "economy — money, markets, oil/gas as commodities, companies, budgets; "
+    "politics — elections, summits, laws, appointments; "
+    "science — research, space, discoveries; health — diseases and medicine; "
+    "sport — competitions; culture — films, music, books; society — courts, everyday life, education; "
+    "transport — airports, metro, railways as infrastructure.\n"
+    "  Hard rule: an EMERGENCY (explosion, fire, flood, crash, collapse, attack with damage) is "
+    "ALWAYS the first label «incidents», even if the site is a hydro plant, factory or power grid. "
+    "«technology» for accidents and emergencies is FORBIDDEN.\n"
+    "  Examples: \"rescuers blast a slope at a hydro plant after floods, casualties reported\" → incidents, worldnews; "
+    "\"gas pipeline construction enters the final stage\" → energy, economy; "
+    "\"skiers cleared for international starts\" → sport; "
+    "\"court protected a pensioner's only home\" → society.\n"
+    "  No confident topic — []. "
     "Any other labels (including source labels like \"russia\" or \"worldnews\") are "
     "forbidden — the country/region is already visible from the source.\n"
     "— headline: up to 100 characters, a concise headline carrying the point, "
@@ -664,6 +680,30 @@ def tg_send_photo(token, chat, photo_url, caption):
     })
 
 
+def tg_send_photo_upload(token, chat, photo_url, caption, timeout=60):
+    """Fallback: Telegram could not fetch the photo by URL (block, format,
+    size) — we download it ourselves and upload it as a file (multipart;
+    the photo limit is 10 MB, we fetch at most 9 MB)."""
+    import uuid
+    raw = http_get_bytes(photo_url, timeout=30, max_len=9_000_000)
+    if len(raw) < 1024:
+        raise ValueError("image too small — not a picture")
+    bnd = "----Soderzhanie" + uuid.uuid4().hex
+    parts = []
+    for name, val in (("chat_id", chat), ("caption", caption), ("parse_mode", "HTML")):
+        parts.append((f"--{bnd}\r\nContent-Disposition: form-data; name=\"{name}\"\r\n\r\n{val}\r\n").encode("utf-8"))
+    parts.append((f"--{bnd}\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"news.jpg\"\r\n"
+                  f"Content-Type: image/jpeg\r\n\r\n").encode("utf-8"))
+    parts.append(raw)
+    parts.append(f"\r\n--{bnd}--\r\n".encode("utf-8"))
+    req = urllib.request.Request(
+        f"https://api.telegram.org/bot{token}/sendPhoto", data=b"".join(parts),
+        method="POST",
+        headers={"Content-Type": f"multipart/form-data; boundary={bnd}"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
 def tg_send_video(token, chat, video_url, caption):
     api = f"https://api.telegram.org/bot{token}/sendVideo"
     return http_json(api, {
@@ -718,7 +758,8 @@ def publish_item(token, chat, item, text, kind):
     Returns (ok, actual_kind, message_id)."""
     if kind == "video" and item.get("video"):
         url, ctype, clen = resolve_video(item["video"])
-        ok_video = ctype.startswith("video") or not ctype   # the HEAD probe may have failed — try as is
+        ok_video = (ctype.startswith("video") or not ctype) \
+            and "flv" not in (ctype + " " + url).lower()   # the HEAD probe may have failed — try as is; FLV is unplayable in Telegram
         if ok_video and clen > 45_000_000:
             log("    · the video is over 45 MB — sending as photo/text")
             ok_video = False
@@ -746,9 +787,16 @@ def publish_item(token, chat, item, text, kind):
             resp = tg_send_photo(token, chat, item["image"], text)
             if resp.get("ok"):
                 return True, "photo", resp["result"]["message_id"]
-            log(f"    · photo rejected ({resp.get('description')}) — sending as text")
+            log(f"    · photo rejected ({resp.get('description')}) — trying a file upload")
         except Exception as e:
-            log(f"    · photo failed to send ({e}) — sending as text")
+            log(f"    · photo failed to send ({e}) — trying a file upload")
+        try:
+            resp = tg_send_photo_upload(token, chat, item["image"], text)
+            if resp.get("ok"):
+                return True, "photo", resp["result"]["message_id"]
+            log(f"    · photo file upload rejected ({resp.get('description')}) — sending as text")
+        except Exception as e:
+            log(f"    · photo file upload failed ({e}) — sending as text")
     try:
         resp = tg_send(token, chat, text)
     except Exception as e:
@@ -894,6 +942,12 @@ def merge_tags(base, card, text):
     the fallback does not duplicate the source label."""
     base = list(base or ["#worldnews"])
     picked = [t for t in (card.get("tags") or []) if t not in base]
+    # rubric guardrail: the input is an emergency (explosion, flood, crash…)
+    # but the AI forgot «incidents» — put the label first, deterministically.
+    low = (text or "").lower()
+    if "incidents" not in [str(t).lstrip("#").lower() for t in picked] \
+            and any(k in low for k in KEYWORD_TAGS["incidents"]):
+        picked = ["#incidents"] + picked
     tags = (base + picked)[:3]
     if len(tags) == len(base):
         extra = keyword_tags(text, default=base[0])
