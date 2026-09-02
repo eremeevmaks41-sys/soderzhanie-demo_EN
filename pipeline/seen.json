@@ -1,5 +1,7 @@
 {
-  "seen": {},
+  "seen": {
+    "8bbab318ac6a6c4e01839f905590cac06ed37924": "2026-09-02"
+  },
   "texts": {
     "8": {
       "kind": "photo",
@@ -8,6 +10,10 @@
     "9": {
       "kind": "photo",
       "text": "🔥 <b>Russian strikes hit dual-use warehouse and energy infrastructure in Ukraine</b>\n\nRussia&#x27;s Armed Forces continue carrying out group strikes on logistics centers, port and energy infrastructure of Ukraine used in the interests of the Ukrainian Armed Forces. Among the targets hit were a warehouse storing dual-use goods and energy facilities.\n\n• Targets included logistics centers, port and energy infrastructure\n• A warehouse storing dual-use goods was struck\n• Strikes continue as part of ongoing group operations\n\nSource: <a href=\"https://tass.ru/armiya-i-opk/28069479\">TASS</a>"
+    },
+    "5": {
+      "kind": "photo",
+      "text": "⚠️ <b>Nearly 80 Ukrainian drones destroyed over Bryansk region in 24 hours</b>\n\nRussia&#x27;s defense ministry reported that almost 80 Ukrainian drones were destroyed over Bryansk region during a 24-hour period. No further details were provided about damage or casualties on the ground.\n\nSource: <a href=\"https://ria.ru/20260902/bryansk-2114824432.html\">RIA Novosti</a>"
     }
   }
 }
