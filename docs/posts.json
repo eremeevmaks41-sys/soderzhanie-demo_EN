@@ -1,11 +1,40 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T11:19:37+03:00",
+  "updated_at": "2026-09-02T11:28:46+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 13,
+      "date": "2026-09-02",
+      "time": "11:26",
+      "title": "Russia's Supreme Court protects 89-year-old pensioner who lost only home",
+      "preview": "Russia's Supreme Court has ruled in defense of an 89-year-old pensioner who was deprived of his only housing. The ruling overturns prior decisions that had left the elderly man…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/13",
+      "src": "https://ria.ru/20260902/zhile-2114846841.html"
+    },
+    {
+      "id": 14,
+      "date": "2026-09-02",
+      "time": "11:26",
+      "title": "Cold water floods roadway in northern Saint Petersburg",
+      "preview": "A roadway in the north of Saint Petersburg was flooded with cold water, local authorities reported. Specialists are already working to address the aftermath of the incident.",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#society"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/14",
+      "src": "https://tass.ru/proisshestviya/28069607"
+    },
     {
       "id": 12,
       "date": "2026-09-02",
@@ -19,6 +48,35 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/12",
       "src": "https://ria.ru/20260902/kitaj-2114844416.html"
+    },
+    {
+      "id": 16,
+      "date": "2026-09-02",
+      "time": "11:18",
+      "title": "VEB.RF backed four investment projects worth 130 billion rubles",
+      "preview": "Kerefov announced that VEB.RF has supported four investment projects totaling 130 billion rubles. The statement was reported by Vedomosti. No further details on the specific…",
+      "tags": [
+        "#russia",
+        "#economy"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/16",
+      "src": "https://www.vedomosti.ru/economics/news/2026/09/02/1225585-vebrf-soprovodil"
+    },
+    {
+      "id": 17,
+      "date": "2026-09-02",
+      "time": "10:40",
+      "title": "Israeli forces and settlers attack two West Bank mosques",
+      "preview": "Israeli forces fired tear gas into one mosque in the West Bank after settlers set fire to and vandalised another. The separate incidents reflect ongoing tensions between settlers…",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/17",
+      "src": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss"
     },
     {
       "id": 8,
@@ -61,6 +119,36 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/5",
       "src": "https://ria.ru/20260902/bryansk-2114824432.html"
+    },
+    {
+      "id": 18,
+      "date": "2026-09-02",
+      "time": "09:26",
+      "title": "Iran strikes US bases in Middle East after reports of US attack on wedding party",
+      "preview": "Iran has attacked US bases in the Middle East following reports that a US strike killed five people at a wedding party. The Iranian Red Crescent says a child was among those…",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/18",
+      "src": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 15,
+      "date": "2026-09-02",
+      "time": "09:00",
+      "title": "Almost half of world’s farmers poisoned by pesticides annually, study finds",
+      "preview": "A new study estimates 402–433 million cases of unintentional acute pesticide poisoning among farmers and farm workers each year. Pesticide poisoning kills around 11,000 people…",
+      "tags": [
+        "#worldnews",
+        "#health",
+        "#science"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/15",
+      "src": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts"
     }
   ]
 }
