@@ -1,0 +1,85 @@
+# ═══════════════════════════════════════════════════════════════
+# "Table of Contents" · news pipeline v2 (AI cards, EN edition)
+# Every 2 hours: RSS/video → AI card → channel → contents (≤10 posts
+# per day). Every publishing run also reconciles the contents with
+# the channel — posts deleted in Telegram are cleaned out of posts.json.
+# Requires secrets (Settings → Secrets and variables → Actions):
+#   BOT_TOKEN, CHANNEL_USERNAME, GROQ_API_KEY (openrouter.ai, free tier)
+# Manual run: Actions tab → "News pipeline" → Run
+#   dry_run=true   — show the cards without publishing
+#   sync_only=true — reconcile the contents only (no new posts)
+# ═══════════════════════════════════════════════════════════════
+name: News pipeline
+
+on:
+  schedule:
+    # every 2 hours: 00:07 / 02:07 / … / 22:07 UTC (≈ 1–2 posts per run)
+    - cron: "7 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      max_posts:
+        description: "How many news items to publish per run (default 1)"
+        required: false
+        default: "1"
+      dry_run:
+        description: "Only preview the news without publishing (true/false)"
+        required: false
+        default: "false"
+      sync_only:
+        description: "Only reconcile the contents with the channel: clean out deleted posts, publish nothing"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # The scripts run on plain Python (stdlib) — no pip dependencies needed
+
+      - name: Reconcile contents only (no publishing)
+        if: ${{ inputs.sync_only == 'true' }}
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
+        run: python pipeline/news_pipeline.py --mode publish --max 0
+
+      - name: Pipeline (publish + refresh the contents)
+        if: ${{ inputs.dry_run != 'true' && inputs.sync_only != 'true' }}
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python pipeline/news_pipeline.py --mode publish --max ${{ inputs.max_posts || '1' }} --daily-cap 10
+
+      - name: Pipeline (dry run without publishing)
+        if: ${{ inputs.dry_run == 'true' }}
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python pipeline/news_pipeline.py --mode dry --max ${{ inputs.max_posts || '3' }}
+
+      - name: Commit the refreshed contents
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "soderzhanie-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/posts.json pipeline/seen.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed — no commit needed"
+          else
+            git commit -m "news: contents updated [skip ci]"
+            git push
+          fi

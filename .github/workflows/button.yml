@@ -1,0 +1,50 @@
+# ═══════════════════════════════════════════════════════════════
+# "Table of Contents" · the pinned "Table of Contents" button in the channel
+# Publishes a post with the mini-app button and pins it.
+# Run: Actions → "TOC button" → Run workflow →
+#      enter the Pages address (https://LOGIN.github.io/REPO/) and,
+#      if you have one, the Direct-Link Mini App URL (t.me/BOT/NAME,
+#      created in BotFather via /newapp — see the guide, section 7).
+# Requires secrets: BOT_TOKEN, CHANNEL_USERNAME.
+# ═══════════════════════════════════════════════════════════════
+name: TOC button
+
+on:
+  workflow_dispatch:
+    inputs:
+      pages_url:
+        description: "Mini-app address (https://login.github.io/repo/)"
+        required: true
+        default: ""
+      app_link:
+        description: "Mini-app direct link (https://t.me/BOT/NAME, from BotFather /newapp) — optional"
+        required: false
+        default: ""
+      button_text:
+        description: "Button label"
+        required: false
+        default: "📖 Table of Contents"
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Publish and pin the button
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
+        run: |
+          python pipeline/toc_button.py \
+            --url "${{ inputs.pages_url }}" \
+            --app-link "${{ inputs.app_link }}" \
+            --text "${{ inputs.button_text || '📖 Table of Contents' }}"

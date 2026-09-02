@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "_note": "Table-of-contents topics. tags — which post hashtags fall into the topic (without the #). A draft can be generated with: python3 pipeline/suggest_topics.py",
+  "topics": [
+    { "id": "society", "title": "Society", "icon": "🏙️", "tags": ["society"] },
+    { "id": "family", "title": "Family & parenting", "icon": "👨‍👩‍👧", "tags": ["family"] }
+  ]
+}

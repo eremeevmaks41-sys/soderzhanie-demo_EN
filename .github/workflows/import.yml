@@ -1,0 +1,55 @@
+# ═══════════════════════════════════════════════════════════════
+# "Table of Contents" · channel history import
+# Runs MANUALLY after you have put the export file
+# import/result.json into the repo (via the GitHub web UI: Add file → Upload).
+# Guide: the "Importing channel history" section.
+# ═══════════════════════════════════════════════════════════════
+name: History import
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel_username:
+        description: "Channel username without @ (e.g. my_channel)"
+        required: true
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check the export is present
+        run: |
+          if [ ! -f import/result.json ]; then
+            echo "::error::File import/result.json not found. Upload the Telegram Desktop export into the import/ folder and try again."
+            exit 1
+          fi
+
+      - name: Convert the export into the contents
+        run: |
+          python pipeline/export_to_posts.py \
+            --input import/result.json \
+            --posts docs/posts.json \
+            --channel-username "${{ inputs.channel_username }}"
+
+      - name: Commit the contents
+        run: |
+          git config user.name  "soderzhanie-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/posts.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed — no commit needed"
+          else
+            git commit -m "import: contents built from export [skip ci]"
+            git push
+          fi

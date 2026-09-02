@@ -1,0 +1,59 @@
+{
+  "_comment": "RSS feed list for the news pipeline (EN edition). Copy a block and set your name/url/emoji/tags. name — the source caption on the card (the 'Source: …' line); url — the RSS feed address (Russian agencies publish in Russian — the AI translates; world feeds publish in English — the AI simply condenses them); emoji — the post icon if the AI picked no topical one; tags — labels in the table of contents (the first one is the primary tag). The pipeline walks the sources in a circle (rotation) so that busy Russian agencies do not crowd out world feeds. A failing source is simply skipped — the pipeline never falls over.",
+  "sources": [
+    {
+      "name": "RIA Novosti",
+      "url": "https://ria.ru/export/rss2/archive/index.xml",
+      "emoji": "🇷🇺",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "TASS",
+      "url": "https://tass.ru/rss/v2.xml",
+      "emoji": "🏛️",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "Interfax",
+      "url": "https://www.interfax.ru/rss.asp",
+      "emoji": "📊",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "Kommersant",
+      "url": "https://www.kommersant.ru/RSS/news.xml",
+      "emoji": "💰",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "Lenta.ru",
+      "url": "https://lenta.ru/rss/news",
+      "emoji": "🗞️",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "Vedomosti",
+      "url": "https://www.vedomosti.ru/rss/news",
+      "emoji": "📈",
+      "tags": ["#russia"]
+    },
+    {
+      "name": "BBC",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "emoji": "🌍",
+      "tags": ["#worldnews"]
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "emoji": "🌐",
+      "tags": ["#worldnews"]
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "emoji": "📰",
+      "tags": ["#worldnews"]
+    }
+  ]
+}
