@@ -945,8 +945,9 @@ def merge_tags(base, card, text):
     # rubric guardrail: the input is an emergency (explosion, flood, crash…)
     # but the AI forgot «incidents» — put the label first, deterministically.
     low = (text or "").lower()
+    inc_kw = dict(KEYWORD_TAGS).get("incidents") or []
     if "incidents" not in [str(t).lstrip("#").lower() for t in picked] \
-            and any(k in low for k in KEYWORD_TAGS["incidents"]):
+            and any(k in low for k in inc_kw):
         picked = ["#incidents"] + picked
     tags = (base + picked)[:3]
     if len(tags) == len(base):
