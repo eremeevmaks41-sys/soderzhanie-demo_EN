@@ -1,9 +1,38 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T08:17:23+03:00",
+  "updated_at": "2026-09-02T10:42:16+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
-  "posts": []
+  "posts": [
+    {
+      "id": 8,
+      "date": "2026-09-02",
+      "time": "10:39",
+      "title": "Video of grandfather's wartime heroism inspires marine to join special military operation",
+      "preview": "A video depicting the heroic actions of a grandfather during wartime motivated a Russian marine to enlist in the special military operation. The footage, shared widely online…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/8",
+      "src": "https://ria.ru/20260902/svo-2114835641.html"
+    },
+    {
+      "id": 9,
+      "date": "2026-09-02",
+      "time": "10:38",
+      "title": "Russian strikes hit dual-use warehouse and energy infrastructure in Ukraine",
+      "preview": "Russia's Armed Forces continue carrying out group strikes on logistics centers, port and energy infrastructure of Ukraine used in the interests of the Ukrainian Armed Forces.…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/9",
+      "src": "https://tass.ru/armiya-i-opk/28069479"
+    }
+  ]
 }
