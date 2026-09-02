@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "updated_at": "2026-09-02T10:55:47+03:00",
+  "updated_at": "2026-09-02T11:19:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
     {
-      "id": 5,
+      "id": 12,
       "date": "2026-09-02",
-      "time": "10:00",
-      "title": "Nearly 80 Ukrainian drones destroyed over Bryansk region in 24 hours",
-      "preview": "Russia's defense ministry reported that almost 80 Ukrainian drones were destroyed over Bryansk region during a 24-hour period. No further details were provided about damage or…",
+      "time": "11:18",
+      "title": "FT lists possible reasons China blocked G20 communique",
+      "preview": "The Financial Times has outlined possible reasons why China blocked the G20 communique. Details of the reported reasons were not provided in the source.",
       "tags": [
         "#russia",
-        "#conflict"
+        "#politics"
       ],
       "kind": "photo",
-      "url": "https://t.me/daily_news_digest_en/5",
-      "src": "https://ria.ru/20260902/bryansk-2114824432.html"
+      "url": "https://t.me/daily_news_digest_en/12",
+      "src": "https://ria.ru/20260902/kitaj-2114844416.html"
     },
     {
       "id": 8,
@@ -47,6 +47,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/9",
       "src": "https://tass.ru/armiya-i-opk/28069479"
+    },
+    {
+      "id": 5,
+      "date": "2026-09-02",
+      "time": "10:00",
+      "title": "Nearly 80 Ukrainian drones destroyed over Bryansk region in 24 hours",
+      "preview": "Russia's defense ministry reported that almost 80 Ukrainian drones were destroyed over Bryansk region during a 24-hour period. No further details were provided about damage or…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/5",
+      "src": "https://ria.ru/20260902/bryansk-2114824432.html"
     }
   ]
 }

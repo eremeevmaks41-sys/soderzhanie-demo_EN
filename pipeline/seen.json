@@ -1,6 +1,7 @@
 {
   "seen": {
-    "8bbab318ac6a6c4e01839f905590cac06ed37924": "2026-09-02"
+    "8bbab318ac6a6c4e01839f905590cac06ed37924": "2026-09-02",
+    "369d6d00a1f1e0c23f35bb0a00027c05be62d7cc": "2026-09-02"
   },
   "texts": {
     "8": {
@@ -14,6 +15,10 @@
     "5": {
       "kind": "photo",
       "text": "⚠️ <b>Nearly 80 Ukrainian drones destroyed over Bryansk region in 24 hours</b>\n\nRussia&#x27;s defense ministry reported that almost 80 Ukrainian drones were destroyed over Bryansk region during a 24-hour period. No further details were provided about damage or casualties on the ground.\n\nSource: <a href=\"https://ria.ru/20260902/bryansk-2114824432.html\">RIA Novosti</a>"
+    },
+    "12": {
+      "kind": "photo",
+      "text": "🏛️ <b>FT lists possible reasons China blocked G20 communique</b>\n\nThe Financial Times has outlined possible reasons why China blocked the G20 communique. Details of the reported reasons were not provided in the source.\n\nSource: <a href=\"https://ria.ru/20260902/kitaj-2114844416.html\">RIA Novosti</a>"
     }
   }
 }
