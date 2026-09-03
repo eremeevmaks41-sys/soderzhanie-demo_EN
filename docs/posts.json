@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T05:22:01+03:00",
+  "updated_at": "2026-09-03T08:35:22+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 22,
+      "date": "2026-09-03",
+      "time": "08:26",
+      "title": "Lavrov calls European Commission head a 'Führer'",
+      "preview": "Russian Foreign Minister Sergei Lavrov has publicly labelled the head of the European Commission a 'Führer', according to Lenta.ru. The statement was reported on Monday; no…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/22",
+      "src": "https://lenta.ru/news/2026/09/03/lavrov-nazval-glavu-evrokomissii-fyurerom/"
+    },
     {
       "id": 21,
       "date": "2026-09-03",
