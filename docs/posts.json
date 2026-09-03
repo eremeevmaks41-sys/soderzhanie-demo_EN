@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T19:19:01+03:00",
+  "updated_at": "2026-09-04T01:17:41+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 29,
+      "date": "2026-09-04",
+      "time": "00:40",
+      "title": "Burnham, Macron meet to discuss border security and stronger UK-Europe ties",
+      "preview": "New UK Prime Minister Andy Burnham held his first official meeting with French President Emmanuel Macron. The two leaders discussed shared challenges and the prospect of stronger…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/29",
+      "src": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss"
+    },
     {
       "id": 28,
       "date": "2026-09-03",
