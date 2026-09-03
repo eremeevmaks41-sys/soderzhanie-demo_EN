@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T09:25:13+03:00",
+  "updated_at": "2026-09-03T11:20:40+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 24,
+      "date": "2026-09-03",
+      "time": "11:18",
+      "title": "Russia will continue to support Iran, Peskov says",
+      "preview": "Kremlin spokesman Dmitry Peskov stated that Russia will continue to support Iran. He did not elaborate on the forms or timing of the assistance.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/24",
+      "src": "https://ria.ru/20260903/rossija-2115141308.html"
+    },
     {
       "id": 23,
       "date": "2026-09-03",
