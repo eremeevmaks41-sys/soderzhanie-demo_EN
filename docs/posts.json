@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T01:17:40+03:00",
+  "updated_at": "2026-09-03T03:29:02+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -20,6 +20,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/19",
       "src": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss"
+    },
+    {
+      "id": 20,
+      "date": "2026-09-02",
+      "time": "20:33",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "preview": "Saudi Arabia says two Filipino crew members were killed in an Iranian attack on the tanker Sidr in the Strait of Hormuz on Monday. The kingdom condemned the targeting of the…",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/20",
+      "src": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 13,
