@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T03:29:02+03:00",
+  "updated_at": "2026-09-03T05:22:01+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 21,
+      "date": "2026-09-03",
+      "time": "05:16",
+      "title": "Arktikugol trust to challenge arrest of Russian ship in Svalbard",
+      "preview": "The Arktikugol trust will challenge Norway's decision to arrest the Russian research vessel Professor Molchanov at the request of Ukrainian company Naftogaz, Russian Minister for…",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/21",
+      "src": "https://www.interfax.ru/russia/1112869"
+    },
     {
       "id": 19,
       "date": "2026-09-03",
