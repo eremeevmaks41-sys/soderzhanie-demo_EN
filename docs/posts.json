@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T01:17:41+03:00",
+  "updated_at": "2026-09-04T07:18:58+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 30,
+      "date": "2026-09-04",
+      "time": "07:12",
+      "title": "US Treasury Secretary says EU joins US economic pressure campaign on Iran",
+      "preview": "The European Union has officially joined the US \"Economic Outcast\" operation to exert economic pressure on Iran, US Treasury Secretary Scott Bessent announced. The move marks an…",
+      "tags": [
+        "#russia",
+        "#economy",
+        "#politics"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/30",
+      "src": "https://www.kommersant.ru/doc/8925484"
+    },
     {
       "id": 29,
       "date": "2026-09-04",
