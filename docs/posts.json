@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T07:18:58+03:00",
+  "updated_at": "2026-09-06T09:22:28+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 31,
+      "date": "2026-09-06",
+      "time": "09:15",
+      "title": "US makes statement after Witkoff and Kushner visit to Russia",
+      "preview": "The United States has issued a statement following the visit of Steve Witkoff and Jared Kushner to Russia. No further details about the content of the statement or the purpose of…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/31",
+      "src": "https://lenta.ru/news/2026/09/06/v-ssha-sdelali-zayavlenie-posle-vizita-uitkoffa-i-kushnera-v-rossiyu/"
+    },
     {
       "id": 30,
       "date": "2026-09-04",

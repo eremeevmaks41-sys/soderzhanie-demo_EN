@@ -1,5 +1,6 @@
 {
   "seen": {
+    "401a999b49436cd3fa388091b87072579ce73964": "2026-09-06",
     "ba6192882a40b50cdec20ca12b8ffc888e42b49e": "2026-09-04",
     "c4eb7aac65c4e0cd6023020aef98b63b50622029": "2026-09-04",
     "b0b6e5c804009dd795606ef37d5d6b1cedef54fe": "2026-09-03",
@@ -109,6 +110,10 @@
     "30": {
       "kind": "text",
       "text": "💰 <b>US Treasury Secretary says EU joins US economic pressure campaign on Iran</b>\n\nThe European Union has officially joined the US &quot;Economic Outcast&quot; operation to exert economic pressure on Iran, US Treasury Secretary Scott Bessent announced. The move marks an alignment of EU economic policy with Washington&#x27;s maximum-pressure strategy targeting Tehran.\n\n• Operation is called &quot;Economic Outcast&quot;\n• Announcement made by US Treasury Secretary Scott Bessent\n\nSource: <a href=\"https://www.kommersant.ru/doc/8925484\">Kommersant</a>"
+    },
+    "31": {
+      "kind": "photo",
+      "text": "🕊️ <b>US makes statement after Witkoff and Kushner visit to Russia</b>\n\nThe United States has issued a statement following the visit of Steve Witkoff and Jared Kushner to Russia. No further details about the content of the statement or the purpose of the visit were provided in the report.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/06/v-ssha-sdelali-zayavlenie-posle-vizita-uitkoffa-i-kushnera-v-rossiyu/\">Lenta.ru</a>"
     }
   }
 }
