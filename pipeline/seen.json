@@ -2,6 +2,7 @@
   "seen": {
     "401a999b49436cd3fa388091b87072579ce73964": "2026-09-06",
     "dbf6001cc94f234618419e0034573f192e4dcc89": "2026-09-06",
+    "bc865b28383c376f415cf55a50fe28400c73a9da": "2026-09-06",
     "ba6192882a40b50cdec20ca12b8ffc888e42b49e": "2026-09-04",
     "c4eb7aac65c4e0cd6023020aef98b63b50622029": "2026-09-04",
     "b0b6e5c804009dd795606ef37d5d6b1cedef54fe": "2026-09-03",
@@ -119,6 +120,10 @@
     "32": {
       "kind": "photo",
       "text": "🛡️ <b>Niger military accuses France of orchestrating failed mutiny</b>\n\nNiger&#x27;s military government has accused France of being behind a failed mutiny attempt. French officials deny any involvement, but tensions between the two countries remain high.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "33": {
+      "kind": "photo",
+      "text": "⚠️ <b>Two killed, two injured in drone attack in Belgorod region</b>\n\nTwo residents of Belgorod region were killed and two injured in a drone strike, the regional emergency operations headquarters reported on Sunday evening. An FPV drone struck a vehicle near the village of Oktyabrskaya Gotnya in Borisov district.\n\n• FPV drone hit a vehicle in Borisov district\n• Two residents killed, two injured\n• Reported by regional emergency headquarters on Sunday evening\n\nSource: <a href=\"https://www.interfax.ru/russia/1113530\">Interfax</a>"
     }
   }
 }
