@@ -1,5 +1,6 @@
 {
   "seen": {
+    "45d0ce91090549ec9972de86c34fa03cd18730d9": "2026-09-07",
     "401a999b49436cd3fa388091b87072579ce73964": "2026-09-06",
     "dbf6001cc94f234618419e0034573f192e4dcc89": "2026-09-06",
     "bc865b28383c376f415cf55a50fe28400c73a9da": "2026-09-06",
@@ -124,6 +125,10 @@
     "33": {
       "kind": "photo",
       "text": "⚠️ <b>Two killed, two injured in drone attack in Belgorod region</b>\n\nTwo residents of Belgorod region were killed and two injured in a drone strike, the regional emergency operations headquarters reported on Sunday evening. An FPV drone struck a vehicle near the village of Oktyabrskaya Gotnya in Borisov district.\n\n• FPV drone hit a vehicle in Borisov district\n• Two residents killed, two injured\n• Reported by regional emergency headquarters on Sunday evening\n\nSource: <a href=\"https://www.interfax.ru/russia/1113530\">Interfax</a>"
+    },
+    "34": {
+      "kind": "photo",
+      "text": "🚀 <b>Russian cargo ship Progress MS-33 deorbited and destroyed over Pacific Ocean</b>\n\nThe Progress MS-33 cargo spacecraft, which had undocked from the International Space Station earlier, was deliberately deorbited and destroyed in the Pacific Ocean on Monday, Roscosmos announced. The vehicle had been in service with the Russian segment of the ISS since March before reentering Earth&#x27;s atmosphere and breaking apart.\n\n• Progress MS-33 undocked from the ISS prior to deorbiting\n• Spacecraft operated with the Russian segment of the ISS since March\n• Reentry and destruction occurred over the Pacific Ocean\n\nSource: <a href=\"https://www.interfax.ru/russia/1113732\">Interfax</a>"
     }
   }
 }
