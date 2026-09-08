@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-08T05:19:21+03:00",
+  "updated_at": "2026-09-08T13:20:02+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 36,
+      "date": "2026-09-08",
+      "time": "13:15",
+      "title": "Pensioner rescued after drifting out to sea on inflatable boat off Sakhalin",
+      "preview": "Rescuers on Sakhalin saved an elderly man who was carried out to sea on a rubber boat. The pensioner did not require medical assistance.",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#society"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/36",
+      "src": "https://tass.ru/proisshestviya/28090847"
+    },
     {
       "id": 35,
       "date": "2026-09-08",
