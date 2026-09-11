@@ -1,6 +1,7 @@
 {
   "seen": {
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
+    "d2b290822138bb2a73ff1c17fef31bb48cb7489d": "2026-09-11",
     "67c3dfb7a910a541ec5346451f55a0854b042623": "2026-09-09",
     "7825be8e34b27a4637997de2e5cf1a5ae405eca8": "2026-09-08",
     "c58b2cc3f6f8ae1e58f3592b38a6c49cb3c39e6b": "2026-09-08",
@@ -154,6 +155,10 @@
     "39": {
       "kind": "text",
       "text": "✈️ <b>Finnair complains Chinese airlines gain advantage by flying over Russia</b>\n\nFinnair&#x27;s CEO Turkki Kuusisto said Chinese carriers benefit from continued access to Russian airspace, which is closed to Western airlines, allowing shorter flight times between Europe and China. He called the situation extremely unfair and uneven, citing Reuters. The statement highlights growing competitive imbalance in Europe-Asia air…\n\n• Chinese airlines are increasing capacity between Europe and China\n• Finnair claims flight time advantages for Chinese carriers due to Russian overflight access\n• Western airlines are prohibited from flying over Russia\n\nSource: <a href=\"https://www.kommersant.ru/doc/8941375\">Kommersant</a>"
+    },
+    "40": {
+      "kind": "photo",
+      "text": "🔬 <b>Virologist names carriers of new virus found in China</b>\n\nA Russian virologist has identified the likely animal carriers of a novel virus recently detected in China, outlining potential transmission routes to humans.\n\nSource: <a href=\"https://ria.ru/20260911/virus-2117013193.html\">RIA Novosti</a>"
     }
   }
 }
