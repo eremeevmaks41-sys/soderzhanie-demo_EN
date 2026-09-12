@@ -1,5 +1,6 @@
 {
   "seen": {
+    "94e495dd6892b473f27df6a886c2406e6430f4ac": "2026-09-12",
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
     "d2b290822138bb2a73ff1c17fef31bb48cb7489d": "2026-09-11",
     "020537b0c115f382d664ef0095a1b36ecfd9544d": "2026-09-11",
@@ -169,6 +170,10 @@
     "42": {
       "kind": "photo",
       "text": "⚠️ <b>Woman killed, three injured in FPV drone attack on car in Belgorod region</b>\n\nA woman died and three others were wounded when an FPV drone struck a car in the settlement of Oktyabrsky in Belgorod Oblast. The regional operational headquarters confirmed the casualties resulting from the UAV attack.\n\n• One woman killed in the drone strike\n• Three people injured in the attack\n• Attack occurred in Oktyabrsky settlement, Belgorod Oblast\n\nSource: <a href=\"https://www.interfax.ru/russia/1115631\">Interfax</a>"
+    },
+    "43": {
+      "kind": "photo",
+      "text": "⚠️ <b>Three civilians killed, 13 injured in Ukrainian drone attacks on Donetsk People&#x27;s Republic</b>\n\nThree civilians were killed and thirteen others injured in drone strikes by Ukrainian forces on the Donetsk People&#x27;s Republic on Saturday, according to regional head Denis Pushilin. The attacks, described as involving strike drones, resulted in casualties including a child. Pushilin&#x27;s press service released the statement on Saturday.\n\n• Three civilians killed, thirteen injured\n• Attacks carried out by Ukrainian strike drones\n• Includes a child among the injured\n\nSource: <a href=\"https://www.interfax.ru/russia/1115758\">Interfax</a>"
     }
   }
 }
