@@ -46,12 +46,14 @@ Video: if the RSS entry has a video enclosure (media/enclosure) or the article
     short 1–2 min clips in modest resolution (~4–8 MB) — good enough for the channel.
 Dedup: seen.json (hash) + links in posts.json + normalized titles.
 
-TOC sync (publish runs): the last ~120 posts are probed in the channel with
+TOC sync (publish runs): the last ~30 posts are probed in the channel with
     editMessageText/Caption carrying THE SAME text ("message is not modified"
     = alive, and nothing changes on screen; older posts without a stored
-    text — via the t.me embed). A post deleted in Telegram is purged from
-    posts.json — the TOC no longer points to "Post not found".
-    Manual sync without publishing: Run workflow → sync_only=true.
+    text — via the t.me embed). Probes run with pauses: Telegram allows ~20
+    messages per minute per chat, and a dense probe series triggers a flood
+    window in which the news publishing itself drowns. A post deleted in
+    Telegram is purged from posts.json — the TOC no longer points to
+    "Post not found". Manual sync without publishing: Run workflow → sync_only=true.
 """
 import argparse
 import hashlib
@@ -60,6 +62,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -76,16 +79,21 @@ GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/chat/compl
 GEMINI_MODEL_DEFAULT = "gemini-2.5-flash"
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-# Free models (:free suffix), tried one by one until one of them answers:
-# 1) GLM — the strongest of the free tier + structured_outputs (reliable JSON);
-# 2) MiniMax M3 — 1M context, response_format;
-# 3) Nemotron Super — compact, structured_outputs;
-# 4) Nemotron Ultra — the largest reserve.
+# Free models (:free suffix), tried one by one until one of them answers.
+# The list is checked against the live catalog at openrouter.ai/api/v1/models:
+# models whose free tier has been closed answer 404 to EVERY request and waste
+# run attempts (that happened to glm-5.2:free and minimax-m3:free).
+# 1) Nemotron Super — compact, structured_outputs (reliable JSON);
+# 2) Gemma 4 31B — a fresh Google model;
+# 3) Nemotron 3.5 Lightning — 1M context;
+# 4) Inkling — 1M context;
+# 5) Nemotron Ultra — the largest reserve.
 # Override via the AI_MODEL secret/variable (a comma-separated list is allowed).
 OPENROUTER_MODELS = [
-    "z-ai/glm-5.2:free",
-    "minimax/minimax-m3:free",
     "nvidia/nemotron-3-super-120b-a12b:free",
+    "google/gemma-4-31b-it:free",
+    "nvidia/nemotron-3.5-lightning:free",
+    "thinkingmachines/inkling:free",
     "nvidia/nemotron-3-ultra-550b-a55b:free",
 ]
 
@@ -752,6 +760,46 @@ def resolve_video(url):
         return url, "", 0
 
 
+def retry_after_seconds(exc, default=3, cap=60):
+    """How long Telegram asks to wait in the body of an HTTP 429 response
+    (retry_after). Not a 429 → 0. A dense series of sync edit-probes (or two
+    overlapping runs) opens a flood window on the chat — without this pause
+    the retry drowns again."""
+    if getattr(exc, "code", None) != 429:
+        return 0
+    delay = default
+    try:
+        body = exc.read(500).decode("utf-8", "ignore")
+        m = re.search(r'"retry_after"\s*:\s*(\d+)', body) \
+            or re.search(r"retry after (\d+)", body, re.I)
+        if m:
+            delay = int(m.group(1))
+    except Exception:
+        pass
+    return max(1, min(delay, cap))
+
+
+def wait_telegram_429(exc, cap=60):
+    """Is this an HTTP 429 from Telegram? Wait retry_after and True. Otherwise False."""
+    secs = retry_after_seconds(exc, default=3, cap=cap)
+    if not secs:
+        return False
+    log(f"    · Telegram asks to pause {secs}s (429) — waiting and retrying")
+    time.sleep(secs + 1)
+    return True
+
+
+def tg_send_retry(send_fn, *args):
+    """A Telegram send with one retry on 429: a temporary flood limit must not
+    downgrade a photo post to text or kill the whole publication."""
+    try:
+        return send_fn(*args)
+    except urllib.error.HTTPError as e:
+        if not wait_telegram_429(e):
+            raise
+        return send_fn(*args)
+
+
 def publish_item(token, chat, item, text, kind):
     """Video → sendVideo (by URL or as a file); photo → sendPhoto;
     if that fails — the fallbacks below (video → photo → text).
@@ -767,7 +815,7 @@ def publish_item(token, chat, item, text, kind):
             # by URL Telegram fetches files ≤20 MB itself; larger — only as a file upload
             if clen == 0 or clen <= 20_000_000:
                 try:
-                    resp = tg_send_video(token, chat, url, text)
+                    resp = tg_send_retry(tg_send_video, token, chat, url, text)
                     if resp.get("ok"):
                         return True, "video", resp["result"]["message_id"]
                     log(f"    · video by URL rejected ({resp.get('description')}) — trying a file upload")
@@ -776,7 +824,7 @@ def publish_item(token, chat, item, text, kind):
             else:
                 log(f"    · the video is ~{clen // 1_000_000} MB — uploading as a file")
             try:
-                resp = tg_send_video_upload(token, chat, url, text)
+                resp = tg_send_retry(tg_send_video_upload, token, chat, url, text)
                 if resp.get("ok"):
                     return True, "video", resp["result"]["message_id"]
                 log(f"    · video file upload rejected ({resp.get('description')}) — sending as photo/text")
@@ -784,21 +832,21 @@ def publish_item(token, chat, item, text, kind):
                 log(f"    · video file upload failed ({e}) — sending as photo/text")
     if kind in ("video", "photo") and item.get("image"):
         try:
-            resp = tg_send_photo(token, chat, item["image"], text)
+            resp = tg_send_retry(tg_send_photo, token, chat, item["image"], text)
             if resp.get("ok"):
                 return True, "photo", resp["result"]["message_id"]
             log(f"    · photo rejected ({resp.get('description')}) — trying a file upload")
         except Exception as e:
             log(f"    · photo failed to send ({e}) — trying a file upload")
         try:
-            resp = tg_send_photo_upload(token, chat, item["image"], text)
+            resp = tg_send_retry(tg_send_photo_upload, token, chat, item["image"], text)
             if resp.get("ok"):
                 return True, "photo", resp["result"]["message_id"]
             log(f"    · photo file upload rejected ({resp.get('description')}) — sending as text")
         except Exception as e:
             log(f"    · photo file upload failed ({e}) — sending as text")
     try:
-        resp = tg_send(token, chat, text)
+        resp = tg_send_retry(tg_send, token, chat, text)
     except Exception as e:
         log(f"    × Telegram rejected (\"{e}\")")
         return False, "text", None
@@ -810,7 +858,9 @@ def publish_item(token, chat, item, text, kind):
 
 # ───────────────────── TOC ↔ channel sync ─────────────────────
 
-SYNC_PROBE_LIMIT = 120          # how many recent posts we probe per run
+SYNC_PROBE_LIMIT = 30          # how many recent posts we probe per run
+                               # (30 probes × 3 s pause ≈ 1.5 min — safely inside
+                               # Telegram's flood limit of ~20 messages/min)
 
 
 def classify_probe_error(desc):
@@ -846,6 +896,11 @@ def probe_alive_api(token, chat, msg_id, meta):
         resp = http_json(f"https://api.telegram.org/bot{token}/{api}", payload, timeout=20)
         return "alive" if resp.get("ok") else "unknown"
     except urllib.error.HTTPError as e:
+        if e.code == 429:
+            # a flood window (including one opened by our own probes) — wait
+            # retry_after so the next probe does not extend the penalty
+            time.sleep(min(20, retry_after_seconds(e) + 1))
+            return "unknown"
         desc = ""
         try:
             desc = e.read(300).decode("utf-8", "ignore")
@@ -879,9 +934,16 @@ def sync_deleted(token, chat, posts, texts):
     Returns the number of purged posts (0 — none, -1 — the channel is not accessible)."""
     with_id = [p for p in posts if p.get("id")]
     dead = []
+    api_probes = 0
     for p in with_id[-SYNC_PROBE_LIMIT:]:
         meta = texts.get(str(p["id"]))
         if meta and meta.get("text"):
+            # pause between edit-probes: a dense series (~20 probes in 20 s)
+            # opens a flood window on the chat in which the publication
+            # after the sync drowns
+            if api_probes:
+                time.sleep(3.0)
+            api_probes += 1
             state = probe_alive_api(token, chat, p["id"], meta)
         else:
             state = probe_alive_embed(chat, p["id"])
