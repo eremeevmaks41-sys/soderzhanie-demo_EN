@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-12T22:26:34+03:00",
+  "updated_at": "2026-09-12T23:18:33+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 44,
+      "date": "2026-09-12",
+      "time": "23:02",
+      "title": "CSKA Moscow drew 1-1 with Rubin Kazan in Russian Premier League match",
+      "preview": "CSKA Moscow played with one man less after a red card and secured a 1-1 draw against Rubin Kazan in the eighth round of the Russian Premier League. The match took place in…",
+      "tags": [
+        "#russia",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/44",
+      "src": "https://www.sport-interfax.ru/1115762"
+    },
     {
       "id": 43,
       "date": "2026-09-12",
