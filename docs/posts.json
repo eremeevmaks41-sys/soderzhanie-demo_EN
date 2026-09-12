@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-12T23:18:33+03:00",
+  "updated_at": "2026-09-13T01:19:06+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 45,
+      "date": "2026-09-13",
+      "time": "01:10",
+      "title": "USA edge Spain to book Women's Basketball World Cup final against France",
+      "preview": "USA defeated Spain 76-66 in a tense semifinal to advance to the final, where they will face France after the hosts Germany were beaten 86-64.",
+      "tags": [
+        "#worldnews",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/45",
+      "src": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss"
+    },
     {
       "id": 44,
       "date": "2026-09-12",
