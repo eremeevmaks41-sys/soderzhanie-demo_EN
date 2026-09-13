@@ -9,6 +9,7 @@
     "030223215c12d088838eb7f6110096671348ec42": "2026-09-13",
     "94e495dd6892b473f27df6a886c2406e6430f4ac": "2026-09-12",
     "18a34b462aeed59a412cc674a4460dd89418b4a7": "2026-09-12",
+    "f14b2cc45928a3c194caadf1e58616c19c3acc4c": "2026-09-12",
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
     "d2b290822138bb2a73ff1c17fef31bb48cb7489d": "2026-09-11",
     "020537b0c115f382d664ef0095a1b36ecfd9544d": "2026-09-11",
@@ -214,6 +215,10 @@
     "51": {
       "kind": "text",
       "text": "⚠️ <b>Two people injured in motorcycle crash in southeast Moscow</b>\n\nAn accident involving a motorcycle occurred on 1st Dubrovskaya Street in southeast Moscow, resulting in two people being injured. The incident was reported by TASS. No further details about the victims or circumstances were provided.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28107989\">TASS</a>"
+    },
+    "52": {
+      "kind": "photo",
+      "text": "🏛️ <b>Burial of King Oyo in Uganda as news anchor prepares to succeed him</b>\n\nKing Oyo Nyimba Kabamba Iguru Rukidi IV, the world&#x27;s long-reigning monarch and former world&#x27;s youngest king, was buried in Fort Portal amid a succession dispute. His appointed successor, news anchor Edward Rukidi Kijanangoma, performed a traditional ritual by casting nine coffee berries into the grave at the Karambi Royal Tombs, marking…\n\n• Oyo was buried among the tombs of his royal forebears in western Uganda\n• Edward Rukidi Kijanangoma cast nine coffee berries into the grave during the burial\n• The succession had been marked by a bitter dispute before the handover\n\nSource: <a href=\"https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda\">The Guardian</a>"
     }
   }
 }
