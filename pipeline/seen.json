@@ -4,6 +4,7 @@
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
     "9f8ec2d6dad06c3877fd6b2f7ec02f7b90a2a05d": "2026-09-13",
+    "88b8ba4d4936f50eef520a02becab14939cf73f3": "2026-09-13",
     "94e495dd6892b473f27df6a886c2406e6430f4ac": "2026-09-12",
     "18a34b462aeed59a412cc674a4460dd89418b4a7": "2026-09-12",
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
@@ -199,6 +200,10 @@
     "48": {
       "kind": "text",
       "text": "⚠️ <b>Vessel attacked in Strait of Hormuz</b>\n\nUKMTO reported that a vessel was struck by an unknown projectile in the Strait of Hormuz. The condition of the crew, extent of damage, and environmental impact remain unknown.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8953545\">Kommersant</a>"
+    },
+    "49": {
+      "kind": "photo",
+      "text": "🔥 <b>Fire breaks out at Krasnodar Krai facility after drone attack</b>\n\nA fire erupted at an industrial facility in Krasnodar Krai following a drone strike. The incident occurred after an attack by unmanned aerial vehicles. No further details on casualties or extent of damage were provided in the source.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/13/v-krasnodarskom-krae-na-predpriyatii-vspyhnul-pozhar-posle-ataki-bpla/\">Lenta.ru</a>"
     }
   }
 }
