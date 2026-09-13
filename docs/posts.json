@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T03:28:18+03:00",
+  "updated_at": "2026-09-13T05:19:22+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 47,
+      "date": "2026-09-13",
+      "time": "03:33",
+      "title": "Fire at waste recycling site in Astrakhan contained on 700 sq m",
+      "preview": "Firefighters contained a blaze involving secondary raw materials in the Leninsky District of Astrakhan on Saturday, according to the Russian Emergency Ministry's press service.…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/47",
+      "src": "https://www.interfax.ru/russia/1115778"
+    },
     {
       "id": 45,
       "date": "2026-09-13",
