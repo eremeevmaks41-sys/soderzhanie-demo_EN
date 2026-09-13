@@ -6,6 +6,7 @@
     "9f8ec2d6dad06c3877fd6b2f7ec02f7b90a2a05d": "2026-09-13",
     "88b8ba4d4936f50eef520a02becab14939cf73f3": "2026-09-13",
     "b6cb26b42cbc630465b1badb2426b0919014b69c": "2026-09-13",
+    "030223215c12d088838eb7f6110096671348ec42": "2026-09-13",
     "94e495dd6892b473f27df6a886c2406e6430f4ac": "2026-09-12",
     "18a34b462aeed59a412cc674a4460dd89418b4a7": "2026-09-12",
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
@@ -209,6 +210,10 @@
     "50": {
       "kind": "photo",
       "text": "🤝 <b>Putin concludes three-day visit to India</b>\n\nRussian President Vladimir Putin completed a three-day official visit to India. The visit included high-level talks with Indian leadership. No further details were provided in the source.\n\nSource: <a href=\"https://ria.ru/20260913/putin-2117405828.html\">RIA Novosti</a>"
+    },
+    "51": {
+      "kind": "text",
+      "text": "⚠️ <b>Two people injured in motorcycle crash in southeast Moscow</b>\n\nAn accident involving a motorcycle occurred on 1st Dubrovskaya Street in southeast Moscow, resulting in two people being injured. The incident was reported by TASS. No further details about the victims or circumstances were provided.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28107989\">TASS</a>"
     }
   }
 }

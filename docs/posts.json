@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T11:20:02+03:00",
+  "updated_at": "2026-09-13T13:23:08+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 51,
+      "date": "2026-09-13",
+      "time": "13:19",
+      "title": "Two people injured in motorcycle crash in southeast Moscow",
+      "preview": "An accident involving a motorcycle occurred on 1st Dubrovskaya Street in southeast Moscow, resulting in two people being injured. The incident was reported by TASS. No further…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/51",
+      "src": "https://tass.ru/proisshestviya/28107989"
+    },
     {
       "id": 50,
       "date": "2026-09-13",
