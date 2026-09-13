@@ -1,6 +1,7 @@
 {
   "seen": {
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
+    "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "94e495dd6892b473f27df6a886c2406e6430f4ac": "2026-09-12",
     "18a34b462aeed59a412cc674a4460dd89418b4a7": "2026-09-12",
     "a1e620f4f710bb9b83d67149aaf9713062fd08e1": "2026-09-11",
@@ -184,6 +185,10 @@
     "45": {
       "kind": "photo",
       "text": "🌐 <b>USA edge Spain to book Women&#x27;s Basketball World Cup final against France</b>\n\nUSA defeated Spain 76-66 in a tense semifinal to advance to the final, where they will face France after the hosts Germany were beaten 86-64.\n\nSource: <a href=\"https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "46": {
+      "kind": "photo",
+      "text": "⚠️ <b>Anthropic CEO Dario Amodei urges slowing AI development</b>\n\nAnthropic CEO Dario Amodei has called for a slowdown in AI development, citing growing concerns that advanced AI models could soon be capable of causing serious global harm. The warning comes as AI capabilities advance rapidly, raising fears about uncontrollable risks.\n\n• Amodei warns AI models may soon inflict serious worldwide damage\n• Call for slower development amid rising safety concerns\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
