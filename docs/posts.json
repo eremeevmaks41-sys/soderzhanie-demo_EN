@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T19:20:29+03:00",
+  "updated_at": "2026-09-14T21:22:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -33,6 +33,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/64",
       "src": "https://www.vedomosti.ru/society/news/2026/09/14/1228708-rosfinmonitoring-vnes-terroristov"
+    },
+    {
+      "id": 66,
+      "date": "2026-09-14",
+      "time": "14:31",
+      "title": "China rejects claim it is in malicious AI competition",
+      "preview": "China has criticised the idea that it is engaged in malicious competition over artificial intelligence development. This follows calls by the CEO of Anthropic for a slowdown in…",
+      "tags": [
+        "#worldnews",
+        "#technology"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/66",
+      "src": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 62,

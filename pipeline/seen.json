@@ -8,6 +8,7 @@
     "a3c66e52a495b5bddf44bf88a5f6972b52643da3": "2026-09-14",
     "79dd5107bb291cce5403652b2a3bb89fe19d0f79": "2026-09-14",
     "7ca597eabc63d77b763328e85bd756c137b28133": "2026-09-14",
+    "5752677090f88e599979a93e110fb50ec8a96bda": "2026-09-14",
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
@@ -284,6 +285,10 @@
     "65": {
       "kind": "photo",
       "text": "💰 <b>Samuel Eto’o faces embezzlement allegations in Cameroon FA presidency</b>\n\nFormer Chelsea and Barcelona striker Samuel Eto’o is facing new allegations of embezzlement related to Cameroon Football Association finances during his presidency. The claims involve mismanagement of funds under his leadership. No specific amounts or dates were provided in the report.\n\nSource: <a href=\"https://www.aljazeera.com/sports/2026/9/14/etoo-faces-allegations-of-embezzlement-in-cameroon-fa-presidency-role?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "66": {
+      "kind": "photo",
+      "text": "🌍 <b>China rejects claim it is in malicious AI competition</b>\n\nChina has criticised the idea that it is engaged in malicious competition over artificial intelligence development. This follows calls by the CEO of Anthropic for a slowdown in AI advancement to prevent China from gaining an edge in the global AI race.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
