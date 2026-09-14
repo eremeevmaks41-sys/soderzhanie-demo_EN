@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T15:26:21+03:00",
+  "updated_at": "2026-09-14T17:22:17+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 64,
+      "date": "2026-09-14",
+      "time": "17:19",
+      "title": "Rosfinmonitoring adds two hacker groups to terrorist list",
+      "preview": "Russia's financial monitoring agency, Rosfinmonitoring, has included two hacker groupings in its official list of terrorists. The move follows their alleged involvement in…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/64",
+      "src": "https://www.vedomosti.ru/society/news/2026/09/14/1228708-rosfinmonitoring-vnes-terroristov"
+    },
     {
       "id": 62,
       "date": "2026-09-14",
