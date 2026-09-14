@@ -107,6 +107,11 @@ header{display:flex;align-items:center;gap:12px;padding:10px 2px 14px}
 .c-prev{font-size:13.8px;color:var(--muted);margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .c-tags{margin-top:7px;display:flex;flex-wrap:wrap;gap:5px}
 .c-tag{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:7px;padding:2.5px 8px;font-weight:600}
+/* ── длинные ссылки не ломают сетку (Task 124, репорт босса 15.9.2026:
+   посты-«голые ссылки» раздували Ленту шире экрана на телефоне) ── */
+html,body{overflow-x:hidden}
+header>div{min-width:0}
+.c-title,.c-prev,.c-tag,.t-title,.h-name{min-width:0;overflow-wrap:anywhere;word-break:break-word}
 
 /* ── view switch: Contents / Feed ── */
 .views{display:flex;background:var(--chip);border:1.5px solid var(--line);border-radius:12px;padding:3px;margin-bottom:11px}
@@ -167,16 +172,19 @@ footer{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);text-al
 footer b{color:var(--text);font-weight:600}
 footer .lic{font-size:11px;opacity:.75}
 </style>
-<!-- ═══ TELEGRAM BRIDGE — official and REQUIRED ═══
+<!-- ═══ TELEGRAM BRIDGE — official and REQUIRED (async) ═══
      core.telegram.org/bots/webapps → "Initializing Mini Apps":
      "To connect your Mini App to the Telegram client, place the script
      telegram-web-app.js in the <head> tag before any other scripts".
      Without it window.Telegram.WebApp is NOT created — on iPhone tg=NO:
      no haptic, no theme, no openTelegramLink (root cause of the
-     "no navigation" bug in versions 52-e…52-l). The same script is
-     included in the head of the live MyRadio app — and navigation
-     works there. ═══ -->
-<script src="https://telegram.org/js/telegram-web-app.js?63"></script>
+     "no navigation" bug in versions 52-e…52-l).
+     THE async ATTRIBUTE (the "it used to open faster" case, 12.9.2026):
+     the page does NOT wait for the telegram.org script and paints
+     instantly — the bridge arrives in parallel, long before the first
+     tap; the core below picks up its readiness itself (adoptBridge +
+     load/error subscription + a safety timer). ═══ -->
+<script async src="https://telegram.org/js/telegram-web-app.js?63"></script>
 </head>
 <body>
 <div class="wrap">
@@ -210,7 +218,7 @@ footer .lic{font-size:11px;opacity:.75}
   <div id="state" class="state" style="display:none"></div>
 
   <footer>
-    <div><b>Contents</b> · a catalog of Telegram channel posts · <span id="ver">v55-en</span></div>
+    <div><b>Contents</b> · a catalog of Telegram channel posts · <span id="ver">v56-en</span></div>
     <div class="lic" id="licLine"></div>
   </footer>
 </div>
@@ -225,7 +233,7 @@ footer .lic{font-size:11px;opacity:.75}
 (function(){
 'use strict';
 
-var SALT = 'SODERZHANIE-v1-7f3a';               // internal license salt
+var SALT = 'SODERZHANIE-EN-v1-4k8t';               // internal license salt
 var PAGE_SIZE = 100;                            // cards per single page load
 var cfg = window.SZ_CONFIG || {};
 
@@ -238,15 +246,51 @@ var cfg = window.SZ_CONFIG || {};
    real mini-app context counts as the bridge — otherwise in a plain
    browser the fallbacks break (the ladder below would be shadowed by
    dead calls). */
-var rawTg = (window.Telegram && window.Telegram.WebApp) ? window.Telegram.WebApp : null;
-var tg = null;
-if (rawTg){
+var rawTg = null, tg = null, bridgePending = true, bridgeTimer = null;
+function adoptBridge(){
+  rawTg = (window.Telegram && window.Telegram.WebApp) ? window.Telegram.WebApp : null;
+  if (!rawTg) return false;   /* the script is still in flight — keep waiting */
   var realBridge = (rawTg.platform && rawTg.platform !== 'unknown') ||
                    (rawTg.initData && String(rawTg.initData).length > 0) ||
                    /[?&#]tgWebApp/.test(window.location.href);
-  tg = realBridge ? rawTg : null;
+  if (!realBridge){
+    bridgePending = false;   /* dummy — final verdict */
+    diagNote('dummy WebApp (outside Telegram) — ignoring the bridge');
+    return false;
+  }
+  tg = rawTg; bridgePending = false;
+  try { tg.ready(); tg.expand(); } catch(e){}
+  themeApply();
+  headerColorApply();
+  wireTgBack();   /* BackButton was wired at boot only — re-wire on late arrival */
+  if (tg.onEvent) { try { tg.onEvent('themeChanged', function(){ themeApply(); headerColorApply(); }); } catch(e){} }
+  var late = document.getElementById('tgBanner');
+  if (late && late.parentNode) late.parentNode.removeChild(late);
+  diagNote('bridge connected (async): platform=' + (tg.platform || '?') + ' · ver=' + (tg.version || '?'));
+  return true;
 }
-if (tg) { try { tg.ready(); tg.expand(); } catch(e){} }
+adoptBridge();
+if (bridgePending && !rawTg){
+  var settleBridge = function(){
+    if (settleBridge.done) return;   /* the final verdict is recorded exactly once */
+    settleBridge.done = true;
+    bridgePending = false;
+    clearTimeout(bridgeTimer);
+    if (!tg && !rawTg) diagNote('bridge never arrived (error/timeout) — opening as a plain page');
+    maybeBridgeBanner();
+  };
+  var bridgeArrive = function(){
+    clearTimeout(bridgeTimer);
+    if (!tg) adoptBridge();
+    settleBridge();
+  };
+  var bridgeEl = document.querySelector('script[src*="telegram-web-app.js"]');
+  if (bridgeEl){
+    bridgeEl.addEventListener('load', bridgeArrive);
+    bridgeEl.addEventListener('error', settleBridge);
+  } else { settleBridge(); }
+  bridgeTimer = setTimeout(settleBridge, 3000);   /* script hangs: the status is final */
+}
 
 /* iOS Safari applies :active only if the page has a touchstart handler */
 document.addEventListener('touchstart', function(){}, {passive:true});
@@ -354,9 +398,7 @@ function headerColorApply(){
   if (tg && tg.setHeaderColor) { try { tg.setHeaderColor(bg); } catch(e){ try { tg.setHeaderColor('bg_color'); } catch(e2){} } }
   if (tg && tg.setBackgroundColor) { try { tg.setBackgroundColor(bg); } catch(e){} }
 }
-themeApply();
-headerColorApply();
-if (tg && tg.onEvent) { try { tg.onEvent('themeChanged', function(){ themeApply(); headerColorApply(); }); } catch(e){} }
+if (!tg) { themeApply(); headerColorApply(); }   /* without the bridge — system theme; with the bridge adoptBridge has applied it */
 
 /* iOS/iPadOS: navigations via target="_blank" and window.open in the
    built-in Telegram browser on iPhone are SILENTLY BLOCKED (WKWebView
@@ -394,20 +436,26 @@ var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent || '') ||
    in <head> — on iOS, entering via the pinned message/bot menu brings
    the bridge up (tg=yes). Confirmation: the head of the live MyRadio
    contains the same script. */
-/* ── self-diagnostics line in the footer: records which environment the
-   page was opened in and which navigation branch actually fired. Using
-   it, the user can report precisely what happens on their device. */
+/* ── self-diagnostics (Task 120: footer keeps product lines only — the
+   line is hidden by default, visible with ?diag=1, every note is mirrored
+   to console): records the environment and the branch that fired. */
 var diagEl = null, diagLog = [];
 function diagInit(){
   diagEl = document.createElement('div');
   diagEl.className = 'lic'; diagEl.id = 'diag';
+  /* Task 120 (директива босса 14.9): в футере только строки продукта —
+     линия самодиагностики скрыта; видна при ?diag=1, заметки всегда
+     дублируются в консоль (console.log) */
+  diagEl.style.display = /[?&]diag=/.test(location.search) ? '' : 'none';
   var f = document.querySelector('footer');
   if (f) f.appendChild(diagEl);
   diagNote('start: tg=' + (tg
     ? 'yes · platform=' + (tg.platform || '?') + ' · ver=' + (tg.version || '?')
-    : (rawTg ? 'NO (dummy WebApp outside Telegram — ignoring)' : 'NO — plain page, no bridge')));
+    : (rawTg ? 'NO (dummy WebApp outside Telegram — ignoring)'
+       : (bridgePending ? 'bridge still loading (async)…' : 'NO — plain page, no bridge'))));
 }
 function diagNote(msg){
+  try { console.log('[oglavlenie] ' + msg); } catch(e){}
   if (!diagEl) return;
   var d = new Date(), z = function(x){ return ('0'+x).slice(-2); };
   diagLog.push(z(d.getHours())+':'+z(d.getMinutes())+':'+z(d.getSeconds())+' '+msg);
@@ -415,27 +463,21 @@ function diagNote(msg){
   diagEl.textContent = 'debug: ' + diagLog.join(' | ');
 }
 
-/* ── rescue banner: the page was opened WITHOUT the Telegram bridge
-   (via a direct link — from a chat, browser history, etc.). The bridge
-   cannot be created from inside the page (the client injects the
-   environment only when opened as a mini app — official contract).
-   But we can guide the reader to the proper entrance: the "Contents"
-   pinned message in the channel, the bot's menu button, or the banner
-   button (t.me/<bot>?startapp from config.js). */
+/* ── without the Telegram bridge (opened not as a mini app): the bridge
+   cannot be created from inside the page. The scary error is GONE (Task 114):
+   web mode opens posts in the same tab, the mode shows in footer diagnostics */
 function showBridgeBanner(){
   if (tg || !document.querySelector) return;
-  var rescue = cfg.bot_username
-    ? 'https://t.me/' + String(cfg.bot_username).replace(/^@/, '') + '?startapp'
-    : (cfg.channel_url || '');
-  if (!rescue) return;
-  var b = document.createElement('div');
-  b.className = 'banner'; b.id = 'tgBanner'; b.style.display = 'block';
-  b.innerHTML = '<b>Telegram bridge unavailable:</b> the app was opened as a plain web page, '
-    + 'so posts cannot be opened this way. Open the table of contents via the button in the '
-    + 'channel’s pinned message or the bot menu button — or <a href="' + esc(rescue) + '">tap '
-    + 'here for the proper entrance</a>.';
-  var anchor = document.querySelector('.search');
-  if (anchor && anchor.parentNode) anchor.parentNode.insertBefore(b, anchor);
+  if (document.getElementById('tgBanner')) return;   /* already shown — do not duplicate */
+  /* Task 114: no more scary banner — web mode opens posts in the same tab
+     (routeOpen); the mode is visible in the footer diagnostics */
+  diagNote('web mode: posts open in the same tab');
+}
+/* the async bridge may still be in flight — never scare the user too early:
+   the banner is shown only when the bridge status is final */
+function maybeBridgeBanner(){
+  if (bridgePending) return;
+  if (!tg) showBridgeBanner();
 }
 
 /* The silent case (same channel): openTelegramLink does perform the
@@ -485,13 +527,31 @@ function openInTelegram(url){
 }
 function openPost(url){
   if (!url) return;
+  if (!tg && bridgePending){
+    /* the bridge is still in flight (async): wait for it briefly so the tap
+       does not fall into the fallback branch too early; if it never arrives —
+       the same proven paths as below */
+    diagNote('bridge still loading — waiting up to 1.2 s');
+    var t0 = Date.now();
+    (function again(){
+      if (tg){ diagNote('bridge arrived — opening normally'); openPost(url); return; }
+      if (!bridgePending || Date.now() - t0 > 1200){ routePost(url); return; }
+      setTimeout(again, 60);
+    })();
+    return;
+  }
+  routePost(url);
+}
+function routePost(url){
+  if (!url) return;
   if (!tg){
-    /* outside the mini app: in Telegram's built-in browser target="_blank"
-       and window.open are silently blocked (WKWebView cannot open new
-       tabs) — navigation in the same tab saves the day; a plain desktop
-       browser opens a new tab normally */
-    if (iOS) { diagNote('no tg → location.href navigation (the post may open behind the window)'); window.location.href = url; return; }
-    window.open(url, '_blank');
+    /* outside the mini app (including Telegram's built-in browser from the
+       channel button): window.open is silently blocked — the only reliable
+       path everywhere is navigation in the same tab: in Telegram it opens
+       the post right in the app, in a plain browser — the t.me page with
+       the "open in app" button */
+    diagNote('no bridge → same-tab navigation');
+    window.location.href = url;
     return;
   }
   var plat = tg.platform || '';
@@ -654,7 +714,7 @@ function topicCardCount(){
 /* ── header from config ── */
 function applyConfig(){
   var name = cfg.channel_name || 'Contents';
-  document.title = 'Contents · ' + name;
+  document.title = name;
   document.getElementById('hName').textContent = name;
   document.getElementById('hOpen').textContent = cfg.channel_button || 'Channel';
   if (cfg.channel_url) {
@@ -1107,7 +1167,7 @@ function load(){
 applyConfig();
 wireTgBack();
 diagInit();
-showBridgeBanner();
+maybeBridgeBanner();
 
 /* share button: copies the link to this mini app */
 document.getElementById('hShare').addEventListener('click', function(){
