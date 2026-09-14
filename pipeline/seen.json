@@ -4,6 +4,7 @@
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
     "7a7e61ec30bcddcd097b0f3816df9e99fc0337c8": "2026-09-14",
+    "7d1606a95ea4c2680b5936eeee1bee85c0b6a268": "2026-09-14",
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
@@ -259,6 +260,10 @@
     "60": {
       "kind": "photo",
       "text": "🏛️ <b>UK Prime Minister&#x27;s Advisor Urges Ukraine to Escalate Conflict with Russia</b>\n\nAn advisor to the UK Prime Minister has called on Ukraine to escalate its military actions against Russia. The statement was made amid ongoing hostilities between the two countries. No further details were provided in the source.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/14/sovetnik-premiera-britanii-prizval-ukrainu-k-eskalatsii-konflikta-s-rossiey/\">Lenta.ru</a>"
+    },
+    "61": {
+      "kind": "photo",
+      "text": "⚡ <b>Kherson left without electricity</b>\n\nThe city of Kherson has been completely cut off from power supply. No further details were provided in the report.\n\nSource: <a href=\"https://ria.ru/20260914/kherson-2117541781.html\">RIA Novosti</a>"
     }
   }
 }
