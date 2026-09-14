@@ -5,6 +5,7 @@
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
     "7a7e61ec30bcddcd097b0f3816df9e99fc0337c8": "2026-09-14",
     "7d1606a95ea4c2680b5936eeee1bee85c0b6a268": "2026-09-14",
+    "a3c66e52a495b5bddf44bf88a5f6972b52643da3": "2026-09-14",
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
@@ -264,6 +265,10 @@
     "61": {
       "kind": "photo",
       "text": "⚡ <b>Kherson left without electricity</b>\n\nThe city of Kherson has been completely cut off from power supply. No further details were provided in the report.\n\nSource: <a href=\"https://ria.ru/20260914/kherson-2117541781.html\">RIA Novosti</a>"
+    },
+    "62": {
+      "kind": "text",
+      "text": "⚖️ <b>Fraud group members in Stavropol receive harsher sentences</b>\n\nParticipants in a fraudulent group operating in Stavropol Krai have had their prison sentences increased. The court imposed stricter punishment in the form of incarceration.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28110215\">TASS</a>"
     }
   }
 }
