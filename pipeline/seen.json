@@ -1,5 +1,6 @@
 {
   "seen": {
+    "425de81286dda642462de7271fd7daaa56320d72": "2026-09-15",
     "da2b8ffac7f3047d5efbdb3de2f53c87497e9044": "2026-09-14",
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
@@ -294,6 +295,10 @@
     "67": {
       "kind": "photo",
       "text": "⚠️ <b>Two runners die during Great North Run half-marathon in England</b>\n\nTwo 25-year-old men died while participating in the Great North Run half-marathon in northeast England. The incident occurred during the race, prompting emergency response. No further details about the cause of death have been released.\n\nSource: <a href=\"https://www.sport-interfax.ru/1116102\">Interfax</a>"
+    },
+    "68": {
+      "kind": "photo",
+      "text": "⚖️ <b>Texas landowners sue to halt Trump border wall</b>\n\nIndigenous groups, environmentalists and local landowners have asked a court to block construction of the former president&#x27;s border wall, arguing it infringes on property rights. The Big Bend sector, where the wall is planned, accounts for roughly one percent of overall border arrests.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
