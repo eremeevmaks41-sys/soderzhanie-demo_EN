@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T21:22:31+03:00",
+  "updated_at": "2026-09-14T23:19:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 67,
+      "date": "2026-09-14",
+      "time": "23:13",
+      "title": "Two runners die during Great North Run half-marathon in England",
+      "preview": "Two 25-year-old men died while participating in the Great North Run half-marathon in northeast England. The incident occurred during the race, prompting emergency response. No…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/67",
+      "src": "https://www.sport-interfax.ru/1116102"
+    },
     {
       "id": 65,
       "date": "2026-09-14",

@@ -9,6 +9,7 @@
     "79dd5107bb291cce5403652b2a3bb89fe19d0f79": "2026-09-14",
     "7ca597eabc63d77b763328e85bd756c137b28133": "2026-09-14",
     "5752677090f88e599979a93e110fb50ec8a96bda": "2026-09-14",
+    "717a75c987077465ddb45055a7b87712613a6451": "2026-09-14",
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
@@ -289,6 +290,10 @@
     "66": {
       "kind": "photo",
       "text": "🌍 <b>China rejects claim it is in malicious AI competition</b>\n\nChina has criticised the idea that it is engaged in malicious competition over artificial intelligence development. This follows calls by the CEO of Anthropic for a slowdown in AI advancement to prevent China from gaining an edge in the global AI race.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "67": {
+      "kind": "photo",
+      "text": "⚠️ <b>Two runners die during Great North Run half-marathon in England</b>\n\nTwo 25-year-old men died while participating in the Great North Run half-marathon in northeast England. The incident occurred during the race, prompting emergency response. No further details about the cause of death have been released.\n\nSource: <a href=\"https://www.sport-interfax.ru/1116102\">Interfax</a>"
     }
   }
 }
