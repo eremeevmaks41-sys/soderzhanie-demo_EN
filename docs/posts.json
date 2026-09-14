@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T03:27:54+03:00",
+  "updated_at": "2026-09-14T05:20:05+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 58,
+      "date": "2026-09-14",
+      "time": "05:11",
+      "title": "Tajikistan delegation attends Interpol NCB meeting of CIS countries in Minsk",
+      "preview": "A delegation from Tajikistan's National Central Bureau of Interpol under the Ministry of Internal Affairs participated in a meeting of heads of Interpol NCBs from CIS member…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/58",
+      "src": "https://www.interfax.ru/world/1115912"
+    },
     {
       "id": 56,
       "date": "2026-09-14",
