@@ -2,6 +2,7 @@
   "seen": {
     "da2b8ffac7f3047d5efbdb3de2f53c87497e9044": "2026-09-14",
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
+    "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
     "d6461c8e0bc2aa1683dac2cef009c11a3cf957a8": "2026-09-13",
     "bd30a8cbcd8c76ea8e53e62699565cccc6471a13": "2026-09-13",
     "9ef0193aef84325cfe359a1e03426042b8a61b25": "2026-09-13",
@@ -249,6 +250,10 @@
     "58": {
       "kind": "photo",
       "text": "🏛️ <b>Tajikistan delegation attends Interpol NCB meeting of CIS countries in Minsk</b>\n\nA delegation from Tajikistan&#x27;s National Central Bureau of Interpol under the Ministry of Internal Affairs participated in a meeting of heads of Interpol NCBs from CIS member states held in Minsk, Belarus. The event was announced by Tajikistan&#x27;s MVD press center.\n\nSource: <a href=\"https://www.interfax.ru/world/1115912\">Interfax</a>"
+    },
+    "59": {
+      "kind": "text",
+      "text": "🤝 <b>Canada plans talks on unique alliance with EU</b>\n\nCanadian Prime Minister Mark Carney announced that Canada intends to begin negotiations on a &#x27;unique alliance&#x27; with the European Union. Speaking at the Toronto International Film Festival, he clarified that the partnership does not imply full EU membership.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8953884\">Kommersant</a>"
     }
   }
 }
