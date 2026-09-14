@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T07:21:25+03:00",
+  "updated_at": "2026-09-14T09:27:15+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 60,
+      "date": "2026-09-14",
+      "time": "09:24",
+      "title": "UK Prime Minister's Advisor Urges Ukraine to Escalate Conflict with Russia",
+      "preview": "An advisor to the UK Prime Minister has called on Ukraine to escalate its military actions against Russia. The statement was made amid ongoing hostilities between the two…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/60",
+      "src": "https://lenta.ru/news/2026/09/14/sovetnik-premiera-britanii-prizval-ukrainu-k-eskalatsii-konflikta-s-rossiey/"
+    },
     {
       "id": 59,
       "date": "2026-09-14",
