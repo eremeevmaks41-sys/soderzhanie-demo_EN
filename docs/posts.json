@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T13:19:56+03:00",
+  "updated_at": "2026-09-14T15:26:21+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -288,6 +288,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/52",
       "src": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda"
+    },
+    {
+      "id": 63,
+      "date": "2026-09-12",
+      "time": "17:05",
+      "title": "Six Nigerians extradited to US over $6m romance scam",
+      "preview": "Six Nigerian nationals linked to the Black Axe network were extradited to the United States on Friday to face charges of swindling American women out of more than $6 million…",
+      "tags": [
+        "#worldnews",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/63",
+      "src": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams"
     },
     {
       "id": 42,
