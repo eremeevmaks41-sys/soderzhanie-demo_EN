@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T17:20:47+03:00",
+  "updated_at": "2026-09-15T19:20:05+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 77,
+      "date": "2026-09-15",
+      "time": "18:28",
+      "title": "China can gain Gulf leverage without replacing US militarily",
+      "preview": "China does not need to replace the United States in the Gulf region to increase its influence, according to Al Jazeera. It can achieve strategic leverage through economic and…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/77",
+      "src": "https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss"
+    },
     {
       "id": 76,
       "date": "2026-09-15",

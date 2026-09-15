@@ -8,6 +8,7 @@
     "6758b57b360cfcc28656f00a4b4fe7ca0e34c81d": "2026-09-15",
     "255069b1f48cfd69824242787daa1f9565fd6d1e": "2026-09-15",
     "7f26a2a412865050a37bd2e00a6f98a444463b2b": "2026-09-15",
+    "43619a9e43041f3b13fb9df34952ae12fd009a6f": "2026-09-15",
     "da2b8ffac7f3047d5efbdb3de2f53c87497e9044": "2026-09-14",
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
@@ -339,6 +340,10 @@
     "76": {
       "kind": "photo",
       "text": "💰 <b>Bank of Russia keeps dollar rate at 84 rubles</b>\n\nThe Bank of Russia maintained the official exchange rate of the US dollar at 84 rubles. No change was made to the currency rate as of the latest decision.\n\nSource: <a href=\"https://www.vedomosti.ru/finance/news/2026/09/15/1229043-ostavil-dollar\">Vedomosti</a>"
+    },
+    "77": {
+      "kind": "photo",
+      "text": "🌍 <b>China can gain Gulf leverage without replacing US militarily</b>\n\nChina does not need to replace the United States in the Gulf region to increase its influence, according to Al Jazeera. It can achieve strategic leverage through economic and diplomatic means rather than military overreach. The approach allows Beijing to expand its role while avoiding direct confrontation.\n\nSource: <a href=\"https://www.aljazeera.com/opinions/2026/9/15/china-does-not-need-to-replace-the-us-in-the-gulf?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
