@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T03:28:45+03:00",
+  "updated_at": "2026-09-15T05:21:36+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 70,
+      "date": "2026-09-15",
+      "time": "05:00",
+      "title": "US House committee advances bill to tighten sanctions on Russia",
+      "preview": "The procedural committee of the US House of Representatives approved bringing to a vote a bill to strengthen anti-Russian sanctions. The move signals renewed legislative pressure…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/70",
+      "src": "https://www.interfax.ru/world/1116119"
+    },
     {
       "id": 68,
       "date": "2026-09-15",

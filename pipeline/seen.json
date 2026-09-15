@@ -1,6 +1,7 @@
 {
   "seen": {
     "425de81286dda642462de7271fd7daaa56320d72": "2026-09-15",
+    "820923376357584a4110a4824f21e91a8367b8c9": "2026-09-15",
     "da2b8ffac7f3047d5efbdb3de2f53c87497e9044": "2026-09-14",
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
@@ -304,6 +305,10 @@
     "69": {
       "kind": "photo",
       "text": "🗳️ <b>Swedish left-wing bloc narrowly ahead as election remains too close to call</b>\n\nWith over 90% of ballots processed early Monday, the left-wing bloc in Sweden leads by approximately 20,000 votes. The margin is slim, and the outcome remains uncertain as counting continues. No party has secured a clear majority yet.\n\n• Over 90% of ballots have been processed\n• Left-wing bloc leads by about 20,000 votes\n• Election result is still too close to call\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "70": {
+      "kind": "photo",
+      "text": "🏛️ <b>US House committee advances bill to tighten sanctions on Russia</b>\n\nThe procedural committee of the US House of Representatives approved bringing to a vote a bill to strengthen anti-Russian sanctions. The move signals renewed legislative pressure on Moscow amid ongoing geopolitical tensions.\n\nSource: <a href=\"https://www.interfax.ru/world/1116119\">Interfax</a>"
     }
   }
 }
