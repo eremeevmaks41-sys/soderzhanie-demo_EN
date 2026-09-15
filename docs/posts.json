@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T11:22:41+03:00",
+  "updated_at": "2026-09-15T13:21:35+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 74,
+      "date": "2026-09-15",
+      "time": "13:17",
+      "title": "Serbia pledges to remain brotherly to Russia after elections",
+      "preview": "Belgrade has stated it will maintain close ties with Moscow regardless of the outcome of the upcoming elections in the republic.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/74",
+      "src": "https://tass.ru/mezhdunarodnaya-panorama/28113473"
+    },
     {
       "id": 73,
       "date": "2026-09-15",
