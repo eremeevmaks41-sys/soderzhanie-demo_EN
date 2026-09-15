@@ -1,5 +1,6 @@
 {
   "seen": {
+    "b8330922e18091687ba9a3ea6d11e0c3f78cf04e": "2026-09-16",
     "425de81286dda642462de7271fd7daaa56320d72": "2026-09-15",
     "820923376357584a4110a4824f21e91a8367b8c9": "2026-09-15",
     "4c83ab00227f43199f7ef1b1cc7920c64441d0cc": "2026-09-15",
@@ -349,6 +350,10 @@
     "78": {
       "kind": "photo",
       "text": "⚠️ <b>Denmark accuses Russian warship of firing flares at military helicopter</b>\n\nThe Danish prime minister has accused Russia of &#x27;reckless&#x27; behaviour after a warship fired flares at a military helicopter. The Kremlin has not yet commented on the incident.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "79": {
+      "kind": "photo",
+      "text": "📱 <b>US Senate crypto bill collapses in blow to industry</b>\n\nThe US Senate rejected a bill aimed at creating the first comprehensive federal framework for the digital-asset market. The defeat marks a significant setback for cryptocurrency industry efforts to secure clear regulatory guidelines. No vote count or specific amendments were mentioned in the report.\n\nSource: <a href=\"https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
