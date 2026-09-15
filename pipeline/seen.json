@@ -2,6 +2,7 @@
   "seen": {
     "425de81286dda642462de7271fd7daaa56320d72": "2026-09-15",
     "820923376357584a4110a4824f21e91a8367b8c9": "2026-09-15",
+    "4c83ab00227f43199f7ef1b1cc7920c64441d0cc": "2026-09-15",
     "da2b8ffac7f3047d5efbdb3de2f53c87497e9044": "2026-09-14",
     "8663776fc9a193e7be665157733e660913e2171d": "2026-09-14",
     "abc79c1482c022aa19704aefc4980bb2329d8937": "2026-09-14",
@@ -309,6 +310,10 @@
     "70": {
       "kind": "photo",
       "text": "🏛️ <b>US House committee advances bill to tighten sanctions on Russia</b>\n\nThe procedural committee of the US House of Representatives approved bringing to a vote a bill to strengthen anti-Russian sanctions. The move signals renewed legislative pressure on Moscow amid ongoing geopolitical tensions.\n\nSource: <a href=\"https://www.interfax.ru/world/1116119\">Interfax</a>"
+    },
+    "71": {
+      "kind": "text",
+      "text": "🌍 <b>Tourist agency check volume drops 12% this summer</b>\n\nThe number of checks at tourist agencies fell by 12% year-on-year in June–August 2026, according to Evotor, a provider of cash register equipment and software. Demand for tours and excursions declined across all key regions.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8954767\">Kommersant</a>"
     }
   }
 }
