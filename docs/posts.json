@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T19:21:08+03:00",
+  "updated_at": "2026-09-17T01:18:47+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 89,
+      "date": "2026-09-17",
+      "time": "00:41",
+      "title": "Manchester United lose 3-2-3 to Brighton, crash out of League Cup",
+      "preview": "Brighton staged a comeback from two goals down to defeat Manchester United 3-2 at Old Trafford in the League Cup. The result sees United eliminated from the competition amid a…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/89",
+      "src": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss"
+    },
     {
       "id": 88,
       "date": "2026-09-16",
