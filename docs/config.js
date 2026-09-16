@@ -34,7 +34,7 @@ window.SZ_CONFIG = {
   licensee: "DEMO",
 
   // License key issued by the seller (format SZ-XXXXXXXXXXXXXXXX):
-  license_key: "SZ-976B6BE64F5DF589",
+  license_key: "SZ-480EFC2BE2212C23",
 
   // Short license number for bookkeeping (any label, safe to keep):
   license_id: "demo-en-0001"
