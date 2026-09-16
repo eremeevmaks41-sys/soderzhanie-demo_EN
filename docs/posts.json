@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T17:21:19+03:00",
+  "updated_at": "2026-09-16T19:21:08+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 88,
+      "date": "2026-09-16",
+      "time": "18:53",
+      "title": "Sweden expels Iranian embassy employee over security concerns",
+      "preview": "Swedish authorities have expelled an Iranian embassy employee, alleging the individual was involved in plots targeting Jewish and Israeli interests in the country.",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/88",
+      "src": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss"
+    },
     {
       "id": 87,
       "date": "2026-09-16",
