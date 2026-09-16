@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T03:25:46+03:00",
+  "updated_at": "2026-09-16T05:20:19+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 81,
+      "date": "2026-09-16",
+      "time": "05:05",
+      "title": "Artists withdraw from Ed Sheeran tour after Macklemore removed over Palestine comments",
+      "preview": "Several supporting acts have pulled out of Ed Sheeran's tour following the removal of rapper Macklemore from the lineup due to his pro-Palestine remarks made during a performance…",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#culture"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/81",
+      "src": "https://www.interfax.ru/world/1116314"
+    },
     {
       "id": 79,
       "date": "2026-09-16",
