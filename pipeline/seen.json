@@ -6,6 +6,7 @@
     "c01e6fa91a93e7be1fb920036cc311af4ec0659a": "2026-09-16",
     "1eb86bf76cc15c9ebab015057b1ec20f8b1a6417": "2026-09-16",
     "e67941c7d1bbba298b331a31081026ab2780e915": "2026-09-16",
+    "c1af7c898ec2d3c6191caf8eeb79695f2bf77798": "2026-09-16",
     "425de81286dda642462de7271fd7daaa56320d72": "2026-09-15",
     "820923376357584a4110a4824f21e91a8367b8c9": "2026-09-15",
     "4c83ab00227f43199f7ef1b1cc7920c64441d0cc": "2026-09-15",
@@ -379,6 +380,10 @@
     "84": {
       "kind": "photo",
       "text": "⛽ <b>US diesel price hits record high for second straight day</b>\n\nThe price of diesel fuel in the United States has reached a new historical high, marking the second consecutive day of record-breaking levels. No specific figures or causes were provided in the source.\n\nSource: <a href=\"https://ria.ru/20260916/toplivo-2117982715.html\">RIA Novosti</a>"
+    },
+    "85": {
+      "kind": "text",
+      "text": "✈️ <b>Gelendzhik and Krasnodar airports operate flights under coordination</b>\n\nAirports in Gelendzhik and Krasnodar are currently handling flights only after coordination with relevant authorities. The measure ensures flight safety amid ongoing operational adjustments. No further details on duration or specific restrictions were provided.\n\nSource: <a href=\"https://tass.ru/ekonomika/28117095\">TASS</a>"
     }
   }
 }

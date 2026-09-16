@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T11:21:07+03:00",
+  "updated_at": "2026-09-16T13:20:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 85,
+      "date": "2026-09-16",
+      "time": "13:17",
+      "title": "Gelendzhik and Krasnodar airports operate flights under coordination",
+      "preview": "Airports in Gelendzhik and Krasnodar are currently handling flights only after coordination with relevant authorities. The measure ensures flight safety amid ongoing operational…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/85",
+      "src": "https://tass.ru/ekonomika/28117095"
+    },
     {
       "id": 84,
       "date": "2026-09-16",
