@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T19:20:42+03:00",
+  "updated_at": "2026-09-18T01:18:39+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 99,
+      "date": "2026-09-18",
+      "time": "00:42",
+      "title": "US judge orders 30-day notice before Kennedy Center changes",
+      "preview": "A US judge has ruled that the administration must give 30 days' notice before making any physical changes to the Kennedy Center, amid a legal battle over former President Trump's…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/99",
+      "src": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss"
+    },
     {
       "id": 98,
       "date": "2026-09-17",
