@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T07:20:47+03:00",
+  "updated_at": "2026-09-17T09:25:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 93,
+      "date": "2026-09-17",
+      "time": "09:14",
+      "title": "Smuggled Russian weapons to Ukraine intercepted and shown on video",
+      "preview": "Ukrainian authorities released video footage showing intercepted contraband weapons being smuggled from Russia into Ukraine. The recording captures the seized arms, confirming…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/93",
+      "src": "https://lenta.ru/news/2026/09/17/perehvachennaya-kontrabanda-vooruzheniya-iz-rossii-na-ukrainu-popala-na-video/"
+    },
     {
       "id": 92,
       "date": "2026-09-17",
