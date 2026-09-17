@@ -6,6 +6,7 @@
     "86f03a1798168b4890d81a97f6bc7ba289f33f1e": "2026-09-17",
     "1fe14b3fb37a87f3944646828604df857a98bc5f": "2026-09-17",
     "c2c2363d56dfad530503ec12343fcac83a2ccec5": "2026-09-17",
+    "a32182c5338fa951252a46299e7519801307e5a1": "2026-09-17",
     "b8330922e18091687ba9a3ea6d11e0c3f78cf04e": "2026-09-16",
     "fe0fb910c3ae5200ef9853a46c8e5dd75b551ffc": "2026-09-16",
     "d295f600ada01d9a26d2e512346150ec2939d25a": "2026-09-16",
@@ -429,6 +430,10 @@
     "94": {
       "kind": "photo",
       "text": "🗳️ <b>Three-day voting ensures election security, CEC says</b>\n\nThe Central Election Commission of Russia stated that three-day voting enhances the safety and integrity of elections. The measure is intended to reduce overcrowding at polling stations and improve voter access. No specific dates or voter numbers were provided in the announcement.\n\nSource: <a href=\"https://ria.ru/20260917/vybory-2118207081.html\">RIA Novosti</a>"
+    },
+    "95": {
+      "kind": "photo",
+      "text": "🗳️ <b>Four candidates running for Bryansk region head in 2025</b>\n\nFour candidates have registered to run for the position of Bryansk region governor in the 2025 elections. The race includes multiple contenders vying for leadership of the western Russian region. The elections will determine the next head of the Bryansk Oblast administration.\n\nSource: <a href=\"https://tass.ru/politika/25035265\">TASS</a>"
     }
   }
 }
