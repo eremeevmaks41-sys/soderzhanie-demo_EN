@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T15:25:26+03:00",
+  "updated_at": "2026-09-17T17:21:20+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 97,
+      "date": "2026-09-17",
+      "time": "17:06",
+      "title": "Zakharova says elections will be held amid provocations",
+      "preview": "Russian Foreign Ministry spokesperson Maria Zakharova stated that upcoming elections will take place under conditions of provocations. She did not specify the nature or source of…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/97",
+      "src": "https://www.vedomosti.ru/politics/news/2026/09/17/1229685-vibori-budut-prohodit"
+    },
     {
       "id": 95,
       "date": "2026-09-17",
