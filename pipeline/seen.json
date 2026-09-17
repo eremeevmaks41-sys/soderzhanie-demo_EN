@@ -2,6 +2,7 @@
   "seen": {
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
+    "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
     "b8330922e18091687ba9a3ea6d11e0c3f78cf04e": "2026-09-16",
     "fe0fb910c3ae5200ef9853a46c8e5dd75b551ffc": "2026-09-16",
     "d295f600ada01d9a26d2e512346150ec2939d25a": "2026-09-16",
@@ -409,6 +410,10 @@
     "90": {
       "kind": "photo",
       "text": "💰 <b>US interest rates raised for first time in three years</b>\n\nThe US Federal Reserve raised interest rates in a unanimous decision, marking the first increase in three years. The move came despite strong opposition from President Donald Trump, who had publicly called for a rate cut. The hike reflects ongoing concerns about inflation and economic overheating.\n\n• Rate increase is the first since 2018\n• Decision was unanimous among Fed officials\n• Trump publicly opposed the move and urged a cut\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "91": {
+      "kind": "photo",
+      "text": "📊 <b>Russian Pacific Fleet submarine fires Kalibr missiles in Sea of Japan drill</b>\n\nThe diesel-powered submarine Ufa of Russia&#x27;s Pacific Fleet launched Kalibr cruise missiles during an exercise in the Sea of Japan, hitting both sea and land targets. The first missile successfully struck a maritime shield simulating an enemy warship, according to the fleet&#x27;s press service on Thursday.\n\n• The exercise involved launches against maritime and coastal targets\n• The submarine Ufa is part of Russia&#x27;s Pacific Fleet\n\nSource: <a href=\"https://www.interfax.ru/russia/1116550\">Interfax</a>"
     }
   }
 }

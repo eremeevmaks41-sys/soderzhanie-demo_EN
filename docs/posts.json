@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-17T03:25:50+03:00",
+  "updated_at": "2026-09-17T05:19:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 91,
+      "date": "2026-09-17",
+      "time": "05:03",
+      "title": "Russian Pacific Fleet submarine fires Kalibr missiles in Sea of Japan drill",
+      "preview": "The diesel-powered submarine Ufa of Russia's Pacific Fleet launched Kalibr cruise missiles during an exercise in the Sea of Japan, hitting both sea and land targets. The first…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/91",
+      "src": "https://www.interfax.ru/russia/1116550"
+    },
     {
       "id": 90,
       "date": "2026-09-17",
