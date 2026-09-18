@@ -1,6 +1,7 @@
 {
   "seen": {
     "06fdd2481248fc0d6e95ff4e293779073ea98cd0": "2026-09-18",
+    "eaf6d3508268b31747b8bd6e67092aeef60c3eaa": "2026-09-18",
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
     "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
@@ -459,6 +460,10 @@
     "100": {
       "kind": "photo",
       "text": "🤝 <b>Canada welcomes EU proposal to become associate member</b>\n\nCanadian Prime Minister Mark Carney welcomed the European Union&#x27;s proposal for Canada to become an associate member, stating that a Canada-EU alliance would serve as a beacon for other democracies. The proposal aims to deepen political and economic ties between Canada and the EU without full membership.\n\n• Mark Carney is the Prime Minister of Canada\n• The EU proposal outlines associate membership status for Canada\n• Carney described the alliance as a beacon for other democracies\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "101": {
+      "kind": "photo",
+      "text": "🗳️ <b>Eight regions in Northwestern Federal District begin three-day voting for new regional parliaments</b>\n\nVoting has started in eight regions of Russia&#x27;s Northwestern Federal District for the election of new regional parliament compositions. The three-day voting process is underway, as reported by regional election commissions. No further details on candidates or turnout were provided in the report.\n\nSource: <a href=\"https://www.interfax.ru/russia/1116782\">Interfax</a>"
     }
   }
 }
