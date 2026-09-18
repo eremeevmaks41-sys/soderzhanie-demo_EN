@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T17:19:32+03:00",
+  "updated_at": "2026-09-18T19:19:12+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 108,
+      "date": "2026-09-18",
+      "time": "18:45",
+      "title": "Nigerian forces fire on protesters over detained miners' deaths",
+      "preview": "Nigerian security forces opened fire on protesters demanding justice for 37 miners who died while in police custody in Niger State. The government has pledged a full…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/108",
+      "src": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss"
+    },
     {
       "id": 107,
       "date": "2026-09-18",

@@ -8,6 +8,7 @@
     "e36f605c7c4975f8b40fc33b731c7f3d971e0a2c": "2026-09-18",
     "e88bb11b8b2bb193fd2885aec69d599555243ff5": "2026-09-18",
     "5f45ae6a1286044ef725e1cbf20dbce1c8b094c3": "2026-09-18",
+    "6c96ccdc3c0702d0cbf920cff376413fb3564ede": "2026-09-18",
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
     "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
@@ -494,6 +495,10 @@
     "107": {
       "kind": "photo",
       "text": "🗳️ <b>Voter turnout in Sevastopol State Duma elections exceeds 43%</b>\n\nVoter turnout in Sevastopol for the State Duma elections surpassed 43%, according to official data. The figure reflects participation in the regional voting process. No further details on demographics or timing were provided in the source.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/09/18/1230038-yavka-na-viborah\">Vedomosti</a>"
+    },
+    "108": {
+      "kind": "photo",
+      "text": "⚠️ <b>Nigerian forces fire on protesters over detained miners&#x27; deaths</b>\n\nNigerian security forces opened fire on protesters demanding justice for 37 miners who died while in police custody in Niger State. The government has pledged a full investigation into the miners&#x27; deaths. Demonstrators gathered to condemn the incident and call for accountability.\n\n• 37 miners died while being held in police custody in Niger State\n• Protesters rallied over the deaths of the detained miners\n• Government promised a full investigation into the incident\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
