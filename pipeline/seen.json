@@ -2,6 +2,7 @@
   "seen": {
     "06fdd2481248fc0d6e95ff4e293779073ea98cd0": "2026-09-18",
     "eaf6d3508268b31747b8bd6e67092aeef60c3eaa": "2026-09-18",
+    "d95ec04afce5aa775491c1911684f9b779e02ded": "2026-09-18",
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
     "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
@@ -464,6 +465,10 @@
     "101": {
       "kind": "photo",
       "text": "🗳️ <b>Eight regions in Northwestern Federal District begin three-day voting for new regional parliaments</b>\n\nVoting has started in eight regions of Russia&#x27;s Northwestern Federal District for the election of new regional parliament compositions. The three-day voting process is underway, as reported by regional election commissions. No further details on candidates or turnout were provided in the report.\n\nSource: <a href=\"https://www.interfax.ru/russia/1116782\">Interfax</a>"
+    },
+    "102": {
+      "kind": "text",
+      "text": "🏛️ <b>Lukashenko says Belarus would have shared Ukraine&#x27;s fate if detached from Russia</b>\n\nBelarusian President Alexander Lukashenko stated that Belarus would have followed Ukraine&#x27;s path if Western countries had succeeded in detaching it from Russia in 2020. His remarks came ahead of a visit by a US delegation led by John Kolm, the special envoy for Belarus under President Donald Trump, who arrived in Minsk the previous day.\n\n• Lukashenko made the statement regarding Belarus&#x27;s geopolitical alignment\n• The US delegation arrived in Minsk ahead of the comments\n• John Kolm is the US special envoy for Belarus under President Trump\n\nSource: <a href=\"https://www.kommersant.ru/doc/8957499\">Kommersant</a>"
     }
   }
 }
