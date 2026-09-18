@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T01:18:39+03:00",
+  "updated_at": "2026-09-18T03:26:00+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -48,6 +48,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/97",
       "src": "https://www.vedomosti.ru/politics/news/2026/09/17/1229685-vibori-budut-prohodit"
+    },
+    {
+      "id": 100,
+      "date": "2026-09-17",
+      "time": "15:27",
+      "title": "Canada welcomes EU proposal to become associate member",
+      "preview": "Canadian Prime Minister Mark Carney welcomed the European Union's proposal for Canada to become an associate member, stating that a Canada-EU alliance would serve as a beacon for…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#economy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/100",
+      "src": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 95,
