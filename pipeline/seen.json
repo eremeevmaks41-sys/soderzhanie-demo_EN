@@ -1,5 +1,6 @@
 {
   "seen": {
+    "1416f046f8c5eb3b10aee14d08b269246ee4e080": "2026-09-19",
     "06fdd2481248fc0d6e95ff4e293779073ea98cd0": "2026-09-18",
     "eaf6d3508268b31747b8bd6e67092aeef60c3eaa": "2026-09-18",
     "d95ec04afce5aa775491c1911684f9b779e02ded": "2026-09-18",
@@ -504,6 +505,10 @@
     "109": {
       "kind": "photo",
       "text": "⚠️ <b>Macron warns of intensifying Russian hybrid attacks on Europe</b>\n\nFrench President Emmanuel Macron said Russian hybrid attacks against Europe are intensifying. He has tasked the government with protecting critical infrastructure and defence industry sites. No specific incidents or casualties were mentioned.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "110": {
+      "kind": "photo",
+      "text": "🏛️ <b>Trump claims deal with Denmark gives US permanent control over Greenland</b>\n\nFormer US President Donald Trump stated that an agreement with Denmark grants the United States permanent control over Greenland. He made the comment amid ongoing discussions about Arctic strategy and territorial influence. No details of the alleged deal were provided in the statement.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
