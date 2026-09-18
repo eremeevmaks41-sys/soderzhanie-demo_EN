@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T07:19:51+03:00",
+  "updated_at": "2026-09-18T09:24:32+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 103,
+      "date": "2026-09-18",
+      "time": "09:18",
+      "title": "Russians told how many May holidays in 2027",
+      "preview": "In 2027, Russians will have 11 days off in May, including public holidays and weekends. The extended break results from the alignment of fixed holidays with surrounding weekends.…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/103",
+      "src": "https://lenta.ru/news/2026/09/18/rossiyanam-rasskazali-o-kolichestve-mayskih-prazdnikov-v-2027-godu/"
+    },
     {
       "id": 102,
       "date": "2026-09-18",
