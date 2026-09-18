@@ -4,6 +4,7 @@
     "eaf6d3508268b31747b8bd6e67092aeef60c3eaa": "2026-09-18",
     "d95ec04afce5aa775491c1911684f9b779e02ded": "2026-09-18",
     "2ee3fb0ae127a3051e88eeaa82f1a400388f5c8e": "2026-09-18",
+    "cfcbcbf7ebdb250ae129ee6ae489fe3ce3e05f31": "2026-09-18",
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
     "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
@@ -474,6 +475,10 @@
     "103": {
       "kind": "photo",
       "text": "🗞️ <b>Russians told how many May holidays in 2027</b>\n\nIn 2027, Russians will have 11 days off in May, including public holidays and weekends. The extended break results from the alignment of fixed holidays with surrounding weekends. Official calendars confirm the total count for planning purposes.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/18/rossiyanam-rasskazali-o-kolichestve-mayskih-prazdnikov-v-2027-godu/\">Lenta.ru</a>"
+    },
+    "104": {
+      "kind": "photo",
+      "text": "🗳️ <b>No large crowds expected at State Duma elections, Pamfilova says</b>\n\nElla Pamfilova, head of Russia&#x27;s Central Election Commission, stated that there will be no large gatherings of people during the upcoming State Duma elections. She made the remark in response to concerns about potential mass turnout. No specific date or voter numbers were provided in the statement.\n\nSource: <a href=\"https://ria.ru/20260918/pamfilova-2118438015.html\">RIA Novosti</a>"
     }
   }
 }
