@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T17:18:26+03:00",
+  "updated_at": "2026-09-19T19:19:07+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 119,
+      "date": "2026-09-19",
+      "time": "18:58",
+      "title": "Police hiring standards alone cannot stop abuse in US",
+      "preview": "Law enforcement in the United States requires high hiring standards, but they are insufficient to prevent abuse. Reform and trust-building with communities are also necessary…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/119",
+      "src": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss"
+    },
     {
       "id": 118,
       "date": "2026-09-19",

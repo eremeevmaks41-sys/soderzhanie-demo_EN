@@ -9,6 +9,7 @@
     "5431cf944793d12f74a52bbfc4fc057bee1b3d6c": "2026-09-19",
     "485e0252accaf8ba31f593a1a8d9b0e4627bcc9a": "2026-09-19",
     "39ca72f19ad521dd7a556c121f4ffa00c6cb10f1": "2026-09-19",
+    "8588639cdc11c568e5ff864bd6848419fbec4092": "2026-09-19",
     "06fdd2481248fc0d6e95ff4e293779073ea98cd0": "2026-09-18",
     "eaf6d3508268b31747b8bd6e67092aeef60c3eaa": "2026-09-18",
     "d95ec04afce5aa775491c1911684f9b779e02ded": "2026-09-18",
@@ -549,6 +550,10 @@
     "118": {
       "kind": "photo",
       "text": "🗳️ <b>Voter turnout on federal DЭG platform reaches 80%</b>\n\nVoter turnout on Russia&#x27;s federal electronic voting platform (DЭG) reached 80%, according to Vedomosti. The figure reflects participation in the ongoing federal elections or referendum conducted via the DЭG system. No further details on timing, region, or specific vote were provided in the source.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/09/19/1230184-yavka-deg-dostigla\">Vedomosti</a>"
+    },
+    "119": {
+      "kind": "photo",
+      "text": "⚖️ <b>Police hiring standards alone cannot stop abuse in US</b>\n\nLaw enforcement in the United States requires high hiring standards, but they are insufficient to prevent abuse. Reform and trust-building with communities are also necessary, according to Al Jazeera. The statement emphasizes systemic change beyond recruitment.\n\nSource: <a href=\"https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
