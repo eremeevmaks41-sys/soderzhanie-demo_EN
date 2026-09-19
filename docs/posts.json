@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T01:18:45+03:00",
+  "updated_at": "2026-09-19T03:25:51+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 111,
+      "date": "2026-09-19",
+      "time": "01:58",
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "preview": "The United States and Denmark have reached an agreement regarding Greenland following threats by former US President Donald Trump to annex the territory. Trump stated the deal…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/111",
+      "src": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 110,
       "date": "2026-09-19",
