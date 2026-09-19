@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T13:18:35+03:00",
+  "updated_at": "2026-09-19T15:23:33+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -75,6 +75,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/112",
       "src": "https://www.interfax.ru/russia/1117019"
+    },
+    {
+      "id": 117,
+      "date": "2026-09-19",
+      "time": "02:08",
+      "title": "US deportees beaten in Equatorial Guinea hotel, lawyers say",
+      "preview": "Two men expelled by the Trump administration were bound, beaten and pushed down stairs at a hotel in Equatorial Guinea, witnesses say. About 30 other US deportees remain trapped…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/117",
+      "src": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea"
     },
     {
       "id": 111,
