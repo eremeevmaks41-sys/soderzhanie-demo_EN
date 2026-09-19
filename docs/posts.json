@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T15:23:33+03:00",
+  "updated_at": "2026-09-19T17:18:26+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 118,
+      "date": "2026-09-19",
+      "time": "17:09",
+      "title": "Voter turnout on federal DЭG platform reaches 80%",
+      "preview": "Voter turnout on Russia's federal electronic voting platform (DЭG) reached 80%, according to Vedomosti. The figure reflects participation in the ongoing federal elections or…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/118",
+      "src": "https://www.vedomosti.ru/politics/news/2026/09/19/1230184-yavka-deg-dostigla"
+    },
     {
       "id": 116,
       "date": "2026-09-19",
