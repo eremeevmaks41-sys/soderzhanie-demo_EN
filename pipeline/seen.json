@@ -27,6 +27,7 @@
     "5f45ae6a1286044ef725e1cbf20dbce1c8b094c3": "2026-09-18",
     "6c96ccdc3c0702d0cbf920cff376413fb3564ede": "2026-09-18",
     "ec5a8ef7b2b4306444eaa28b315c645ff68ae905": "2026-09-18",
+    "f19cf989746913bd794862c461826ae99c620ca8": "2026-09-18",
     "e250987ea99eeb1c7f4261156e3119f892a598c5": "2026-09-17",
     "c399c745b0c86ac5de061e5aefeb69c9619d1422": "2026-09-17",
     "ef60042c32d544d4c7a1b2f017eb94627b9856e7": "2026-09-17",
@@ -589,6 +590,10 @@
     "126": {
       "kind": "text",
       "text": "🏛️ <b>Moscow motorcycle patrol concludes seasonal operations</b>\n\nThe Moscow motorcycle patrol service has finished its seasonal work. Over its entire existence, the unit has assisted drivers approximately 800 times.\n\nSource: <a href=\"https://tass.ru/obschestvo/28130793\">TASS</a>"
+    },
+    "127": {
+      "kind": "photo",
+      "text": "⚠️ <b>37 suspected illegal goldminers, many children, die in Nigerian prison cell</b>\n\nSurvivors recounted panic and struggle to breathe in a Nigeria Security and Civil Defence Corps cell in Minna where 37 suspected illegal goldminers, many of them children, died this week. Police fired teargas on Friday as protests broke out over the deaths, imposing an overnight curfew in the city. The NSCDC had raided suspected illegal…\n\n• Many of the victims were children\n• Police imposed an overnight curfew in Minna after protests\n• The NSCDC raided suspected illegal goldmines prior to the arrests\n\nSource: <a href=\"https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna\">The Guardian</a>"
     }
   }
 }
