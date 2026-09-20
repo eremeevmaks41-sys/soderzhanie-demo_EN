@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T09:23:34+03:00",
+  "updated_at": "2026-09-20T11:20:05+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 125,
+      "date": "2026-09-20",
+      "time": "11:18",
+      "title": "Former England footballer injured by lawn roller",
+      "preview": "A former England national team footballer was struck by a lawn roller during an incident. The event occurred in the United Kingdom, though specific location and time were not…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/125",
+      "src": "https://ria.ru/20260920/katok-2118901260.html"
+    },
     {
       "id": 124,
       "date": "2026-09-20",
