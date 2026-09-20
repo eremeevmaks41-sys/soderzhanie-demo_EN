@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T21:20:44+03:00",
+  "updated_at": "2026-09-20T23:19:00+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 131,
+      "date": "2026-09-20",
+      "time": "23:04",
+      "title": "Yabloko party fails to enter Novgorod regional legislature with 4.9% after 4.24% of ballots counted",
+      "preview": "The Yabloko party received 4.9% of the vote in the elections to the Novgorod Oblast Duma of the eighth convocation, based on the counting of 4.24% of protocols, according to data…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/131",
+      "src": "https://www.interfax.ru/russia/1117283"
+    },
     {
       "id": 130,
       "date": "2026-09-20",
