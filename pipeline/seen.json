@@ -1,6 +1,7 @@
 {
   "seen": {
     "a1064a530d0f8fe52a289b8c40a3d904583d66ae": "2026-09-20",
+    "7208651c9047101df08a6f8dc7113cd9bf056f82": "2026-09-20",
     "1416f046f8c5eb3b10aee14d08b269246ee4e080": "2026-09-19",
     "8b1912a6f8ddddd58c9f4147a47833b5ec1661ec": "2026-09-19",
     "4674683e002ffa17338612f0fedfdb17d0cb97e9": "2026-09-19",
@@ -564,6 +565,10 @@
     "121": {
       "kind": "photo",
       "text": "⚠️ <b>Houthis claim ballistic missile strike on Riyadh</b>\n\nThe Houthi movement said it launched ballistic missiles at Saudi Arabia&#x27;s capital, Riyadh, targeting a fuel depot at the airport. Saudi authorities reported intercepting the missile, which caused delays at the airport on Saturday. No casualties were mentioned in the reports.\n\n• Houthi rebels claimed responsibility for the missile attack\n• Saudi Arabia stated it shot down the incoming ballistic missile\n• The strike reportedly hit a fuel depot at Riyadh airport, causing flight delays\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "122": {
+      "kind": "photo",
+      "text": "✈️ <b>Penza Airport Resumes Normal Operations</b>\n\nPenza Airport has returned to regular operations after restrictions were lifted, according to Russia&#x27;s Federal Air Transport Agency. The agency announced via its Max messenger channel that limitations on aircraft arrivals and departures have been removed.\n\nSource: <a href=\"https://www.interfax.ru/russia/1117138\">Interfax</a>"
     }
   }
 }
