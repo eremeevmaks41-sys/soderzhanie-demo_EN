@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T23:19:00+03:00",
+  "updated_at": "2026-09-21T01:17:48+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 132,
+      "date": "2026-09-21",
+      "time": "01:06",
+      "title": "France to summon Iran envoy after Tehran language centre closure",
+      "preview": "France plans to summon Iran's ambassador following the closure of a French language centre in Tehran. Iran accused the centre of conducting illegal acts that violated diplomatic…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/132",
+      "src": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss"
+    },
     {
       "id": 131,
       "date": "2026-09-20",
