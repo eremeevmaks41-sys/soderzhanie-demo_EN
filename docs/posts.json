@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T11:24:05+03:00",
+  "updated_at": "2026-09-21T13:20:15+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 138,
+      "date": "2026-09-21",
+      "time": "13:16",
+      "title": "Bridge over Tumannaya River completed in Primorye, key logistics route opened",
+      "preview": "Authorities in Primorsky Krai announced the completion of the bridge over the Tumannaya River, which has closed a critical gap in a major logistics corridor. The development of…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/138",
+      "src": "https://tass.ru/ekonomika/28134811"
+    },
     {
       "id": 137,
       "date": "2026-09-21",
