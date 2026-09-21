@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T03:26:52+03:00",
+  "updated_at": "2026-09-21T05:21:27+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 134,
+      "date": "2026-09-21",
+      "time": "05:02",
+      "title": "Russian forces destroy 130 Ukrainian drone command posts in a day",
+      "preview": "Russian troops struck over 130 Ukrainian drone command posts and more than 100 ground robotic complexes in the zone of the special military operation over the past 24 hours…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/134",
+      "src": "https://www.interfax.ru/russia/1117329"
+    },
     {
       "id": 132,
       "date": "2026-09-21",
