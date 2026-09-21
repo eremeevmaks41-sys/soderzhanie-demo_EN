@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T07:20:02+03:00",
+  "updated_at": "2026-09-21T09:27:18+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 136,
+      "date": "2026-09-21",
+      "time": "09:20",
+      "title": "Russian National Guard destroys Ukrainian position with drones",
+      "preview": "Footage released by the National Guard shows the destruction of a camouflaged Ukrainian position using unmanned aerial vehicles. The strike was carried out in a specified…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/136",
+      "src": "https://lenta.ru/news/2026/09/21/rosgvardiya-pokazala-na-video-unichtozhenie/"
+    },
     {
       "id": 135,
       "date": "2026-09-21",
