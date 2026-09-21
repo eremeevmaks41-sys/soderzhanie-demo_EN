@@ -4,6 +4,7 @@
     "f50c049d56088aba8075b9fa55107d55407ac189": "2026-09-21",
     "0627a78879ba002c5b7df2239014f5b3945d961d": "2026-09-21",
     "66f3cf403692580265389a1cbfdd771f7f0050e0": "2026-09-21",
+    "1ebeb4f6a173d12bd6fea277231e979e7f6ed099": "2026-09-21",
     "a1064a530d0f8fe52a289b8c40a3d904583d66ae": "2026-09-20",
     "7208651c9047101df08a6f8dc7113cd9bf056f82": "2026-09-20",
     "7018fd6d0a0572c624a5385786245d87e9df2cbc": "2026-09-20",
@@ -639,6 +640,10 @@
     "136": {
       "kind": "photo",
       "text": "⚠️ <b>Russian National Guard destroys Ukrainian position with drones</b>\n\nFootage released by the National Guard shows the destruction of a camouflaged Ukrainian position using unmanned aerial vehicles. The strike was carried out in a specified operational area.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/21/rosgvardiya-pokazala-na-video-unichtozhenie/\">Lenta.ru</a>"
+    },
+    "137": {
+      "kind": "photo",
+      "text": "🗳️ <b>Public observers played key role in elections, says ombudsman</b>\n\nPublic observers played a key role in the recent elections, the Russian Ombudsman for Human Rights (SPC) stated. Their contribution was highlighted as significant for the vote&#x27;s transparency.\n\nSource: <a href=\"https://ria.ru/20260921/vybory-2119202058.html\">RIA Novosti</a>"
     }
   }
 }
