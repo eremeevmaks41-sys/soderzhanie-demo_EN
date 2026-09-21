@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T17:21:26+03:00",
+  "updated_at": "2026-09-21T19:21:51+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 141,
+      "date": "2026-09-21",
+      "time": "18:21",
+      "title": "Antonio Guterres: Can the UN still meet today's global crises?",
+      "preview": "UN Secretary-General Antonio Guterres discusses the organization's capacity to address escalating global challenges in an interview with Al Jazeera.",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/141",
+      "src": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss"
+    },
     {
       "id": 140,
       "date": "2026-09-21",
