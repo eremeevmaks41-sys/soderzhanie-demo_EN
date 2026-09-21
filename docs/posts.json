@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T13:20:15+03:00",
+  "updated_at": "2026-09-21T15:23:29+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -47,6 +47,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/136",
       "src": "https://lenta.ru/news/2026/09/21/rosgvardiya-pokazala-na-video-unichtozhenie/"
+    },
+    {
+      "id": 139,
+      "date": "2026-09-21",
+      "time": "08:00",
+      "title": "Trump’s secret deportation deals send migrants to unknown African countries",
+      "preview": "An investigation by The Guardian reveals that thousands of migrants, including an Iranian woman deported in shackles, were secretly sent to unfamiliar African nations under…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/139",
+      "src": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
     },
     {
       "id": 135,
