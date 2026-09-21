@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T15:23:29+03:00",
+  "updated_at": "2026-09-21T17:21:26+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 140,
+      "date": "2026-09-21",
+      "time": "17:01",
+      "title": "Medvedev slams Le Pen over Ashana assets remarks",
+      "preview": "Former Russian President Dmitry Medvedev has criticized far-right French politician Marine Le Pen for her comments regarding the assets of the French retail chain Ashena, now…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/140",
+      "src": "https://www.vedomosti.ru/politics/news/2026/09/21/1230579-medvedev-raskritikoval-le-pen"
+    },
     {
       "id": 138,
       "date": "2026-09-21",
