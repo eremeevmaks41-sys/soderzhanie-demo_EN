@@ -7,6 +7,7 @@
     "70dff877bc55cc4bf439ee56e2e74fa97ada8f46": "2026-09-22",
     "a2808e21a948037e9df828e60a7278e1f0aba093": "2026-09-22",
     "7178386e564fa5eb184f1d611324efaea567d4d4": "2026-09-22",
+    "2d21281d7127f641b9e658ffb21101fe6d77f14a": "2026-09-22",
     "6aae4ccd45f667904d5838d6fe1fe583150bad61": "2026-09-21",
     "f50c049d56088aba8075b9fa55107d55407ac189": "2026-09-21",
     "0627a78879ba002c5b7df2239014f5b3945d961d": "2026-09-21",
@@ -704,6 +705,10 @@
     "149": {
       "kind": "text",
       "text": "🔥 <b>One person died in a fire at a shopping complex in Sterlitamak</b>\n\nA fire broke out at a shopping complex in Sterlitamak, resulting in one fatality. The incident was reported by TASS. No further details about the cause or extent of the fire were provided.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28139009\">TASS</a>"
+    },
+    "150": {
+      "kind": "photo",
+      "text": "💊 <b>US aid withdrawal strains healthcare in Africa and Global South</b>\n\nA new report from Accra Reset warns that the United States&#x27; withdrawal from key aid programs, including USAID, has placed healthcare in Africa and the Global South under growing strain. The report cites the Trump administration&#x27;s funding cuts, the lingering effects of the Covid-19 pandemic, and rising global living costs as compounding…\n\n• Report urges countries in Africa and the Global South to take greater control of their health…\n• USAID program cuts are highlighted as a major driver of the current healthcare strain\n• The combination of aid withdrawal, pandemic aftermath, and cost-of-living pressures creates new…\n\nSource: <a href=\"https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl\">The Guardian</a>"
     }
   }
 }
