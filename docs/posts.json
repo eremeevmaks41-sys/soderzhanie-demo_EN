@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T03:25:49+03:00",
+  "updated_at": "2026-09-22T05:19:12+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 145,
+      "date": "2026-09-22",
+      "time": "05:06",
+      "title": "Fire at Nerungri Power Plant in Yakutia Extinguished",
+      "preview": "A fire at the Nerungri State District Power Plant (GRES) in Yakutia has been extinguished, according to the press service of PJSC 'Far Eastern Generating Company' (DGK). The…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/145",
+      "src": "https://www.interfax.ru/russia/1117597"
+    },
     {
       "id": 144,
       "date": "2026-09-22",
