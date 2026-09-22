@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T01:19:20+03:00",
+  "updated_at": "2026-09-22T03:25:49+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 144,
+      "date": "2026-09-22",
+      "time": "03:16",
+      "title": "CNN, MSNBC and Politico sue Trump White House over press access ban",
+      "preview": "Major US news networks CNN, MSNBC and Politico have filed a lawsuit challenging the Trump administration's ban on their reporters from White House events. The ban came as Trump…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/144",
+      "src": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 143,
       "date": "2026-09-22",
