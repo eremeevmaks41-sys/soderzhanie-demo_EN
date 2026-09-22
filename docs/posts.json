@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T11:20:30+03:00",
+  "updated_at": "2026-09-22T13:20:49+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 149,
+      "date": "2026-09-22",
+      "time": "13:16",
+      "title": "One person died in a fire at a shopping complex in Sterlitamak",
+      "preview": "A fire broke out at a shopping complex in Sterlitamak, resulting in one fatality. The incident was reported by TASS. No further details about the cause or extent of the fire were…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/149",
+      "src": "https://tass.ru/proisshestviya/28139009"
+    },
     {
       "id": 148,
       "date": "2026-09-22",
