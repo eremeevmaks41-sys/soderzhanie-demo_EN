@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T01:18:39+03:00",
+  "updated_at": "2026-09-23T05:19:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 154,
+      "date": "2026-09-23",
+      "time": "04:53",
+      "title": "Pacific Fleet Conducts Anti-Drone Drills in South China Sea",
+      "preview": "A task force of the Russian Pacific Fleet conducted comprehensive anti-drone defense exercises in the South China Sea on Wednesday, using Ka-27 shipborne helicopters. During the…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/154",
+      "src": "https://www.interfax.ru/russia/1117859"
+    },
     {
       "id": 153,
       "date": "2026-09-23",
