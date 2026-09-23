@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T07:21:09+03:00",
+  "updated_at": "2026-09-23T09:25:32+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 156,
+      "date": "2026-09-23",
+      "time": "09:17",
+      "title": "Former Russia national team footballer refuses to call Batrakova a European-level player",
+      "preview": "A former Russia national team footballer has sparked controversy by stating that women's football star Batrakova does not meet the European level. The comments have reignited…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/156",
+      "src": "https://lenta.ru/news/2026/09/23/byvshiy-futbolist-sbornoy-rossii-otkazalsya-schitat-batrakova-igrokom-evropeyskogo-urovnya/"
+    },
     {
       "id": 155,
       "date": "2026-09-23",
