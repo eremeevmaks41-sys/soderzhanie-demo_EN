@@ -1,5 +1,6 @@
 {
   "seen": {
+    "5bbdeeff0cd4610054a7b580421e53e7b10eb37c": "2026-09-24",
     "b87b60a944017efaa7ae5e098b6b69e607295bdc": "2026-09-23",
     "c93b3ae95ababaf877c90575ee72942ec357579b": "2026-09-23",
     "f31498db0f274e15030cf27f154263fb977f0fff": "2026-09-23",
@@ -769,6 +770,10 @@
     "162": {
       "kind": "photo",
       "text": "🏛️ <b>Kremlin welcomes US invitation for Putin to attend G20 summit</b>\n\nKremlin spokesman Dmitry Peskov said Russia welcomes and is grateful for the US invitation to President Vladimir Putin to attend the G20 summit. He added that the matter will be further worked out through diplomatic channels.\n\n• Peskov made the statement to Interfax on Wednesday\n• Russia will decide on participation after diplomatic discussions\n\nSource: <a href=\"https://www.interfax.ru/russia/1118082\">Interfax</a>"
+    },
+    "163": {
+      "kind": "photo",
+      "text": "🛡️ <b>FBI investigating breach of sensitive data by hacker group ShinyHunters</b>\n\nThe FBI says it is investigating a breach of &#x27;very sensitive&#x27; data after hacker group ShinyHunters claimed to have obtained detailed information on thousands of FBI employees. The claim involves personal data potentially compromising agent identities and security. No further details about the scope or method of the breach have been…\n\n• ShinyHunters claims to have data on thousands of FBI employees\n• FBI confirms investigation into breach of &#x27;very sensitive&#x27; data\n• Nature and extent of compromised data not yet disclosed\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
