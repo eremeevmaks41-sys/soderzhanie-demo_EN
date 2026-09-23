@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T05:19:31+03:00",
+  "updated_at": "2026-09-23T07:21:09+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 155,
+      "date": "2026-09-23",
+      "time": "07:06",
+      "title": "Neryungri Power Plant in Yakutia Halts Operations After Fire",
+      "preview": "The Neryungri State Regional Electric Power Station in Yakutia ceased operations following a fire, triggering an increased readiness regime. Russian Foreign Minister Sergey…",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#politics"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/155",
+      "src": "https://www.kommersant.ru/doc/8972771"
+    },
     {
       "id": 154,
       "date": "2026-09-23",
