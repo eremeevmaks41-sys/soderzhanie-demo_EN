@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T09:25:34+03:00",
+  "updated_at": "2026-09-24T11:21:39+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 168,
+      "date": "2026-09-24",
+      "time": "11:20",
+      "title": "Finance Ministry names strategic priority for 2027–2029 budget",
+      "preview": "The Russian Finance Ministry has identified the strategic priority for the federal budget covering 2027 to 2029. The announcement was made by the ministry, though specific…",
+      "tags": [
+        "#russia",
+        "#economy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/168",
+      "src": "https://ria.ru/20260924/minfin-2119945714.html"
+    },
     {
       "id": 167,
       "date": "2026-09-24",
