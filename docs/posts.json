@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T03:26:08+03:00",
+  "updated_at": "2026-09-24T05:19:25+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 165,
+      "date": "2026-09-24",
+      "time": "04:47",
+      "title": "Xi Jinping calls for China-US partnership, not rivalry",
+      "preview": "Chinese President Xi Jinping stated that China and the United States should be partners, not rivals, emphasizing their intertwined interests. He made the remarks in a written…",
+      "tags": [
+        "#russia",
+        "#politics",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/165",
+      "src": "https://www.interfax.ru/world/1118105"
+    },
     {
       "id": 164,
       "date": "2026-09-24",
