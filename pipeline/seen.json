@@ -8,6 +8,7 @@
     "633bbf303dc530ac99e04de01ee643a6b5e63720": "2026-09-25",
     "547fd952d0d24542453adc8d6ff9616c724eff8d": "2026-09-25",
     "3fcdcc9d63926503204fe64e797081b33e6b606b": "2026-09-25",
+    "45347e9cb104943b30f2fe123ddacae4b9ca104d": "2026-09-25",
     "5bbdeeff0cd4610054a7b580421e53e7b10eb37c": "2026-09-24",
     "36f56484d09b54144b65dd7beb0beb5dbf1a8e7e": "2026-09-24",
     "8ae69edd168c56b698d150d0fe48df3c5af91374": "2026-09-24",
@@ -859,6 +860,10 @@
     "180": {
       "kind": "photo",
       "text": "📈 <b>Moscow to experience warm start to October</b>\n\nA meteorologist has forecasted warm weather at the beginning of October in Moscow. Temperatures are expected to be above seasonal averages for the time of year.\n\nSource: <a href=\"https://www.vedomosti.ru/society/news/2026/09/25/1231958-teploe-nachalo\">Vedomosti</a>"
+    },
+    "181": {
+      "kind": "photo",
+      "text": "🏆 <b>Turkiye vs France UEFA Nations League match live updates</b>\n\nAl Jazeera provides live text commentary of the UEFA Nations League match between Turkiye and France. The coverage includes build-up, predictions, team news, and confirmed lineups. Follow real-time updates from the fixture.\n\nSource: <a href=\"https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
