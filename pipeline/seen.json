@@ -3,6 +3,7 @@
     "1cec76999d6e862be22697b34a2409bb863b4fee": "2026-09-25",
     "1b05ffe3cf87969245fb48410623753bf1850533": "2026-09-25",
     "bc1e9b92cf4fca75c343bd0c91555f26cf2a870d": "2026-09-25",
+    "0dabb980a1b1a63805f83e8c4d8a3eb54d4098a4": "2026-09-25",
     "5bbdeeff0cd4610054a7b580421e53e7b10eb37c": "2026-09-24",
     "36f56484d09b54144b65dd7beb0beb5dbf1a8e7e": "2026-09-24",
     "8ae69edd168c56b698d150d0fe48df3c5af91374": "2026-09-24",
@@ -834,6 +835,10 @@
     "175": {
       "kind": "photo",
       "text": "⚠️ <b>Drone danger mode declared in Sverdlovsk region</b>\n\nGovernor Denis Pasler announced the introduction of a drone danger mode across Sverdlovsk Oblast. The measure was implemented due to heightened risks from unmanned aerial vehicles. No further details on timing or specific threats were provided in the statement.\n\nSource: <a href=\"https://www.interfax.ru/russia/1118373\">Interfax</a>"
+    },
+    "176": {
+      "kind": "text",
+      "text": "⚠️ <b>Eight injured in drone attack on Ulyanovsk region</b>\n\nEight people were injured in a drone strike on Ulyanovsk Oblast on the morning of September 25, with industrial and civilian infrastructure damaged. Moscow Mayor Sergei Sobyanin reported that 17 drones were shot down approaching the city since the start of the day. The information was confirmed by Ulyanovsk Oblast Governor Alexei…\n\n• Eight people injured in Ulyanovsk drone attack\n• 17 drones intercepted near Moscow since start of day\n• Industrial and civilian infrastructure damaged in Ulyanovsk\n\nSource: <a href=\"https://www.kommersant.ru/doc/8974709\">Kommersant</a>"
     }
   }
 }
