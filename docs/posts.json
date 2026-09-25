@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T19:20:46+03:00",
+  "updated_at": "2026-09-25T21:22:02+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -33,6 +33,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/180",
       "src": "https://www.vedomosti.ru/society/news/2026/09/25/1231958-teploe-nachalo"
+    },
+    {
+      "id": 182,
+      "date": "2026-09-25",
+      "time": "16:56",
+      "title": "FBI hack exposes special agents' blood and urine test results",
+      "preview": "Hackers stole sensitive medical data including blood and urine test results of FBI special agents in a cybersecurity breach. Experts warn the leaked information could be used for…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#technology"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/182",
+      "src": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 179,
