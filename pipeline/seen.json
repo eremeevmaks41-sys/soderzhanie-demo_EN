@@ -7,6 +7,7 @@
     "7471edc2c368e65664fe51a4f6a56bd130147b03": "2026-09-25",
     "633bbf303dc530ac99e04de01ee643a6b5e63720": "2026-09-25",
     "547fd952d0d24542453adc8d6ff9616c724eff8d": "2026-09-25",
+    "3fcdcc9d63926503204fe64e797081b33e6b606b": "2026-09-25",
     "5bbdeeff0cd4610054a7b580421e53e7b10eb37c": "2026-09-24",
     "36f56484d09b54144b65dd7beb0beb5dbf1a8e7e": "2026-09-24",
     "8ae69edd168c56b698d150d0fe48df3c5af91374": "2026-09-24",
@@ -854,6 +855,10 @@
     "179": {
       "kind": "text",
       "text": "💰 <b>Rosseti buys back 2,600 shares in additional issue</b>\n\nRosseti repurchased 2,600 shares as part of an additional share issuance. The placement price was set at 0.5 rubles per share. The transaction was conducted under the company&#x27;s approved additional emission program.\n\nSource: <a href=\"https://tass.ru/ekonomika/28151417\">TASS</a>"
+    },
+    "180": {
+      "kind": "photo",
+      "text": "📈 <b>Moscow to experience warm start to October</b>\n\nA meteorologist has forecasted warm weather at the beginning of October in Moscow. Temperatures are expected to be above seasonal averages for the time of year.\n\nSource: <a href=\"https://www.vedomosti.ru/society/news/2026/09/25/1231958-teploe-nachalo\">Vedomosti</a>"
     }
   }
 }
