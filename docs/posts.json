@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T21:22:02+03:00",
+  "updated_at": "2026-09-26T01:18:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 183,
+      "date": "2026-09-26",
+      "time": "00:37",
+      "title": "Netanyahu labels Al Jazeera a toxic media outlet",
+      "preview": "Israeli Prime Minister Benjamin Netanyahu described Al Jazeera as a toxic media outlet. The remark was made publicly by Netanyahu, targeting the Qatar-based news network. No…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/183",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss"
+    },
     {
       "id": 181,
       "date": "2026-09-25",

@@ -1,5 +1,6 @@
 {
   "seen": {
+    "6d34bc61394aaa0640dcbee752ec6ec7f9490f98": "2026-09-26",
     "1cec76999d6e862be22697b34a2409bb863b4fee": "2026-09-25",
     "1b05ffe3cf87969245fb48410623753bf1850533": "2026-09-25",
     "bc1e9b92cf4fca75c343bd0c91555f26cf2a870d": "2026-09-25",
@@ -869,6 +870,10 @@
     "182": {
       "kind": "photo",
       "text": "⚠️ <b>FBI hack exposes special agents&#x27; blood and urine test results</b>\n\nHackers stole sensitive medical data including blood and urine test results of FBI special agents in a cybersecurity breach. Experts warn the leaked information could be used for scams, blackmail or targeted attacks against the agents. The incident highlights ongoing vulnerabilities in federal agency data protection.\n\n• Stolen data includes blood and urine test results of FBI special agents\n• Experts say hack could enable scams, blackmail and targeted attacks\n• Breach raises concerns about security of sensitive federal employee information\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "183": {
+      "kind": "photo",
+      "text": "🏛️ <b>Netanyahu labels Al Jazeera a toxic media outlet</b>\n\nIsraeli Prime Minister Benjamin Netanyahu described Al Jazeera as a toxic media outlet. The remark was made publicly by Netanyahu, targeting the Qatar-based news network. No further context or details were provided in the statement.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
