@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-26T01:18:55+03:00",
+  "updated_at": "2026-09-26T03:25:28+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 184,
+      "date": "2026-09-26",
+      "time": "02:38",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "preview": "Iran has proposed reopening the strategic Strait of Hormuz within seven days, with US officials confirming constructive discussions are underway through mediators.",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/184",
+      "src": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 183,
       "date": "2026-09-26",

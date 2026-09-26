@@ -1,6 +1,7 @@
 {
   "seen": {
     "6d34bc61394aaa0640dcbee752ec6ec7f9490f98": "2026-09-26",
+    "0c63f4337ba982dd7721ec3a1d28c6665c130e87": "2026-09-26",
     "1cec76999d6e862be22697b34a2409bb863b4fee": "2026-09-25",
     "1b05ffe3cf87969245fb48410623753bf1850533": "2026-09-25",
     "bc1e9b92cf4fca75c343bd0c91555f26cf2a870d": "2026-09-25",
@@ -874,6 +875,10 @@
     "183": {
       "kind": "photo",
       "text": "🏛️ <b>Netanyahu labels Al Jazeera a toxic media outlet</b>\n\nIsraeli Prime Minister Benjamin Netanyahu described Al Jazeera as a toxic media outlet. The remark was made publicly by Netanyahu, targeting the Qatar-based news network. No further context or details were provided in the statement.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "184": {
+      "kind": "photo",
+      "text": "🌍 <b>Iran offers US deal to reopen Strait of Hormuz in seven days</b>\n\nIran has proposed reopening the strategic Strait of Hormuz within seven days, with US officials confirming constructive discussions are underway through mediators.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
