@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-26T21:21:49+03:00",
+  "updated_at": "2026-09-26T23:18:32+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 193,
+      "date": "2026-09-26",
+      "time": "23:05",
+      "title": "Saudi FM stresses Middle East stability key to global energy security",
+      "preview": "Saudi Foreign Minister Faisal bin Farhan Al Saud said at the UN General Assembly on Saturday that global energy security is directly tied to stability in the Middle East. He…",
+      "tags": [
+        "#russia",
+        "#energy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/193",
+      "src": "https://www.interfax.ru/world/1118710"
+    },
     {
       "id": 192,
       "date": "2026-09-26",
