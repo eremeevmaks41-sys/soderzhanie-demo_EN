@@ -5,6 +5,7 @@
     "eb327a945f1830bb55ea7c828a99a83b90e7a6d7": "2026-09-26",
     "4b6bfcb4ef1abcd682239dfb30e2b57d64de604e": "2026-09-26",
     "dbb5b42fea9a49d9af722a202d2a9f9c93f97647": "2026-09-26",
+    "56c819d50cacd8c8b54d8d4130413c05c3fea394": "2026-09-26",
     "1cec76999d6e862be22697b34a2409bb863b4fee": "2026-09-25",
     "1b05ffe3cf87969245fb48410623753bf1850533": "2026-09-25",
     "bc1e9b92cf4fca75c343bd0c91555f26cf2a870d": "2026-09-25",
@@ -894,6 +895,10 @@
     "187": {
       "kind": "photo",
       "text": "⚠️ <b>Man wounded in Ukrainian drone attack in Kursk region</b>\n\nA man was injured in Kursk Oblast during a Ukrainian drone strike. The attack caused wounds to the civilian. No further details on the victim&#x27;s condition or the drone type were provided.\n\nSource: <a href=\"https://ria.ru/20260926/bespilotnik-2120414525.html\">RIA Novosti</a>"
+    },
+    "188": {
+      "kind": "text",
+      "text": "🎭 <b>Italian film producer Silvia d&#x27;Amico passes away</b>\n\nItalian film producer Silvia d&#x27;Amico has died. She worked with Russian filmmakers, including director Nikita Mikhalkov.\n\nSource: <a href=\"https://tass.ru/kultura/28154377\">TASS</a>"
     }
   }
 }
