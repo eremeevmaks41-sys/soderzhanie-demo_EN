@@ -26,6 +26,7 @@
     "51b505fb052a20c130b77c21f3bbe5a57d46ee3c": "2026-09-24",
     "40dd75cef84fb0cb1763d544f766fbb13b876a7b": "2026-09-24",
     "f5c5caee51a9f19c914b7bd18d8c3df572c5f599": "2026-09-24",
+    "d8856d6d307b888345b35c35a30e891950dadc52": "2026-09-24",
     "b87b60a944017efaa7ae5e098b6b69e607295bdc": "2026-09-23",
     "c93b3ae95ababaf877c90575ee72942ec357579b": "2026-09-23",
     "f31498db0f274e15030cf27f154263fb977f0fff": "2026-09-23",
@@ -899,6 +900,10 @@
     "188": {
       "kind": "text",
       "text": "🎭 <b>Italian film producer Silvia d&#x27;Amico passes away</b>\n\nItalian film producer Silvia d&#x27;Amico has died. She worked with Russian filmmakers, including director Nikita Mikhalkov.\n\nSource: <a href=\"https://tass.ru/kultura/28154377\">TASS</a>"
+    },
+    "189": {
+      "kind": "photo",
+      "text": "⚠️ <b>Tigrayan rebels launch offensive in Afar and Amhara, raising fears of renewed civil war</b>\n\nFighting has escalated after Tigrayan rebels formed a new coalition aimed at overthrowing Ethiopia’s government. The offensive into Afar and Amhara regions has sparked fears of a return to civil war, reminiscent of the 2020–2022 conflict that killed around 600,000 people. Both sides accuse each other of reigniting open hostilities.\n\n• Rebel offensive targets Afar and Amhara regions\n• New rebel alliance seeks to overthrow Abiy Ahmed’s government\n• Approximately 600,000 died in the 2020–2022 Tigray war\n\nSource: <a href=\"https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army\">The Guardian</a>"
     }
   }
 }
