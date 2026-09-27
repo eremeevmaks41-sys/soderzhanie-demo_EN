@@ -3,6 +3,7 @@
     "a2c0d2ca5e13d0f08341b4b9e02c9a096a635218": "2026-09-27",
     "8e2b98d42592db9a35e2d66d93582134576e679b": "2026-09-27",
     "87fc29341bc9d005512d30f0cd5d71498180e747": "2026-09-27",
+    "1fb7f3df80b73232c0841b641898727164e1b753": "2026-09-27",
     "6d34bc61394aaa0640dcbee752ec6ec7f9490f98": "2026-09-26",
     "0c63f4337ba982dd7721ec3a1d28c6665c130e87": "2026-09-26",
     "eb327a945f1830bb55ea7c828a99a83b90e7a6d7": "2026-09-26",
@@ -944,6 +945,10 @@
     "197": {
       "kind": "text",
       "text": "🏛️ <b>German FM Waedful held intensive talks with Lavrov at request of foreign colleagues</b>\n\nGerman Foreign Minister Johann Waedful said he met with Russian counterpart Sergey Lavrov on October 27 at the urging of his foreign colleagues. He described the negotiations as intensive.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8987908\">Kommersant</a>"
+    },
+    "198": {
+      "kind": "photo",
+      "text": "⚠️ <b>Bear spotted running through Russian city streets near vehicles</b>\n\nA bear was seen running through the streets of a Russian city, moving close to parked cars. The sighting has raised concerns about increasing encounters between predators and humans in urban areas. Authorities have not yet confirmed the exact location or the bear’s origin.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/27/long-begal-po-ulitse-mimo-mashin-medvedya-zametili-v-rossiyskom-gorode-pochemu-hischniki-stali-napadat-na-lyudey/\">Lenta.ru</a>"
     }
   }
 }
