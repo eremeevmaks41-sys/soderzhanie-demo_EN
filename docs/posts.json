@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-27T03:27:44+03:00",
+  "updated_at": "2026-09-27T05:19:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 196,
+      "date": "2026-09-27",
+      "time": "05:00",
+      "title": "Moscow metro and MCC stations to adjust work on September 27 due to marathon",
+      "preview": "Road closures will affect central Moscow on September 27 as the city hosts a marathon, with several metro and Moscow Central Circle stations expected to see changes in their…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/196",
+      "src": "https://www.interfax.ru/moscow/1118721"
+    },
     {
       "id": 194,
       "date": "2026-09-27",
