@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-27T05:19:37+03:00",
+  "updated_at": "2026-09-27T07:19:48+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 197,
+      "date": "2026-09-27",
+      "time": "07:05",
+      "title": "German FM Waedful held intensive talks with Lavrov at request of foreign colleagues",
+      "preview": "German Foreign Minister Johann Waedful said he met with Russian counterpart Sergey Lavrov on October 27 at the urging of his foreign colleagues. He described the negotiations as…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/197",
+      "src": "https://www.kommersant.ru/doc/8987908"
+    },
     {
       "id": 196,
       "date": "2026-09-27",

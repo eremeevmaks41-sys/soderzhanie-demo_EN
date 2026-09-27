@@ -2,6 +2,7 @@
   "seen": {
     "a2c0d2ca5e13d0f08341b4b9e02c9a096a635218": "2026-09-27",
     "8e2b98d42592db9a35e2d66d93582134576e679b": "2026-09-27",
+    "87fc29341bc9d005512d30f0cd5d71498180e747": "2026-09-27",
     "6d34bc61394aaa0640dcbee752ec6ec7f9490f98": "2026-09-26",
     "0c63f4337ba982dd7721ec3a1d28c6665c130e87": "2026-09-26",
     "eb327a945f1830bb55ea7c828a99a83b90e7a6d7": "2026-09-26",
@@ -939,6 +940,10 @@
     "196": {
       "kind": "photo",
       "text": "⚠️ <b>Moscow metro and MCC stations to adjust work on September 27 due to marathon</b>\n\nRoad closures will affect central Moscow on September 27 as the city hosts a marathon, with several metro and Moscow Central Circle stations expected to see changes in their operating schedule.\n\n• Metro and MCC schedule adjustments announced for race day\n\nSource: <a href=\"https://www.interfax.ru/moscow/1118721\">Interfax</a>"
+    },
+    "197": {
+      "kind": "text",
+      "text": "🏛️ <b>German FM Waedful held intensive talks with Lavrov at request of foreign colleagues</b>\n\nGerman Foreign Minister Johann Waedful said he met with Russian counterpart Sergey Lavrov on October 27 at the urging of his foreign colleagues. He described the negotiations as intensive.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8987908\">Kommersant</a>"
     }
   }
 }
