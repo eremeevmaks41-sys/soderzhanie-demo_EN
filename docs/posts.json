@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-27T15:23:36+03:00",
+  "updated_at": "2026-09-27T17:18:34+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 202,
+      "date": "2026-09-27",
+      "time": "17:15",
+      "title": "Iran calls for halting energy supplies to all regional countries",
+      "preview": "Iran has urged a halt to energy deliveries to all countries in the region, according to reports from Vedomosti. The call was made amid rising regional tensions, though no…",
+      "tags": [
+        "#russia",
+        "#energy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/202",
+      "src": "https://www.vedomosti.ru/politics/news/2026/09/27/1232176-v-irane-prizvali"
+    },
     {
       "id": 201,
       "date": "2026-09-27",
