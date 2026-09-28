@@ -1,6 +1,7 @@
 {
   "seen": {
     "4e3b01c13d86c0f0f61a2fedb60def9cdd42d755": "2026-09-28",
+    "ace6df01ebecae73f29f84cce54bd5408c9be734": "2026-09-28",
     "a2c0d2ca5e13d0f08341b4b9e02c9a096a635218": "2026-09-27",
     "8e2b98d42592db9a35e2d66d93582134576e679b": "2026-09-27",
     "87fc29341bc9d005512d30f0cd5d71498180e747": "2026-09-27",
@@ -984,6 +985,10 @@
     "205": {
       "kind": "photo",
       "text": "🌐 <b>Ireland defeats Israel in controversial UEFA Nations League match</b>\n\nIreland secured a victory over Israel in a UEFA Nations League fixture marked by protest. Players wore black armbands in support of Palestine and refused pre-match handshakes.\n\nSource: <a href=\"https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "206": {
+      "kind": "photo",
+      "text": "🌍 <b>BBC gains rare access to Yemen front line as Houthis battle for control</b>\n\nBBC journalists traveled to Yemen&#x27;s front line with pro-government soldiers, gaining rare access to the conflict zone. The report comes as Houthi forces continue battling for control of key areas. The on-the-ground coverage provides insight into the ongoing fighting and military positioning.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
