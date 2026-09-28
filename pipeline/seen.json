@@ -6,6 +6,7 @@
     "c52c4b9a1c33536fe0da4b3538f2edcb7c402b4c": "2026-09-28",
     "3c7dad0859bf4750c2a5737fc6089f85927ceed1": "2026-09-28",
     "0c8e3a5160366b6545e9fdb20190eed13c9f423d": "2026-09-28",
+    "19731798e89ab0a063eae50a9ee1b1eedcf1f7ef": "2026-09-28",
     "a2c0d2ca5e13d0f08341b4b9e02c9a096a635218": "2026-09-27",
     "8e2b98d42592db9a35e2d66d93582134576e679b": "2026-09-27",
     "87fc29341bc9d005512d30f0cd5d71498180e747": "2026-09-27",
@@ -1009,6 +1010,10 @@
     "210": {
       "kind": "photo",
       "text": "🏗️ <b>Four buildings to be repaired in Moscow&#x27;s Timiryazevsky District</b>\n\nFour residential buildings in Moscow&#x27;s Timiryazevsky District are scheduled for repair work. The announcement was made by local authorities via RIA Novosti. No further details on scope, timeline, or funding were provided.\n\nSource: <a href=\"https://ria.ru/20260928/moskva-2120660219.html\">RIA Novosti</a>"
+    },
+    "211": {
+      "kind": "text",
+      "text": "⚠️ <b>Buryatia school switches to remote learning after bear sighting</b>\n\nA rural school in Buryatia has shifted to distance learning after a bear was spotted near the educational facility. The animal was seen in proximity to the school, prompting safety measures. No injuries or further details about the bear&#x27;s behavior were reported.\n\n• School located in Buryatia, Russia\n• Remote learning implemented as precaution\n• Bear sighted near school premises\n\nSource: <a href=\"https://tass.ru/obschestvo/28158459\">TASS</a>"
     }
   }
 }
