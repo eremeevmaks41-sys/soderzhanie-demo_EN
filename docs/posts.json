@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T13:22:19+03:00",
+  "updated_at": "2026-09-28T15:26:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -136,6 +136,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/202",
       "src": "https://www.vedomosti.ru/politics/news/2026/09/27/1232176-v-irane-prizvali"
+    },
+    {
+      "id": 212,
+      "date": "2026-09-27",
+      "time": "16:46",
+      "title": "At least 27 dead in two mass shootings in South Africa",
+      "preview": "Seventeen people were killed in a bar in Wedela township near Johannesburg in a suspected illegal goldmining turf war, while ten others died in a separate shooting at a barbecue…",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/212",
+      "src": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
     },
     {
       "id": 201,
