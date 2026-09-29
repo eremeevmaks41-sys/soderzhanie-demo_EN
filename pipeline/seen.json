@@ -17,6 +17,7 @@
     "e4063d45b0c4e8062ee1547ee2c640a1aa146490": "2026-09-28",
     "4dcaf552ae5a896e0646e71bdb3b9f15cdb2b80f": "2026-09-28",
     "98f96bce3e5694875b64f5b27e74da041e6fabb4": "2026-09-28",
+    "831bb5cd19a0976db211b87621d2b4e394822efe": "2026-09-28",
     "a2c0d2ca5e13d0f08341b4b9e02c9a096a635218": "2026-09-27",
     "8e2b98d42592db9a35e2d66d93582134576e679b": "2026-09-27",
     "87fc29341bc9d005512d30f0cd5d71498180e747": "2026-09-27",
@@ -1069,6 +1070,10 @@
     "222": {
       "kind": "text",
       "text": "⚡ <b>Likhachev reports completion of first stage in extending operational life of Armenian Nuclear Power Plant</b>\n\nLikhachev informed that the first stage of work to extend the operational life of the Armenian Nuclear Power Plant (ArmAES) has been completed. The announcement was made by TASS. No further details about the scope, timeline, or next steps were provided in the source.\n\nSource: <a href=\"https://tass.ru/ekonomika/28162115\">TASS</a>"
+    },
+    "223": {
+      "kind": "photo",
+      "text": "⚠️ <b>DRC politician beaten to death after radio appearance on Ebola outbreak</b>\n\nMarie-Celestin Karondwa, acting president of the UDPS party’s federal executive committee in Butembo, was attacked on Sunday after appearing on a radio programme to promote Ebola prevention measures. He was beaten to death following the broadcast in a city identified as a new hotspot for the outbreak. The UDPS federation confirmed the…\n\n• Karondwa promoted Ebola prevention measures during a radio show in Butembo\n• Butembo is described as a new hotspot for the Ebola outbreak\n• The UDPS party confirmed the attack and his death in a statement\n\nSource: <a href=\"https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola\">The Guardian</a>"
     }
   }
 }
