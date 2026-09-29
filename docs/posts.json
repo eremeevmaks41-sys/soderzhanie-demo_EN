@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T07:21:15+03:00",
+  "updated_at": "2026-09-29T09:25:46+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 220,
+      "date": "2026-09-29",
+      "time": "09:21",
+      "title": "Young woman raped on Moscow street",
+      "preview": "A young woman was sexually assaulted on a street in Moscow. The incident occurred in the Russian capital, with no further details about the victim, perpetrator, or time provided…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/220",
+      "src": "https://lenta.ru/news/2026/09/29/moloduyu-devushku-iznasilovali-na-ulitse-moskvy/"
+    },
     {
       "id": 219,
       "date": "2026-09-29",
