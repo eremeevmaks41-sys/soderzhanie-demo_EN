@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T01:19:53+03:00",
+  "updated_at": "2026-09-29T03:27:11+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -47,6 +47,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/214",
       "src": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
+    },
+    {
+      "id": 217,
+      "date": "2026-09-28",
+      "time": "17:57",
+      "title": "Seoul summons Ukraine envoy over North Korean POW transfer",
+      "preview": "South Korea has summoned Ukraine's ambassador after President Zelensky disclosed that Ukraine had transferred two captured North Korean soldiers to Seoul. Seoul says the move was…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/217",
+      "src": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 213,
