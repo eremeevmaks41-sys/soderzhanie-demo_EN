@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T23:22:00+03:00",
+  "updated_at": "2026-09-30T01:19:52+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 228,
+      "date": "2026-09-30",
+      "time": "00:29",
+      "title": "Yamal stars as Spain thrash Croatia 4-1",
+      "preview": "Lamine Yamal scored two goals and provided an assist as Spain defeated Croatia 4-1 in a UEFA Nations League Group A3 match. The young Barcelona forward was instrumental in…",
+      "tags": [
+        "#worldnews",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/228",
+      "src": "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss"
+    },
     {
       "id": 227,
       "date": "2026-09-29",

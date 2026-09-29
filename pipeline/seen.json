@@ -1,5 +1,6 @@
 {
   "seen": {
+    "67d8886b5d69efcac3e0c503e917766c62276f44": "2026-09-30",
     "91c270d28cba96f830b0cf4cfb7657d49a00a4a8": "2026-09-29",
     "2881c9479c23a8a6ad83db152ff271e1e79209eb": "2026-09-29",
     "18add77167530e4eca291385d30916586f0bbd90": "2026-09-29",
@@ -1094,6 +1095,10 @@
     "227": {
       "kind": "photo",
       "text": "⚠️ <b>Rescuers find tourists trapped in a cave in Crimea</b>\n\nRescuers have located tourists who were blocked inside a cave in Crimea. Evacuation measures are currently underway. No further details about the number of people or their condition have been provided.\n\nSource: <a href=\"https://www.interfax.ru/russia/1119240\">Interfax</a>"
+    },
+    "228": {
+      "kind": "photo",
+      "text": "🏆 <b>Yamal stars as Spain thrash Croatia 4-1</b>\n\nLamine Yamal scored two goals and provided an assist as Spain defeated Croatia 4-1 in a UEFA Nations League Group A3 match. The young Barcelona forward was instrumental in Spain&#x27;s dominant performance. The result strengthens Spain&#x27;s position in the group standings.\n\n• Yamal scored twice and assisted another goal\n• Spain won 4-1 against Croatia\n• Match was part of UEFA Nations League Group A3\n\nSource: <a href=\"https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
