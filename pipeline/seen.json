@@ -2,6 +2,7 @@
   "seen": {
     "91c270d28cba96f830b0cf4cfb7657d49a00a4a8": "2026-09-29",
     "2881c9479c23a8a6ad83db152ff271e1e79209eb": "2026-09-29",
+    "18add77167530e4eca291385d30916586f0bbd90": "2026-09-29",
     "4e3b01c13d86c0f0f61a2fedb60def9cdd42d755": "2026-09-28",
     "ace6df01ebecae73f29f84cce54bd5408c9be734": "2026-09-28",
     "e61e3d26a37f9c1d60dd56dd77ab34d855379a02": "2026-09-28",
@@ -1049,6 +1050,10 @@
     "218": {
       "kind": "photo",
       "text": "📊 <b>Northern Fleet ships pass Shokal&#x27;sky Strait into the Arctic for the first time</b>\n\nA Northern Fleet task force led by Vice-Admiral Oleg Golubev transited the Shokal&#x27;sky Strait and entered the Kara Sea, marking the first such passage in Russian Navy history. The ships announced a training alarm to boost combat readiness while navigating the narrow strait.\n\nSource: <a href=\"https://www.interfax.ru/russia/1119056\">Interfax</a>"
+    },
+    "219": {
+      "kind": "text",
+      "text": "💰 <b>Putin orders government to buy grain from farmers for state reserve</b>\n\nRussian President Vladimir Putin instructed the government to purchase grain from agricultural producers for the state reserve. The directive aims to support farmers and stabilize domestic grain supplies.\n\nSource: <a href=\"https://www.kommersant.ru/doc/8989134\">Kommersant</a>"
     }
   }
 }
