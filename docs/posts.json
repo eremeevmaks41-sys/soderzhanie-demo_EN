@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T19:23:36+03:00",
+  "updated_at": "2026-09-29T21:24:46+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 226,
+      "date": "2026-09-29",
+      "time": "19:23",
+      "title": "Spain bans evictions after protests over 87-year-old woman's removal",
+      "preview": "Spain has announced a temporary ban on evictions following public protests over the removal of an 87-year-old woman from her flat. The measure is part of a broader set of housing…",
+      "tags": [
+        "#worldnews",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/226",
+      "src": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 225,
       "date": "2026-09-29",
