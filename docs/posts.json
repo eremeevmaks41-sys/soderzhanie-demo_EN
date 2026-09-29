@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-29T03:27:11+03:00",
+  "updated_at": "2026-09-29T05:18:41+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 218,
+      "date": "2026-09-29",
+      "time": "05:09",
+      "title": "Northern Fleet ships pass Shokal'sky Strait into the Arctic for the first time",
+      "preview": "A Northern Fleet task force led by Vice-Admiral Oleg Golubev transited the Shokal'sky Strait and entered the Kara Sea, marking the first such passage in Russian Navy history. The…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/218",
+      "src": "https://www.interfax.ru/russia/1119056"
+    },
     {
       "id": 216,
       "date": "2026-09-29",
