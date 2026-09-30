@@ -6,6 +6,7 @@
     "d9c426a4ea8c489757b435fdc4f9ead1de9f1dfa": "2026-09-30",
     "65be61d83ec13fda5617853324be8979ff283582": "2026-09-30",
     "9f671b3d78c353dd68f4dfb74afddff85fc0193a": "2026-09-30",
+    "e1e6a39006de494d3832f36a131e84f8b611b5a3": "2026-09-30",
     "91c270d28cba96f830b0cf4cfb7657d49a00a4a8": "2026-09-29",
     "2881c9479c23a8a6ad83db152ff271e1e79209eb": "2026-09-29",
     "18add77167530e4eca291385d30916586f0bbd90": "2026-09-29",
@@ -1124,6 +1125,10 @@
     "233": {
       "kind": "photo",
       "text": "🇷🇺 <b>Ocon to leave Haas at end of season</b>\n\nFrench driver Esteban Ocon will depart the Haas Formula 1 team after the conclusion of the current season. The announcement was made by the team, confirming the end of his tenure with the American squad. No further details about his future destination were provided.\n\nSource: <a href=\"https://ria.ru/20260930/esteban-2121155397.html\">RIA Novosti</a>"
+    },
+    "234": {
+      "kind": "text",
+      "text": "💰 <b>Prosecutors General of CIS Countries Approve Concept for Returning Assets from Abroad</b>\n\nThe Prosecutors General of the Commonwealth of Independent States (CIS) have approved a concept aimed at returning assets located abroad. The agreement, endorsed by Russian Prosecutor General Alexander Gutsan, will serve as the foundation for further joint work on asset recovery.\n\nSource: <a href=\"https://tass.ru/ekonomika/28165815\">TASS</a>"
     }
   }
 }
