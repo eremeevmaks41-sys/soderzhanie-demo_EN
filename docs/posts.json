@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T07:22:36+03:00",
+  "updated_at": "2026-09-30T09:26:13+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 232,
+      "date": "2026-09-30",
+      "time": "09:20",
+      "title": "Fog from shelling in Kyiv captured on video",
+      "preview": "Footage shows dense fog resulting from artillery shelling in Kyiv, Ukraine. The video, shared by Lenta.ru, documents the atmospheric effect of ongoing hostilities in the capital.…",
+      "tags": [
+        "#russia",
+        "#incidents",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/232",
+      "src": "https://lenta.ru/news/2026/09/30/tuman-iz-za-obstrelov-v-kieve-popal-na-video/"
+    },
     {
       "id": 231,
       "date": "2026-09-30",

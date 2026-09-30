@@ -4,6 +4,7 @@
     "e370f43b1e0422217955a93d22fb178e74410063": "2026-09-30",
     "e8a1d8bf21fada00f436b4631d0c03cdc0b68083": "2026-09-30",
     "d9c426a4ea8c489757b435fdc4f9ead1de9f1dfa": "2026-09-30",
+    "65be61d83ec13fda5617853324be8979ff283582": "2026-09-30",
     "91c270d28cba96f830b0cf4cfb7657d49a00a4a8": "2026-09-29",
     "2881c9479c23a8a6ad83db152ff271e1e79209eb": "2026-09-29",
     "18add77167530e4eca291385d30916586f0bbd90": "2026-09-29",
@@ -1114,6 +1115,10 @@
     "231": {
       "kind": "text",
       "text": "🤝 <b>US tech giants sign AI control agreement with Trump</b>\n\nMajor US technology companies have signed an agreement with Donald Trump on artificial intelligence control. The agreement has no legal force but leaves room to enshrine these steps in laws or subordinate acts.\n\n• The agreement was signed by US IT giants\n• It has no legal binding force\n• It allows for future codification in laws or regulations\n\nSource: <a href=\"https://www.kommersant.ru/doc/8990054\">Kommersant</a>"
+    },
+    "232": {
+      "kind": "photo",
+      "text": "🔥 <b>Fog from shelling in Kyiv captured on video</b>\n\nFootage shows dense fog resulting from artillery shelling in Kyiv, Ukraine. The video, shared by Lenta.ru, documents the atmospheric effect of ongoing hostilities in the capital. No casualties or specific locations were mentioned in the report.\n\nSource: <a href=\"https://lenta.ru/news/2026/09/30/tuman-iz-za-obstrelov-v-kieve-popal-na-video/\">Lenta.ru</a>"
     }
   }
 }
