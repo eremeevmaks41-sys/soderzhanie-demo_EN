@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T20:59:02+03:00",
+  "updated_at": "2026-10-01T01:11:50+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 236,
+      "date": "2026-10-01",
+      "time": "00:34",
+      "title": "‘Closest thing to an HIV vaccine’ raises access questions",
+      "preview": "A twice-yearly injection shows high efficacy in preventing HIV, but global access and distribution equity remain major challenges.",
+      "tags": [
+        "#worldnews",
+        "#health"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/236",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss"
+    },
     {
       "id": 235,
       "date": "2026-09-30",
