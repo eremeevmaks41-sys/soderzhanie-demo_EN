@@ -1,6 +1,7 @@
 {
   "seen": {
     "13830a4c3902302df2dd5d453fcf2a9e1274534e": "2026-10-01",
+    "cf259103d2059e85eca1ef80f6ef45da4e2464ee": "2026-10-01",
     "67d8886b5d69efcac3e0c503e917766c62276f44": "2026-09-30",
     "e370f43b1e0422217955a93d22fb178e74410063": "2026-09-30",
     "e8a1d8bf21fada00f436b4631d0c03cdc0b68083": "2026-09-30",
@@ -1139,6 +1140,10 @@
     "236": {
       "kind": "photo",
       "text": "🌍 <b>‘Closest thing to an HIV vaccine’ raises access questions</b>\n\nA twice-yearly injection shows high efficacy in preventing HIV, but global access and distribution equity remain major challenges.\n\n• Long-acting injectable offers an alternative to daily pills\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "237": {
+      "kind": "photo",
+      "text": "⚠️ <b>Ukrainian forces attempt to break through Russian encirclement on one front</b>\n\nUkrainian armed forces made an attempt to break through a Russian encirclement, or &#x27;kotel&#x27;, on a specific front line. The effort was reported by Russian sources, though no further details on location, timing, or outcome were provided in the original report.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/01/stalo-izvestno-o-popytke-vsu-prorvat-kotel-na-odnom-napravlenii/\">Lenta.ru</a>"
     }
   }
 }
