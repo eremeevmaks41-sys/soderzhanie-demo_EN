@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T16:02:04+03:00",
+  "updated_at": "2026-10-01T22:28:04+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 239,
+      "date": "2026-10-01",
+      "time": "22:21",
+      "title": "CSKA Moscow wins seventh straight KHL game with 4-1 victory over Dinamo Minsk",
+      "preview": "CSKA Moscow defeated Dinamo Minsk 4-1 in an away regular-season KHL match, extending their winning streak to seven games. The victory came on the road against the Belarusian…",
+      "tags": [
+        "#russia",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/239",
+      "src": "https://www.sport-interfax.ru/1119797"
+    },
     {
       "id": 238,
       "date": "2026-10-01",
