@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-01T08:38:33+03:00",
+  "updated_at": "2026-10-01T16:02:04+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 238,
+      "date": "2026-10-01",
+      "time": "15:58",
+      "title": "Russia's Security Council admits possible presence of US PMCs and intelligence in Armenia",
+      "preview": "Russia's Security Council has acknowledged the potential deployment of US private military companies and intelligence operatives in Armenia, citing concerns over what it…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/238",
+      "src": "https://www.vedomosti.ru/politics/news/2026/10/01/1233460-chvk-i-razvedki"
+    },
     {
       "id": 237,
       "date": "2026-10-01",

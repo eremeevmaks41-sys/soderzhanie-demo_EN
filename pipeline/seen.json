@@ -2,6 +2,7 @@
   "seen": {
     "13830a4c3902302df2dd5d453fcf2a9e1274534e": "2026-10-01",
     "cf259103d2059e85eca1ef80f6ef45da4e2464ee": "2026-10-01",
+    "9442bf0e269e036b6302e8ed9334d1b65420607a": "2026-10-01",
     "67d8886b5d69efcac3e0c503e917766c62276f44": "2026-09-30",
     "e370f43b1e0422217955a93d22fb178e74410063": "2026-09-30",
     "e8a1d8bf21fada00f436b4631d0c03cdc0b68083": "2026-09-30",
@@ -1144,6 +1145,10 @@
     "237": {
       "kind": "photo",
       "text": "⚠️ <b>Ukrainian forces attempt to break through Russian encirclement on one front</b>\n\nUkrainian armed forces made an attempt to break through a Russian encirclement, or &#x27;kotel&#x27;, on a specific front line. The effort was reported by Russian sources, though no further details on location, timing, or outcome were provided in the original report.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/01/stalo-izvestno-o-popytke-vsu-prorvat-kotel-na-odnom-napravlenii/\">Lenta.ru</a>"
+    },
+    "238": {
+      "kind": "photo",
+      "text": "🏛️ <b>Russia&#x27;s Security Council admits possible presence of US PMCs and intelligence in Armenia</b>\n\nRussia&#x27;s Security Council has acknowledged the potential deployment of US private military companies and intelligence operatives in Armenia, citing concerns over what it describes as a &#x27;Trump route&#x27; influencing regional security dynamics. The statement reflects Moscow&#x27;s growing apprehension about Western military and intelligence…\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/10/01/1233460-chvk-i-razvedki\">Vedomosti</a>"
     }
   }
 }
