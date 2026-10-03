@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T02:44:07+03:00",
+  "updated_at": "2026-10-03T08:08:19+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 245,
+      "date": "2026-10-03",
+      "time": "08:06",
+      "title": "Belarus says it is organizing a meeting between Trump and Lukashenko",
+      "preview": "Belarusian officials announced they are arranging a meeting between former U.S. President Donald Trump and Belarusian President Alexander Lukashenko. No date, location, or…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/245",
+      "src": "https://lenta.ru/news/2026/10/03/v-belorussii-rasskazali-ob-organizatsii-vstrechi-trampa-i-lukashenko/"
+    },
     {
       "id": 244,
       "date": "2026-10-02",
