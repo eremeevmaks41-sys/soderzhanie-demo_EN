@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T14:34:49+03:00",
+  "updated_at": "2026-10-03T19:10:09+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 247,
+      "date": "2026-10-03",
+      "time": "18:39",
+      "title": "Co-pilot accused in Flydubai attack identified as Hamam al-Hammami",
+      "preview": "The co-pilot accused of attacking a Flydubai captain has been identified as Hamam al-Hammami. The incident occurred during a flight, though specific details about the attack’s…",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/247",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss"
+    },
     {
       "id": 246,
       "date": "2026-10-03",
