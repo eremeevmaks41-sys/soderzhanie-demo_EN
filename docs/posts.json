@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T00:07:58+03:00",
+  "updated_at": "2026-10-04T03:30:29+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -19,6 +19,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/248",
       "src": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss"
+    },
+    {
+      "id": 249,
+      "date": "2026-10-03",
+      "time": "20:48",
+      "title": "Tennessee prison chief to resign after failed execution of Christa Pike",
+      "preview": "The head of Tennessee's prison system will resign following the botched lethal injection of death row inmate Christa Pike, who survived two injection attempts and remains in…",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/249",
+      "src": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 247,
