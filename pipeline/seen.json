@@ -1,6 +1,7 @@
 {
   "seen": {
     "7b20f245a6f7a17e4e99f19dedcf2d6ee89968a6": "2026-10-04",
+    "1f9e1783ebbe9f8ce5928f70664233ab78db5d95": "2026-10-04",
     "8e04d4bf2e4dc7e6fe5bce1e95dc7bc6e6babdd4": "2026-10-03",
     "0f99643b60c4ff535a331c6d978401831c6b4625": "2026-10-03",
     "2997682798d07126c0366bb31bdc83f1c60b8e57": "2026-10-03",
@@ -1209,6 +1210,10 @@
     "250": {
       "kind": "photo",
       "text": "🔥 <b>Fire extinguished in under-construction 22-story building in northwest Moscow</b>\n\nFirefighters put out a blaze in a 22-story building under construction in northwest Moscow. No casualties were reported. The incident occurred during ongoing construction work.\n\nSource: <a href=\"https://ria.ru/20261004/pozhar-2122097865.html\">RIA Novosti</a>"
+    },
+    "251": {
+      "kind": "photo",
+      "text": "🏛️ <b>Bosnian Serb leader calls Bosnia &#x27;dead&#x27; ahead of elections</b>\n\nBosnian Serb leader Milorad Dodik declared Bosnia and Herzegovina &#x27;dead&#x27; in controversial remarks made ahead of the country&#x27;s high-stakes general elections. His comments have sparked debate over whether they constitute inflammatory rhetoric or a serious threat to the country&#x27;s unity. The statement comes amid rising tensions between…\n\n• Dodik is the president of Republika Srpska, the Serb-majority entity within Bosnia and Herzegovina\n• The remarks were made in the context of upcoming national elections\n• Bosnia and Herzegovina remains divided along ethnic lines following the 1992-1995 war\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
