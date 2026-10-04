@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T18:17:53+03:00",
+  "updated_at": "2026-10-04T22:32:19+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 252,
+      "date": "2026-10-04",
+      "time": "22:24",
+      "title": "Moscow Sheremetyevo and Nizhny Novgorod Grabtsevo airports resume flights",
+      "preview": "Moscow's Sheremetyevo Airport and Nizhny Novgorod's Grabtsevo Airport resumed flight operations on Sunday, according to Rosaviatsiya. Restrictions on the acceptance and departure…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/252",
+      "src": "https://www.interfax.ru/russia/1120276"
+    },
     {
       "id": 251,
       "date": "2026-10-04",
