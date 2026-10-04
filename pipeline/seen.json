@@ -1,5 +1,6 @@
 {
   "seen": {
+    "7b20f245a6f7a17e4e99f19dedcf2d6ee89968a6": "2026-10-04",
     "8e04d4bf2e4dc7e6fe5bce1e95dc7bc6e6babdd4": "2026-10-03",
     "0f99643b60c4ff535a331c6d978401831c6b4625": "2026-10-03",
     "2997682798d07126c0366bb31bdc83f1c60b8e57": "2026-10-03",
@@ -1204,6 +1205,10 @@
     "249": {
       "kind": "photo",
       "text": "⚠️ <b>Tennessee prison chief to resign after failed execution of Christa Pike</b>\n\nThe head of Tennessee&#x27;s prison system will resign following the botched lethal injection of death row inmate Christa Pike, who survived two injection attempts and remains in critical condition. Her lawyers stated the failure extends beyond individual responsibility. Pike was sentenced to death for a 1995 murder.\n\n• Christa Pike survived two lethal injection attempts\n• Pike is currently in critical condition\n• Prison chief resigns amid fallout from execution failure\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "250": {
+      "kind": "photo",
+      "text": "🔥 <b>Fire extinguished in under-construction 22-story building in northwest Moscow</b>\n\nFirefighters put out a blaze in a 22-story building under construction in northwest Moscow. No casualties were reported. The incident occurred during ongoing construction work.\n\nSource: <a href=\"https://ria.ru/20261004/pozhar-2122097865.html\">RIA Novosti</a>"
     }
   }
 }

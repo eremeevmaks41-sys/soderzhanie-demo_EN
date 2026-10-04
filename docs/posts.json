@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T03:30:29+03:00",
+  "updated_at": "2026-10-04T11:20:42+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 250,
+      "date": "2026-10-04",
+      "time": "11:11",
+      "title": "Fire extinguished in under-construction 22-story building in northwest Moscow",
+      "preview": "Firefighters put out a blaze in a 22-story building under construction in northwest Moscow. No casualties were reported. The incident occurred during ongoing construction work.",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/250",
+      "src": "https://ria.ru/20261004/pozhar-2122097865.html"
+    },
     {
       "id": 248,
       "date": "2026-10-03",
