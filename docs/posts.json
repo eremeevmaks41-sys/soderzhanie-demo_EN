@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T16:15:59+03:00",
+  "updated_at": "2026-10-06T22:27:34+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 259,
+      "date": "2026-10-06",
+      "time": "22:18",
+      "title": "Liberian oil tanker attacked by unmanned boats off Black Sea coast",
+      "preview": "A Liberian-flagged oil tanker, the Aframax Rio, carrying Indian crew, was attacked by unmanned boats near the Black Sea coast. All 23 Indian crew members were rescued with no…",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/259",
+      "src": "https://www.interfax.ru/world/1120729"
+    },
     {
       "id": 258,
       "date": "2026-10-06",
