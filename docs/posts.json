@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07T16:12:01+03:00",
+  "updated_at": "2026-10-07T22:54:03+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 263,
+      "date": "2026-10-07",
+      "time": "22:43",
+      "title": "Russian government allocates 10.7 billion rubles to support closed airports",
+      "preview": "The Russian government has allocated an additional 10.7 billion rubles to support the operation of closed airports in the central and southern parts of the country. The funding…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/263",
+      "src": "https://www.interfax.ru/russia/1120969"
+    },
     {
       "id": 262,
       "date": "2026-10-07",

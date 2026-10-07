@@ -3,6 +3,7 @@
     "109cb427154e32aeb11f18bc7f595d6e40a85e71": "2026-10-07",
     "fc86969ab1014a4f0a35a8632fd083f03c5844a5": "2026-10-07",
     "ca4b9217088ddeac17ba5c9544ae2fd3c719e1cf": "2026-10-07",
+    "9201df2a938bdf95f6441cb78324e4d5c71fc53a": "2026-10-07",
     "df5b6383bf3f2ce29b6be76778fdacad29529fe3": "2026-10-06",
     "285865cada3eaca7121128ed1a48bf095775ac2a": "2026-10-06",
     "48d7a0197c6fe63c3d76ee01bf8e3d3a4f20855c": "2026-10-06",
@@ -1269,6 +1270,10 @@
     "262": {
       "kind": "photo",
       "text": "🚗 <b>Lithuania restricts entry for Ukrainians without military service experience</b>\n\nLithuania has introduced new entry restrictions for Ukrainian citizens who lack compulsory military service experience. The measure, reported by LRT, applies to Ukrainians seeking to enter the country. No further details on duration or exemptions were provided in the source.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/10/07/1235095-litva-ogranichila\">Vedomosti</a>"
+    },
+    "263": {
+      "kind": "photo",
+      "text": "✈️ <b>Russian government allocates 10.7 billion rubles to support closed airports</b>\n\nThe Russian government has allocated an additional 10.7 billion rubles to support the operation of closed airports in the central and southern parts of the country. The funding was approved in a cabinet decree, according to Interfax. This is the latest tranche of subsidies aimed at maintaining airport infrastructure despite closures.\n\n• Funding amount: 10.7 billion rubles\n• Recipients: airports in central and southern Russia\n• Source: cabinet decree published by Interfax\n\nSource: <a href=\"https://www.interfax.ru/russia/1120969\">Interfax</a>"
     }
   }
 }
