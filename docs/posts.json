@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T11:49:51+03:00",
+  "updated_at": "2026-10-08T20:22:30+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 266,
+      "date": "2026-10-08",
+      "time": "19:31",
+      "title": "Russian strike on buses kills at least 30 in Kramatorsk",
+      "preview": "Ukrainian officials say a Russian strike hit two crowded buses in the frontline city of Kramatorsk, killing at least 30 civilians. The attack is part of a surge in deadly strikes…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/266",
+      "src": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 265,
       "date": "2026-10-08",

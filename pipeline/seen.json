@@ -2,6 +2,7 @@
   "seen": {
     "20eeabd8ff6ac50af84bc8a40881444c6938f405": "2026-10-08",
     "a745d76ad2ce2e8f5c29a155434f8b3fe3fda9c1": "2026-10-08",
+    "06a400f63f5afe0751bdc53bacf0e44f1c31de58": "2026-10-08",
     "109cb427154e32aeb11f18bc7f595d6e40a85e71": "2026-10-07",
     "fc86969ab1014a4f0a35a8632fd083f03c5844a5": "2026-10-07",
     "ca4b9217088ddeac17ba5c9544ae2fd3c719e1cf": "2026-10-07",
@@ -1284,6 +1285,10 @@
     "265": {
       "kind": "photo",
       "text": "💰 <b>Russian ambassador comments on economic crisis in Europe</b>\n\nThe Russian ambassador has commented on the ongoing economic crisis in Europe, according to RIA Novosti. No further details were provided in the source material.\n\nSource: <a href=\"https://ria.ru/20261008/evropa-2123136304.html\">RIA Novosti</a>"
+    },
+    "266": {
+      "kind": "photo",
+      "text": "⚠️ <b>Russian strike on buses kills at least 30 in Kramatorsk</b>\n\nUkrainian officials say a Russian strike hit two crowded buses in the frontline city of Kramatorsk, killing at least 30 civilians. The attack is part of a surge in deadly strikes on Ukraine. Authorities accuse Russia of deliberately targeting civilians.\n\n• At least 30 people killed in the strike on two buses\n• Attack occurred in the frontline city of Kramatorsk\n• Ukraine says Russia aimed to kill as many civilians as possible\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
