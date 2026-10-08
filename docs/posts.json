@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-08T03:09:08+03:00",
+  "updated_at": "2026-10-08T11:49:51+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 265,
+      "date": "2026-10-08",
+      "time": "11:49",
+      "title": "Russian ambassador comments on economic crisis in Europe",
+      "preview": "The Russian ambassador has commented on the ongoing economic crisis in Europe, according to RIA Novosti. No further details were provided in the source material.",
+      "tags": [
+        "#russia",
+        "#economy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/265",
+      "src": "https://ria.ru/20261008/evropa-2123136304.html"
+    },
     {
       "id": 264,
       "date": "2026-10-08",
