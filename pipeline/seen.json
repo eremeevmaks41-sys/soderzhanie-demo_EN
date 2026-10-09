@@ -1,6 +1,7 @@
 {
   "seen": {
     "41e6259a8b292d33eb731fd6a72d381ca94937be": "2026-10-09",
+    "64c1ea92e553fe8876d68c4d5c3e9347010f1e8a": "2026-10-09",
     "20eeabd8ff6ac50af84bc8a40881444c6938f405": "2026-10-08",
     "a745d76ad2ce2e8f5c29a155434f8b3fe3fda9c1": "2026-10-08",
     "06a400f63f5afe0751bdc53bacf0e44f1c31de58": "2026-10-08",
@@ -1294,6 +1295,10 @@
     "267": {
       "kind": "photo",
       "text": "⚠️ <b>Fort Hood attacker&#x27;s execution by firing squad to be livestreamed</b>\n\nUS Defence Secretary Pete Hegseth said the execution of the Fort Hood attacker by firing squad will be livestreamed so the public can watch. The announcement was made on Thursday. No further details about timing or platform were provided.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "268": {
+      "kind": "photo",
+      "text": "🏛️ <b>Elena Blinovskaya&#x27;s apartments transferred to state ownership</b>\n\nThe apartments belonging to Russian entrepreneur Elena Blinovskaya have been transferred to state ownership. The move follows legal proceedings related to her financial activities. No further details on the properties or the legal basis were provided in the source.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/09/kvartiry-blinovskoy-pereshli-gosudarstvu/\">Lenta.ru</a>"
     }
   }
 }
