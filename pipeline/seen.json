@@ -2,6 +2,7 @@
   "seen": {
     "72c787fee32f2bcaec5362e1b38f83c7ca751571": "2026-10-10",
     "209003b2385134f4945f3f2014866f43bb7d7705": "2026-10-10",
+    "7c8126ec26bee0e6cba2409839a3a514290deb59": "2026-10-10",
     "41e6259a8b292d33eb731fd6a72d381ca94937be": "2026-10-09",
     "64c1ea92e553fe8876d68c4d5c3e9347010f1e8a": "2026-10-09",
     "31ed33e23ffa80d89f5d5a2138b5bf7a3569ca2d": "2026-10-09",
@@ -1319,6 +1320,10 @@
     "272": {
       "kind": "photo",
       "text": "⚠️ <b>19 drones destroyed in Kaluga region</b>\n\nRussian authorities reported the destruction of 19 unmanned aerial vehicles in Kaluga Oblast. The incident occurred amid ongoing air defense operations in western Russia. No further details on the origin or type of drones were provided.\n\nSource: <a href=\"https://ria.ru/20261010/bpla-2123628898.html\">RIA Novosti</a>"
+    },
+    "273": {
+      "kind": "photo",
+      "text": "💊 <b>Controversial hepatitis B vaccine trial approved in Guinea-Bissau</b>\n\nDanish researchers will withhold the hepatitis B vaccine from thousands of newborns in Guinea-Bissau as part of a trial backed by Robert F Kennedy Jr, US HHS secretary and prominent vaccine skeptic. The study, which has drawn ethical concerns, received approval to proceed this week. It aims to test the effects of delaying the vaccine…\n\n• Trial involves withholding recommended hepatitis B vaccine from newborns\n• Robert F Kennedy Jr supports the trial as part of his vaccine vision\n• Study approved to move forward this week in Guinea-Bissau\n\nSource: <a href=\"https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr\">The Guardian</a>"
     }
   }
 }

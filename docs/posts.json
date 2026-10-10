@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-10T08:39:46+03:00",
+  "updated_at": "2026-10-10T15:23:04+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -34,6 +34,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/271",
       "src": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": 273,
+      "date": "2026-10-10",
+      "time": "00:36",
+      "title": "Controversial hepatitis B vaccine trial approved in Guinea-Bissau",
+      "preview": "Danish researchers will withhold the hepatitis B vaccine from thousands of newborns in Guinea-Bissau as part of a trial backed by Robert F Kennedy Jr, US HHS secretary and…",
+      "tags": [
+        "#worldnews",
+        "#health"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/273",
+      "src": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
     },
     {
       "id": 270,
