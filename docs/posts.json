@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11T02:26:45+03:00",
+  "updated_at": "2026-10-11T08:35:59+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 276,
+      "date": "2026-10-11",
+      "time": "08:29",
+      "title": "Russians warned about consequences of delayed trash removal",
+      "preview": "Authorities in Russia have informed citizens about the risks and penalties associated with not removing household waste on time. The warning highlights potential health hazards…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/276",
+      "src": "https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-posledstviyah-ne-vyvoza-musora-v-srok/"
+    },
     {
       "id": 275,
       "date": "2026-10-10",

@@ -1,5 +1,6 @@
 {
   "seen": {
+    "0a093fdf291e3c87e3cfacbf08ea246474b993f8": "2026-10-11",
     "72c787fee32f2bcaec5362e1b38f83c7ca751571": "2026-10-10",
     "209003b2385134f4945f3f2014866f43bb7d7705": "2026-10-10",
     "7c8126ec26bee0e6cba2409839a3a514290deb59": "2026-10-10",
@@ -1334,6 +1335,10 @@
     "275": {
       "kind": "photo",
       "text": "⚠️ <b>Russian glide bomb attack on Zaporizhzhia kills at least 20</b>\n\nA Russian glide bomb strike on Zaporizhzhia killed at least 20 people, including children, according to Ukrainian President Volodymyr Zelensky. He said the attack was Russia&#x27;s way of expressing &#x27;thanks&#x27; for a recent US diesel deal. The assault occurred amid ongoing hostilities in the region.\n\n• At least 20 people killed, including children\n• Zelensky called the attack Russia&#x27;s &#x27;thanks&#x27; for a US diesel deal\n• Attack involved a Russian glide bomb on Zaporizhzhia\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "276": {
+      "kind": "photo",
+      "text": "⚠️ <b>Russians warned about consequences of delayed trash removal</b>\n\nAuthorities in Russia have informed citizens about the risks and penalties associated with not removing household waste on time. The warning highlights potential health hazards, environmental damage, and fines for individuals and property management companies failing to comply with waste disposal schedules.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/11/rossiyanam-rasskazali-o-posledstviyah-ne-vyvoza-musora-v-srok/\">Lenta.ru</a>"
     }
   }
 }
