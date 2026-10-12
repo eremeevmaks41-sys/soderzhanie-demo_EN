@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T08:45:40+03:00",
+  "updated_at": "2026-10-12T18:12:48+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 281,
+      "date": "2026-10-12",
+      "time": "17:27",
+      "title": "Iran seeks dialogue with Saudi Arabia on Yemen’s Houthis",
+      "preview": "Iran is pursuing talks with Saudi Arabia regarding the Yemen conflict involving the Houthis, warning that a military solution could worsen regional instability. Tehran emphasizes…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/281",
+      "src": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss"
+    },
     {
       "id": 280,
       "date": "2026-10-12",
