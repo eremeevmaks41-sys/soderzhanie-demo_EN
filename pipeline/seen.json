@@ -2,6 +2,7 @@
   "seen": {
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
     "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
+    "189cc1c786a3f2c85bcf74ddc6bc7e8231594f4e": "2026-10-13",
     "14ee18a9e62f8931128819711d61694ffcdd02f5": "2026-10-12",
     "1ab91d86510979cbd1e25e92f7fcc3769849d370": "2026-10-12",
     "91b27b8cdbbbe0e08829198f9347ecd674704b08": "2026-10-12",
@@ -1374,6 +1375,10 @@
     "283": {
       "kind": "photo",
       "text": "🗞️ <b>New details revealed about Russian operation in Kyiv</b>\n\nLenta.ru reports that new details have emerged regarding a Russian military operation in Kyiv. The report does not specify the timing, scale, or nature of the operation, nor does it provide information on forces involved, objectives, or outcomes.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/13/raskryty-novye-detali-rossiyskoy-operatsii-v-kieve/\">Lenta.ru</a>"
+    },
+    "284": {
+      "kind": "photo",
+      "text": "⚖️ <b>Trump&#x27;s ambassador to Greece asked to resign over misconduct allegations</b>\n\nKimberly Guilfoyle, the U.S. ambassador to Greece appointed by Donald Trump, has been asked to resign amid allegations she offered access to Trump administration officials in exchange for money. The accusations have intensified in recent days, prompting official scrutiny.\n\n• Guilfoyle appointed as ambassador to Greece in 2020\n• Allegations include selling access to Trump officials for financial gain\n• U.S. State Department has not publicly confirmed resignation request\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
