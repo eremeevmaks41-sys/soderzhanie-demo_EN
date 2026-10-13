@@ -1,6 +1,7 @@
 {
   "seen": {
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
+    "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
     "14ee18a9e62f8931128819711d61694ffcdd02f5": "2026-10-12",
     "1ab91d86510979cbd1e25e92f7fcc3769849d370": "2026-10-12",
     "91b27b8cdbbbe0e08829198f9347ecd674704b08": "2026-10-12",
@@ -1369,6 +1370,10 @@
     "282": {
       "kind": "photo",
       "text": "⚠️ <b>Poland says two Turks arrested over Russia-linked Starlink station fire</b>\n\nPoland says two Turkish nationals were arrested in Germany over a fire at a Starlink ground station linked to Russia. The suspects will face sabotage charges in Poland. The incident is being treated as a possible act of sabotage tied to the Russia-Ukraine conflict.\n\n• Two Turkish suspects held in Germany\n• Charges: sabotage related to Starlink station fire\n• Poland links incident to Russia\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "283": {
+      "kind": "photo",
+      "text": "🗞️ <b>New details revealed about Russian operation in Kyiv</b>\n\nLenta.ru reports that new details have emerged regarding a Russian military operation in Kyiv. The report does not specify the timing, scale, or nature of the operation, nor does it provide information on forces involved, objectives, or outcomes.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/13/raskryty-novye-detali-rossiyskoy-operatsii-v-kieve/\">Lenta.ru</a>"
     }
   }
 }

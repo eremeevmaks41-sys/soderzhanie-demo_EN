@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T01:53:34+03:00",
+  "updated_at": "2026-10-13T09:40:57+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 283,
+      "date": "2026-10-13",
+      "time": "09:38",
+      "title": "New details revealed about Russian operation in Kyiv",
+      "preview": "Lenta.ru reports that new details have emerged regarding a Russian military operation in Kyiv. The report does not specify the timing, scale, or nature of the operation, nor does…",
+      "tags": [
+        "#russia",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/283",
+      "src": "https://lenta.ru/news/2026/10/13/raskryty-novye-detali-rossiyskoy-operatsii-v-kieve/"
+    },
     {
       "id": 282,
       "date": "2026-10-13",
