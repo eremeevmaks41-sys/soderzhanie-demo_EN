@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T10:28:55+03:00",
+  "updated_at": "2026-10-14T16:37:30+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 288,
+      "date": "2026-10-14",
+      "time": "16:35",
+      "title": "Rostelecom Deputy Chairman Calls for 'Doomsday' Data Centers",
+      "preview": "The deputy chairman of Rostelecom urged the creation of data centers designed to operate during catastrophic events, referred to as 'doomsday' facilities. He emphasized the need…",
+      "tags": [
+        "#russia",
+        "#technology"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/288",
+      "src": "https://www.vedomosti.ru/technology/news/2026/10/14/1237041-data-tsentri-sudnogo-dnya"
+    },
     {
       "id": 287,
       "date": "2026-10-14",
