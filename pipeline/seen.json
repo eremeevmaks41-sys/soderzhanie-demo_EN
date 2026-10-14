@@ -3,6 +3,7 @@
     "56327975e3fbe7bd829a5ca5777b3e35d427ad24": "2026-10-14",
     "1e219da60a75360dc7b118a33a285b094c085293": "2026-10-14",
     "e7033bef2c177004ceb9e77822c49ac7c11ce274": "2026-10-14",
+    "182f50035f62f62511b3f99f764c971da12909a5": "2026-10-14",
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
     "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
     "189cc1c786a3f2c85bcf74ddc6bc7e8231594f4e": "2026-10-13",
@@ -1399,6 +1400,10 @@
     "288": {
       "kind": "photo",
       "text": "📈 <b>Rostelecom Deputy Chairman Calls for &#x27;Doomsday&#x27; Data Centers</b>\n\nThe deputy chairman of Rostelecom urged the creation of data centers designed to operate during catastrophic events, referred to as &#x27;doomsday&#x27; facilities. He emphasized the need for resilient digital infrastructure to ensure continuity of critical services in extreme scenarios. No specific locations, timelines, or technical details were…\n\nSource: <a href=\"https://www.vedomosti.ru/technology/news/2026/10/14/1237041-data-tsentri-sudnogo-dnya\">Vedomosti</a>"
+    },
+    "289": {
+      "kind": "photo",
+      "text": "🛰️ <b>Starlink restrictions in Ukraine war tied to political situation, Zelensky aide says</b>\n\nA senior aide to Ukrainian President Volodymyr Zelensky said that limitations on the use of Elon Musk&#x27;s Starlink satellite internet system in Ukraine are connected to the broader political situation. The system enables Ukrainian forces to defend Ukrainian airspace and effectively guide drones toward Russian targets. No specific details…\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }

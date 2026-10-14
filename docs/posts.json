@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T16:37:30+03:00",
+  "updated_at": "2026-10-14T21:30:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -19,6 +19,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/288",
       "src": "https://www.vedomosti.ru/technology/news/2026/10/14/1237041-data-tsentri-sudnogo-dnya"
+    },
+    {
+      "id": 289,
+      "date": "2026-10-14",
+      "time": "16:11",
+      "title": "Starlink restrictions in Ukraine war tied to political situation, Zelensky aide says",
+      "preview": "A senior aide to Ukrainian President Volodymyr Zelensky said that limitations on the use of Elon Musk's Starlink satellite internet system in Ukraine are connected to the broader…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/289",
+      "src": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 287,
