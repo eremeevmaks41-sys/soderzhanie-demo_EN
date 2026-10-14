@@ -1,6 +1,7 @@
 {
   "seen": {
     "56327975e3fbe7bd829a5ca5777b3e35d427ad24": "2026-10-14",
+    "1e219da60a75360dc7b118a33a285b094c085293": "2026-10-14",
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
     "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
     "189cc1c786a3f2c85bcf74ddc6bc7e8231594f4e": "2026-10-13",
@@ -1389,6 +1390,10 @@
     "286": {
       "kind": "photo",
       "text": "💊 <b>Pope Leo XIV diagnosed with lung adenocarcinoma after surgery</b>\n\nPope Leo XIV underwent surgery to remove a small lung lesion, with intraoperative histology confirming adenocarcinoma of the lung. Doctors stated the diagnosis was suspected from preoperative tests and confirmed during the procedure. The announcement was made by Vatican News on Tuesday.\n\n• The lesion was described as small and located in lung tissue\n• Intraoperative histological examination confirmed the diagnosis\n• The diagnosis was suspected based on preoperative studies\n\nSource: <a href=\"https://www.interfax.ru/world/1122242\">Interfax</a>"
+    },
+    "287": {
+      "kind": "photo",
+      "text": "📱 <b>Roskachestvo advises optimal placement for Wi-Fi routers</b>\n\nRoskachestvo, Russia’s consumer quality agency, shared recommendations on where to best position Wi-Fi routers in homes and offices to improve signal strength and coverage. The guidance focuses on avoiding interference and maximizing connectivity through strategic placement.\n\nSource: <a href=\"https://ria.ru/20261014/wifi-2124392347.html\">RIA Novosti</a>"
     }
   }
 }

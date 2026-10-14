@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T04:07:23+03:00",
+  "updated_at": "2026-10-14T10:28:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 287,
+      "date": "2026-10-14",
+      "time": "10:28",
+      "title": "Roskachestvo advises optimal placement for Wi-Fi routers",
+      "preview": "Roskachestvo, Russia’s consumer quality agency, shared recommendations on where to best position Wi-Fi routers in homes and offices to improve signal strength and coverage. The…",
+      "tags": [
+        "#russia",
+        "#technology"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/287",
+      "src": "https://ria.ru/20261014/wifi-2124392347.html"
+    },
     {
       "id": 286,
       "date": "2026-10-14",
