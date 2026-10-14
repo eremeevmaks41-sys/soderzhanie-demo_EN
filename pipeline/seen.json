@@ -4,6 +4,7 @@
     "1e219da60a75360dc7b118a33a285b094c085293": "2026-10-14",
     "e7033bef2c177004ceb9e77822c49ac7c11ce274": "2026-10-14",
     "182f50035f62f62511b3f99f764c971da12909a5": "2026-10-14",
+    "2350a100c1a2e215bb41dc3aa6293d9405ddce4e": "2026-10-14",
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
     "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
     "189cc1c786a3f2c85bcf74ddc6bc7e8231594f4e": "2026-10-13",
@@ -1404,6 +1405,10 @@
     "289": {
       "kind": "photo",
       "text": "🛰️ <b>Starlink restrictions in Ukraine war tied to political situation, Zelensky aide says</b>\n\nA senior aide to Ukrainian President Volodymyr Zelensky said that limitations on the use of Elon Musk&#x27;s Starlink satellite internet system in Ukraine are connected to the broader political situation. The system enables Ukrainian forces to defend Ukrainian airspace and effectively guide drones toward Russian targets. No specific details…\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "290": {
+      "kind": "photo",
+      "text": "🛰️ <b>Musk says US decides Ukraine&#x27;s Starlink limits, not SpaceX</b>\n\nElon Musk stated that any restrictions on Ukraine&#x27;s access to Starlink are determined by the US government, not his company SpaceX. Ukraine reports that while Starlink access has improved, it still faces speed limits disrupting battlefield operations.\n\n• Ukraine says Starlink access has improved but speed limits remain\n• Speed limits are disrupting Ukrainian battlefield missions\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
