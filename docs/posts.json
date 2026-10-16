@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T20:58:43+03:00",
+  "updated_at": "2026-10-16T23:56:41+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 299,
+      "date": "2026-10-16",
+      "time": "23:38",
+      "title": "Moscow's Vnukovo, Domodedovo and Zhukovsky airports temporarily closed",
+      "preview": "Russia's aviation authority Rosaviatsiya announced temporary restrictions on aircraft arrivals and departures at Moscow's Vnukovo, Domodedovo and Zhukovsky airports on Friday.…",
+      "tags": [
+        "#russia",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/299",
+      "src": "https://www.interfax.ru/russia/1123110"
+    },
     {
       "id": 298,
       "date": "2026-10-16",

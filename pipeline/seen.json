@@ -3,6 +3,7 @@
     "76b00229612da978124f7117d59e3ee27f0e609a": "2026-10-16",
     "8a9eb48d242d5d67a1902794cb7156e8e8136449": "2026-10-16",
     "ea8019b7eabb670399aa09e2a7eb8741acbe7a8a": "2026-10-16",
+    "a2be263e99c91727ac2da99a52f90dece15d6934": "2026-10-16",
     "8ae7a2b24117bc369e5ba5e1d4bc2672ef2e6ef8": "2026-10-15",
     "d2ccff900c14b37c74df320eebc6581d9bbe34a7": "2026-10-15",
     "98ef014bf27154d2c079ee0e7c716d724e239ef5": "2026-10-15",
@@ -1449,6 +1450,10 @@
     "298": {
       "kind": "photo",
       "text": "📱 <b>Ukraine&#x27;s Operation Vivaldi regains Donbas territory with Starlink support</b>\n\nUkrainian forces are advancing in the Donbas as part of Operation Vivaldi, reclaiming key territory with critical support from Starlink satellite communications. The BBC embedded with troops reports progress on the front lines, though optimism is tempered by deteriorating relations between Ukraine and U.S. President Donald Trump.\n\n• Starlink is playing a key role in Ukrainian military communications during the offensive\n• The operation is focused on regaining crucial territory in the Donbas region\n• Relations between Ukraine and President Trump have soured, affecting morale\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "299": {
+      "kind": "photo",
+      "text": "✈️ <b>Moscow&#x27;s Vnukovo, Domodedovo and Zhukovsky airports temporarily closed</b>\n\nRussia&#x27;s aviation authority Rosaviatsiya announced temporary restrictions on aircraft arrivals and departures at Moscow&#x27;s Vnukovo, Domodedovo and Zhukovsky airports on Friday. The measures were communicated via the agency&#x27;s message in the Max messenger app. No further details on duration or cause were provided.\n\nSource: <a href=\"https://www.interfax.ru/russia/1123110\">Interfax</a>"
     }
   }
 }
