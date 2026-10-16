@@ -2,6 +2,7 @@
   "seen": {
     "76b00229612da978124f7117d59e3ee27f0e609a": "2026-10-16",
     "8a9eb48d242d5d67a1902794cb7156e8e8136449": "2026-10-16",
+    "ea8019b7eabb670399aa09e2a7eb8741acbe7a8a": "2026-10-16",
     "8ae7a2b24117bc369e5ba5e1d4bc2672ef2e6ef8": "2026-10-15",
     "d2ccff900c14b37c74df320eebc6581d9bbe34a7": "2026-10-15",
     "98ef014bf27154d2c079ee0e7c716d724e239ef5": "2026-10-15",
@@ -1444,6 +1445,10 @@
     "297": {
       "kind": "photo",
       "text": "⛽ <b>Miller reports record-low gas stocks in European storage facilities</b>\n\nAlexei Miller stated that gas reserves in European storage facilities have reached record-low levels. The announcement highlights growing concerns over energy security in the region ahead of the winter season. No specific figures or dates were provided in the statement.\n\nSource: <a href=\"https://www.vedomosti.ru/business/news/2026/10/16/1237754-miller-zayavil\">Vedomosti</a>"
+    },
+    "298": {
+      "kind": "photo",
+      "text": "📱 <b>Ukraine&#x27;s Operation Vivaldi regains Donbas territory with Starlink support</b>\n\nUkrainian forces are advancing in the Donbas as part of Operation Vivaldi, reclaiming key territory with critical support from Starlink satellite communications. The BBC embedded with troops reports progress on the front lines, though optimism is tempered by deteriorating relations between Ukraine and U.S. President Donald Trump.\n\n• Starlink is playing a key role in Ukrainian military communications during the offensive\n• The operation is focused on regaining crucial territory in the Donbas region\n• Relations between Ukraine and President Trump have soured, affecting morale\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }

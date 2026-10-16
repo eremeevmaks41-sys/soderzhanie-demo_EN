@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T16:12:41+03:00",
+  "updated_at": "2026-10-16T20:58:43+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 298,
+      "date": "2026-10-16",
+      "time": "19:00",
+      "title": "Ukraine's Operation Vivaldi regains Donbas territory with Starlink support",
+      "preview": "Ukrainian forces are advancing in the Donbas as part of Operation Vivaldi, reclaiming key territory with critical support from Starlink satellite communications. The BBC embedded…",
+      "tags": [
+        "#worldnews",
+        "#technology",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/298",
+      "src": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 297,
       "date": "2026-10-16",
