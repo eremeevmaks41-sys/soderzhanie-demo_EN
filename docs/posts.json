@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T10:03:14+03:00",
+  "updated_at": "2026-10-16T16:12:41+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 297,
+      "date": "2026-10-16",
+      "time": "16:06",
+      "title": "Miller reports record-low gas stocks in European storage facilities",
+      "preview": "Alexei Miller stated that gas reserves in European storage facilities have reached record-low levels. The announcement highlights growing concerns over energy security in the…",
+      "tags": [
+        "#russia",
+        "#economy",
+        "#energy"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/297",
+      "src": "https://www.vedomosti.ru/business/news/2026/10/16/1237754-miller-zayavil"
+    },
     {
       "id": 296,
       "date": "2026-10-16",
