@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T15:08:35+03:00",
+  "updated_at": "2026-10-17T18:29:16+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 303,
+      "date": "2026-10-17",
+      "time": "17:57",
+      "title": "Thousands rally in Tunisia’s largest protest in years against Saied",
+      "preview": "Unions and opposition groups united in Tunisia to protest poor living conditions and restrictions on political freedoms. The demonstration, described as the biggest in years…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/303",
+      "src": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
+    },
     {
       "id": 301,
       "date": "2026-10-17",
