@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T23:56:41+03:00",
+  "updated_at": "2026-10-17T03:19:32+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 300,
+      "date": "2026-10-17",
+      "time": "02:07",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect multiple times",
+      "preview": "A 16-year-old former student targeted a special educational needs classroom at an Oregon primary school. A teacher confronted the attacker before an armed father arrived and shot…",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/300",
+      "src": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 299,
       "date": "2026-10-16",
