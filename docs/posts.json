@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T21:24:44+03:00",
+  "updated_at": "2026-10-18T01:12:47+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 305,
+      "date": "2026-10-18",
+      "time": "00:08",
+      "title": "No Kings rallies across US urge early voting in midterms",
+      "preview": "Thousands gathered at events throughout the United States on Saturday as part of the No Kings movement, building on two years of marches. The rallies encouraged voters to cast…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/305",
+      "src": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss"
+    },
     {
       "id": 303,
       "date": "2026-10-17",
