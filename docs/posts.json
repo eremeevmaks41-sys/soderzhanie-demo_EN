@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T18:29:16+03:00",
+  "updated_at": "2026-10-17T21:24:44+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -20,6 +20,21 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/303",
       "src": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
+    },
+    {
+      "id": 304,
+      "date": "2026-10-17",
+      "time": "14:56",
+      "title": "Trump waives several Russia sanctions amid Zelensky row",
+      "preview": "US President Donald Trump has temporarily lifted multiple sanctions on Russia that were recently passed by Congress, citing national security concerns. The move comes as tensions…",
+      "tags": [
+        "#worldnews",
+        "#politics",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/304",
+      "src": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 301,
