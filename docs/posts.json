@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T03:19:32+03:00",
+  "updated_at": "2026-10-17T09:52:53+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 301,
+      "date": "2026-10-17",
+      "time": "09:42",
+      "title": "Possible scenario for Ukrainian elections revealed",
+      "preview": "Lenta.ru reports that a potential scenario for conducting elections in Ukraine has been disclosed. The details of the scenario were not specified in the source material. No…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/301",
+      "src": "https://lenta.ru/news/2026/10/17/raskryt-vozmozhnyy-stsenariy-provedeniya-vyborov-na-ukraine/"
+    },
     {
       "id": 300,
       "date": "2026-10-17",
