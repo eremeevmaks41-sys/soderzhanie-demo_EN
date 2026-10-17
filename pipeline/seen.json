@@ -16,6 +16,7 @@
     "e7033bef2c177004ceb9e77822c49ac7c11ce274": "2026-10-14",
     "182f50035f62f62511b3f99f764c971da12909a5": "2026-10-14",
     "2350a100c1a2e215bb41dc3aa6293d9405ddce4e": "2026-10-14",
+    "1c06cb477f7a4021495bf2b3581ae11c0accc0c2": "2026-10-14",
     "16be562bf1141a67add359055a7594123353df9e": "2026-10-13",
     "184f5b72883fe5accc3017353bc24cb875673fb4": "2026-10-13",
     "189cc1c786a3f2c85bcf74ddc6bc7e8231594f4e": "2026-10-13",
@@ -1464,6 +1465,10 @@
     "301": {
       "kind": "photo",
       "text": "🗳️ <b>Possible scenario for Ukrainian elections revealed</b>\n\nLenta.ru reports that a potential scenario for conducting elections in Ukraine has been disclosed. The details of the scenario were not specified in the source material. No further information about timing, participants, or conditions was provided.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/17/raskryt-vozmozhnyy-stsenariy-provedeniya-vyborov-na-ukraine/\">Lenta.ru</a>"
+    },
+    "302": {
+      "kind": "photo",
+      "text": "📱 <b>Zimbabwean author denies AI use in Caine prize-winning story</b>\n\nSimbarashe Kundizeza rejected claims that his short story The Blue Fighter was written with AI, after The Atlantic reported software flagged it as nearly fully AI-generated. The story won the prestigious Caine Prize for African writers on 6 October. The Atlantic article by Vauhini Vara appeared five days later, questioning the…\n\n• The Blue Fighter won the Caine Prize for African writers on 6 October\n• The Atlantic article titled &#x27;Yet Another Literary prize winner Seems to Be AI&#x27; was published five…\n• Kundizeza denied using AI to write the story\n\nSource: <a href=\"https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story\">The Guardian</a>"
     }
   }
 }
