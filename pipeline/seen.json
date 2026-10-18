@@ -1,6 +1,7 @@
 {
   "seen": {
     "3024f5421ad02f4a9de7366dd0257e01cb20c9e7": "2026-10-18",
+    "461c2dc3ba239432a4edcba34cfc3e916548ef67": "2026-10-18",
     "ef9d912548fd5b92a9dff485bafa034a09d8fcf2": "2026-10-17",
     "3cde25e18ebe602ecf97c3dc1ca29b89330290d2": "2026-10-17",
     "143b94428b22cbf5080159b875ee79109bbc4ba8": "2026-10-17",
@@ -1484,6 +1485,10 @@
     "305": {
       "kind": "photo",
       "text": "🗳️ <b>No Kings rallies across US urge early voting in midterms</b>\n\nThousands gathered at events throughout the United States on Saturday as part of the No Kings movement, building on two years of marches. The rallies encouraged voters to cast ballots early in the upcoming midterm elections.\n\n• Events took place nationwide on Saturday\n• Rallies built on two years of No Kings marches\n• Focus was on urging early voter participation\n\nSource: <a href=\"https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "306": {
+      "kind": "text",
+      "text": "🔥 <b>Fire at St Petersburg oil terminal after drone attack</b>\n\nA fire broke out at an oil terminal in St Petersburg following a drone attack on 18 October. Additional fires were reported at civilian infrastructure sites in the Nevsky, Krasnoselsky, Krasnogvardeysky and Moskovsky districts of the city.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9041210\">Kommersant</a>"
     }
   }
 }
