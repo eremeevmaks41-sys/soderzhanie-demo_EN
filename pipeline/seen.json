@@ -3,6 +3,7 @@
     "3024f5421ad02f4a9de7366dd0257e01cb20c9e7": "2026-10-18",
     "461c2dc3ba239432a4edcba34cfc3e916548ef67": "2026-10-18",
     "ac88bd5e7ebe6ea5231f766b5fddcd283c35ec9a": "2026-10-18",
+    "f14feb2a32b8bee796c8964b84215d1b595d1502": "2026-10-18",
     "ef9d912548fd5b92a9dff485bafa034a09d8fcf2": "2026-10-17",
     "3cde25e18ebe602ecf97c3dc1ca29b89330290d2": "2026-10-17",
     "143b94428b22cbf5080159b875ee79109bbc4ba8": "2026-10-17",
@@ -1494,6 +1495,10 @@
     "307": {
       "kind": "text",
       "text": "🔥 <b>Attempted arson at Lithuanian facility storing Starlink equipment</b>\n\nLithuanian Defense Minister Robertas Čaputienė reported that an attempt to set fire to a facility storing Starlink equipment was thwarted. The incident occurred in Lithuania, though the exact location and time were not specified. No casualties or damage were reported.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28227073\">TASS</a>"
+    },
+    "308": {
+      "kind": "photo",
+      "text": "⚠️ <b>Antigovernment protesters clash with police in Albania’s capital</b>\n\nPolice cracked down on the sixth day of student-led demonstrations in Tirana, where antigovernment protesters demanded the resignation of Prime Minister Edi Rama. Clashes erupted as security forces moved to disperse crowds calling for political change.\n\n• Protests entered their sixth consecutive day\n• Demonstrators are demanding Prime Minister Rama’s resignation\n• Police used force to break up gatherings in Tirana\n\nSource: <a href=\"https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
