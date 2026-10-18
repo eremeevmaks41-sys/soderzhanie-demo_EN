@@ -2,6 +2,7 @@
   "seen": {
     "3024f5421ad02f4a9de7366dd0257e01cb20c9e7": "2026-10-18",
     "461c2dc3ba239432a4edcba34cfc3e916548ef67": "2026-10-18",
+    "ac88bd5e7ebe6ea5231f766b5fddcd283c35ec9a": "2026-10-18",
     "ef9d912548fd5b92a9dff485bafa034a09d8fcf2": "2026-10-17",
     "3cde25e18ebe602ecf97c3dc1ca29b89330290d2": "2026-10-17",
     "143b94428b22cbf5080159b875ee79109bbc4ba8": "2026-10-17",
@@ -1489,6 +1490,10 @@
     "306": {
       "kind": "text",
       "text": "🔥 <b>Fire at St Petersburg oil terminal after drone attack</b>\n\nA fire broke out at an oil terminal in St Petersburg following a drone attack on 18 October. Additional fires were reported at civilian infrastructure sites in the Nevsky, Krasnoselsky, Krasnogvardeysky and Moskovsky districts of the city.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9041210\">Kommersant</a>"
+    },
+    "307": {
+      "kind": "text",
+      "text": "🔥 <b>Attempted arson at Lithuanian facility storing Starlink equipment</b>\n\nLithuanian Defense Minister Robertas Čaputienė reported that an attempt to set fire to a facility storing Starlink equipment was thwarted. The incident occurred in Lithuania, though the exact location and time were not specified. No casualties or damage were reported.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28227073\">TASS</a>"
     }
   }
 }
