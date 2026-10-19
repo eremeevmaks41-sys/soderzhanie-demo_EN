@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T15:56:18+03:00",
+  "updated_at": "2026-10-19T22:48:33+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 313,
+      "date": "2026-10-19",
+      "time": "21:58",
+      "title": "Moscow Region to Open Drone Training Centers for Schoolchildren in 11 Districts",
+      "preview": "Educational centers for FPV drone piloting will be launched in 11 municipalities of the Moscow Region, according to the regional Ministry of Physical Culture and Sports. Drone…",
+      "tags": [
+        "#russia",
+        "#technology",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/313",
+      "src": "https://www.interfax.ru/moscow/1123562"
+    },
     {
       "id": 312,
       "date": "2026-10-19",
