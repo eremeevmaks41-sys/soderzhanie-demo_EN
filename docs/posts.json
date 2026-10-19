@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T01:24:19+03:00",
+  "updated_at": "2026-10-19T07:27:49+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 311,
+      "date": "2026-10-19",
+      "time": "07:00",
+      "title": "Russia, US and China discuss possible trilateral summit",
+      "preview": "Kremlin spokesperson Dmitry Peskov confirmed that Moscow, Washington and Beijing are discussing a potential three-way summit between Vladimir Putin, Donald Trump and Xi Jinping.…",
+      "tags": [
+        "#russia",
+        "#politics",
+        "#conflict"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/311",
+      "src": "https://www.kommersant.ru/doc/9041557"
+    },
     {
       "id": 310,
       "date": "2026-10-19",
