@@ -2,6 +2,7 @@
   "seen": {
     "d764ea110bff3ba36f7eed52a948005da39c7bec": "2026-10-19",
     "88a12cbe13f5edc3498f357462968c55b3addaf0": "2026-10-19",
+    "01a912cf1b8e63ef729eb935845b21ffa5962019": "2026-10-19",
     "3024f5421ad02f4a9de7366dd0257e01cb20c9e7": "2026-10-18",
     "461c2dc3ba239432a4edcba34cfc3e916548ef67": "2026-10-18",
     "ac88bd5e7ebe6ea5231f766b5fddcd283c35ec9a": "2026-10-18",
@@ -1514,6 +1515,10 @@
     "311": {
       "kind": "text",
       "text": "🏛️ <b>Russia, US and China discuss possible trilateral summit</b>\n\nKremlin spokesperson Dmitry Peskov confirmed that Moscow, Washington and Beijing are discussing a potential three-way summit between Vladimir Putin, Donald Trump and Xi Jinping. According to The Wall Street Journal, Russia aims to use the meeting to explore ending the conflict in Ukraine.\n\n• Peskov confirmed talks on a Putin-Trump-Xi summit\n• WSJ reports Russia wants to discuss Ukraine conflict resolution\n• No date or format for the meeting has been set\n\nSource: <a href=\"https://www.kommersant.ru/doc/9041557\">Kommersant</a>"
+    },
+    "312": {
+      "kind": "photo",
+      "text": "💊 <b>Third Ebola case in Kenya underscores US funding cuts and WHO withdrawal</b>\n\nA third person in Kenya has tested positive for Bundibugyo ebolavirus, marking the country&#x27;s first-ever cluster of Ebola cases. This comes as the second-largest Ebola outbreak in history has killed over 4,300 and sickened more than 9,000 in the region. The situation highlights diminished US involvement due to funding cuts, withdrawal…\n\n• Kenya reports its first cluster of Ebola cases with three confirmed infections\n• US has cut global health funding and withdrawn from WHO amid rising outbreak\n• Over 4,300 dead and 9,000 infected in region&#x27;s second-largest Ebola outbreak in history\n\nSource: <a href=\"https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine\">The Guardian</a>"
     }
   }
 }

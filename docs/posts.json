@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T07:27:49+03:00",
+  "updated_at": "2026-10-19T15:56:18+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 312,
+      "date": "2026-10-19",
+      "time": "15:00",
+      "title": "Third Ebola case in Kenya underscores US funding cuts and WHO withdrawal",
+      "preview": "A third person in Kenya has tested positive for Bundibugyo ebolavirus, marking the country's first-ever cluster of Ebola cases. This comes as the second-largest Ebola outbreak in…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#health"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/312",
+      "src": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine"
+    },
     {
       "id": 311,
       "date": "2026-10-19",
