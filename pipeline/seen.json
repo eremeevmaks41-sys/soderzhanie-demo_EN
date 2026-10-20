@@ -1,6 +1,7 @@
 {
   "seen": {
     "528177b973b7e80900b6c673c7710ac7aabbf893": "2026-10-20",
+    "9654de1fb65ebe7e9757ff8ae2c35721ec626bd3": "2026-10-20",
     "d764ea110bff3ba36f7eed52a948005da39c7bec": "2026-10-19",
     "88a12cbe13f5edc3498f357462968c55b3addaf0": "2026-10-19",
     "01a912cf1b8e63ef729eb935845b21ffa5962019": "2026-10-19",
@@ -1529,6 +1530,10 @@
     "314": {
       "kind": "photo",
       "text": "⚠️ <b>Curfew imposed in parts of central Paris and other French cities after nationwide rioting</b>\n\nFrench authorities imposed curfews in central Paris and several other cities following widespread rioting across the country. The measures come after the interior minister admitted police had &#x27;lost control&#x27; in some urban areas. No specific casualty or arrest figures were provided in the report.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "315": {
+      "kind": "text",
+      "text": "💰 <b>Average pension for non-working Russians to exceed 30,000 rubles in 2027</b>\n\nThe average old-age insurance pension for non-working Russians will increase by more than 2,400 rubles in 2027, exceeding 30,000 rubles, according to Sergey Chirkov, head of the Social Fund. The pension will rise by 2,466 rubles specifically, as stated in the announcement.\n\n• Pension increase to exceed 30,000 rubles in 2027\n• Increase of 2,466 rubles from current levels\n• Announced by Sergey Chirkov, chairman of the Social Fund\n\nSource: <a href=\"https://www.kommersant.ru/doc/9042520\">Kommersant</a>"
     }
   }
 }
