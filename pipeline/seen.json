@@ -4,6 +4,7 @@
     "565e4029d57c0fd2e567429a6dbe219e2863569f": "2026-10-21",
     "cf7cfbef8af62c4284da699b136955dce248554b": "2026-10-21",
     "b70c12930e26be3d2adf1a192b31133d158504cc": "2026-10-21",
+    "8443c7f84b9e101b13098a209eb2e92bd62fb817": "2026-10-21",
     "528177b973b7e80900b6c673c7710ac7aabbf893": "2026-10-20",
     "9654de1fb65ebe7e9757ff8ae2c35721ec626bd3": "2026-10-20",
     "d11f9b56a00bec944e72d05d645c538933ef4244": "2026-10-20",
@@ -1564,6 +1565,10 @@
     "321": {
       "kind": "photo",
       "text": "💰 <b>Central Bank: Veles Capital trader used insider information in trades</b>\n\nThe Central Bank has identified a trader from Veles Capital who used insider information during trading sessions, violating market regulations.\n\nSource: <a href=\"https://www.vedomosti.ru/investments/news/2026/10/21/1238949-insaiderskuyu-informatsiyu\">Vedomosti</a>"
+    },
+    "322": {
+      "kind": "photo",
+      "text": "🌍 <b>Russia ready to resume talks with Ukraine and US to end war</b>\n\nRussian President Vladimir Putin held talks with US President Donald Trump&#x27;s special envoy Steve Witkoff in St Petersburg, signaling readiness to resume negotiations with Ukraine and the United States to end the conflict.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
