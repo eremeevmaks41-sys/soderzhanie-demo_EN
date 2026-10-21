@@ -2,6 +2,7 @@
   "seen": {
     "4ec1abe2de91eb59a624970637910b4fa09613ed": "2026-10-21",
     "565e4029d57c0fd2e567429a6dbe219e2863569f": "2026-10-21",
+    "cf7cfbef8af62c4284da699b136955dce248554b": "2026-10-21",
     "528177b973b7e80900b6c673c7710ac7aabbf893": "2026-10-20",
     "9654de1fb65ebe7e9757ff8ae2c35721ec626bd3": "2026-10-20",
     "d11f9b56a00bec944e72d05d645c538933ef4244": "2026-10-20",
@@ -1554,6 +1555,10 @@
     "319": {
       "kind": "photo",
       "text": "⚖️ <b>Zelensky says US intelligence sharing restored after Oslo talks</b>\n\nUkraine&#x27;s President Volodymyr Zelensky stated that US intelligence sharing has resumed following discussions with a Trump envoy in Oslo. The development comes after Kyiv accused Washington of withholding key information, a claim the US previously dismissed as &#x27;scandalous&#x27;.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "320": {
+      "kind": "photo",
+      "text": "🇷🇺 <b>Moscow doctors save patient&#x27;s lung using bronchial knife</b>\n\nA patient in Moscow had a lung preserved after surgeons used a bronchial knife to remove a tumor. The minimally invasive procedure avoided the need for a full lung resection.\n\nSource: <a href=\"https://ria.ru/20261021/operatsiya-2125825259.html\">RIA Novosti</a>"
     }
   }
 }
