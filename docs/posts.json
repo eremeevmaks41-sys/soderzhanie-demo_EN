@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T20:04:47+03:00",
+  "updated_at": "2026-10-23T00:29:11+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 327,
+      "date": "2026-10-23",
+      "time": "00:03",
+      "title": "Harry Kane aims to end England's 25-year trophy drought at Ballon d'Or 2026",
+      "preview": "Bayern Munich striker Harry Kane is among the favourites for the 2026 Ballon d'Or, alongside Lamine Yamal and Kylian Mbappe, as he looks to end England's wait for a major honour…",
+      "tags": [
+        "#worldnews",
+        "#sport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/327",
+      "src": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss"
+    },
     {
       "id": 326,
       "date": "2026-10-22",
