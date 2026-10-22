@@ -7,6 +7,7 @@
     "b70c12930e26be3d2adf1a192b31133d158504cc": "2026-10-21",
     "8443c7f84b9e101b13098a209eb2e92bd62fb817": "2026-10-21",
     "fe9517393d5718e15220e7bcc5ea46a6b70540b9": "2026-10-21",
+    "37df3a7841b8219aee1630fa094131452b2ad54a": "2026-10-21",
     "528177b973b7e80900b6c673c7710ac7aabbf893": "2026-10-20",
     "9654de1fb65ebe7e9757ff8ae2c35721ec626bd3": "2026-10-20",
     "d11f9b56a00bec944e72d05d645c538933ef4244": "2026-10-20",
@@ -1579,6 +1580,10 @@
     "324": {
       "kind": "text",
       "text": "🔬 <b>Data breach at Arcadia Inc. exposes personal information of half of Japan&#x27;s police</b>\n\nJapan&#x27;s National Police Agency reported a likely leak of personal data for officers and staff following a cyberattack on Arcadia Inc., a company providing disaster information. Kyodo News cited the agency as saying approximately 50 percent of police personnel were affected.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9044428\">Kommersant</a>"
+    },
+    "325": {
+      "kind": "photo",
+      "text": "⚠️ <b>US-backed hepatitis B vaccine trial in African newborns halted</b>\n\nA controversial hepatitis B vaccine trial in newborns in Guinea-Bissau, funded by the CDC, has been halted. The lead researcher, Frederik Schaltz-Buchholzer, stated the study will not move forward due to lack of governmental approval.\n\nSource: <a href=\"https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b\">The Guardian</a>"
     }
   }
 }
