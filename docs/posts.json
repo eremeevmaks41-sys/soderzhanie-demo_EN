@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T14:39:46+03:00",
+  "updated_at": "2026-10-22T20:04:47+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 326,
+      "date": "2026-10-22",
+      "time": "20:02",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "preview": "Donald Trump has been ordered to give evidence under oath in a legal battle with the BBC over a Panorama programme that edited clips from his 2021 speech. The former US president…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/326",
+      "src": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 324,
       "date": "2026-10-22",

@@ -1,6 +1,7 @@
 {
   "seen": {
     "434532606da53f74187c92ca62698561568030d4": "2026-10-22",
+    "fb451103cdf158eb95ff3386c9e6015de529e0a4": "2026-10-22",
     "4ec1abe2de91eb59a624970637910b4fa09613ed": "2026-10-21",
     "565e4029d57c0fd2e567429a6dbe219e2863569f": "2026-10-21",
     "cf7cfbef8af62c4284da699b136955dce248554b": "2026-10-21",
@@ -1584,6 +1585,10 @@
     "325": {
       "kind": "photo",
       "text": "⚠️ <b>US-backed hepatitis B vaccine trial in African newborns halted</b>\n\nA controversial hepatitis B vaccine trial in newborns in Guinea-Bissau, funded by the CDC, has been halted. The lead researcher, Frederik Schaltz-Buchholzer, stated the study will not move forward due to lack of governmental approval.\n\nSource: <a href=\"https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b\">The Guardian</a>"
+    },
+    "326": {
+      "kind": "photo",
+      "text": "⚖️ <b>Trump ordered to answer questions under oath in BBC lawsuit</b>\n\nDonald Trump has been ordered to give evidence under oath in a legal battle with the BBC over a Panorama programme that edited clips from his 2021 speech. The former US president is suing the broadcaster for defamation, alleging the edited footage damaged his reputation.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
