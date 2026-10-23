@@ -5,6 +5,7 @@
     "c7ec1db7e571d9b4f90a1acd711a9930b5754ca5": "2026-10-23",
     "41e928400d31ca35b19f4213e632a818b3d677a5": "2026-10-23",
     "829ab6c2cf9d5ef988f8db3eaf7b4ab9c6c3fa19": "2026-10-23",
+    "446ab61d2646200056de69d9cc4ca213a0041fc3": "2026-10-23",
     "434532606da53f74187c92ca62698561568030d4": "2026-10-22",
     "fb451103cdf158eb95ff3386c9e6015de529e0a4": "2026-10-22",
     "4ec1abe2de91eb59a624970637910b4fa09613ed": "2026-10-21",
@@ -1614,6 +1615,10 @@
     "331": {
       "kind": "photo",
       "text": "⚠️ <b>Deadly shooting near Paris investigated as &#x27;crime of terrorism&#x27;</b>\n\nOne person was killed and five others wounded in a series of attacks near Paris, with the suspected gunman apprehended. Authorities are treating the incident as a crime of terrorism.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "332": {
+      "kind": "photo",
+      "text": "⚠️ <b>Seven killed in gun attack at church funeral in Jordan</b>\n\nGunmen opened fire during a church funeral in southern Karak governorate, killing seven and injuring 34. A manhunt is underway following the attack.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
