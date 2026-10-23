@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T03:33:57+03:00",
+  "updated_at": "2026-10-23T10:22:55+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 329,
+      "date": "2026-10-23",
+      "time": "10:19",
+      "title": "Three towns in Perm Krai introduce 'Covver' plan",
+      "preview": "Residents of three settlements in Perm Krai have been enrolled in the new 'Covver' program, a local initiative aimed at improving municipal services and infrastructure. Details…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/329",
+      "src": "https://ria.ru/20261023/plan--2126458782.html"
+    },
     {
       "id": 328,
       "date": "2026-10-23",

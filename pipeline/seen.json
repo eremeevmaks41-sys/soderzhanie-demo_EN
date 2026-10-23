@@ -2,6 +2,7 @@
   "seen": {
     "07965f791ae290b09d082efa0fa2778fc42b4f1b": "2026-10-23",
     "c9a581bad37d13da852c82e07760b69bbfe12a83": "2026-10-23",
+    "c7ec1db7e571d9b4f90a1acd711a9930b5754ca5": "2026-10-23",
     "434532606da53f74187c92ca62698561568030d4": "2026-10-22",
     "fb451103cdf158eb95ff3386c9e6015de529e0a4": "2026-10-22",
     "4ec1abe2de91eb59a624970637910b4fa09613ed": "2026-10-21",
@@ -1599,6 +1600,10 @@
     "328": {
       "kind": "photo",
       "text": "⚠️ <b>Sudan&#x27;s RSF fighters deliberately targeted hospitals, BBC investigation finds</b>\n\nThe UN human rights chief Volker Türk says multiple attacks on medical facilities may amount to war crimes. Hospitals have been deliberately targeted in the ongoing conflict, the investigation reveals.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "329": {
+      "kind": "photo",
+      "text": "🏛️ <b>Three towns in Perm Krai introduce &#x27;Covver&#x27; plan</b>\n\nResidents of three settlements in Perm Krai have been enrolled in the new &#x27;Covver&#x27; program, a local initiative aimed at improving municipal services and infrastructure. Details on the program&#x27;s scope and objectives are currently being clarified by regional authorities.\n\nSource: <a href=\"https://ria.ru/20261023/plan--2126458782.html\">RIA Novosti</a>"
     }
   }
 }
