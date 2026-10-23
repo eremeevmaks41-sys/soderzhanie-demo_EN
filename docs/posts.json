@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T16:20:40+03:00",
+  "updated_at": "2026-10-23T21:16:01+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 331,
+      "date": "2026-10-23",
+      "time": "19:17",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism'",
+      "preview": "One person was killed and five others wounded in a series of attacks near Paris, with the suspected gunman apprehended. Authorities are treating the incident as a crime of…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/331",
+      "src": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 330,
       "date": "2026-10-23",
