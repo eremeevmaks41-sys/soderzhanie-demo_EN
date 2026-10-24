@@ -1,6 +1,7 @@
 {
   "seen": {
     "b125794b459afab6d0bce5710629e1eaf126125a": "2026-10-24",
+    "211423edcf2f9e3fefc5a4193491a982ab115196": "2026-10-24",
     "07965f791ae290b09d082efa0fa2778fc42b4f1b": "2026-10-23",
     "c9a581bad37d13da852c82e07760b69bbfe12a83": "2026-10-23",
     "c7ec1db7e571d9b4f90a1acd711a9930b5754ca5": "2026-10-23",
@@ -1624,6 +1625,10 @@
     "333": {
       "kind": "text",
       "text": "⚠️ <b>Power outage in Crimea after strike on energy infrastructure</b>\n\nA blackout hit Crimea overnight following a Ukrainian strike on energy infrastructure, Governor Mikhail Razvozhayev of Sevastopol reported.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9059706\">Kommersant</a>"
+    },
+    "334": {
+      "kind": "text",
+      "text": "⚡ <b>Rosatom denies false reports of staff evacuation at Bushehr NPP</b>\n\nRussian state nuclear corporation Rosatom has dismissed as false reports claiming employees were evacuated from the Bushehr nuclear power plant in Iran. The Russian embassy in Tehran also refuted the claims.\n\nSource: <a href=\"https://tass.ru/ekonomika/28249533\">TASS</a>"
     }
   }
 }

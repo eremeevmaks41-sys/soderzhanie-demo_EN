@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T07:25:10+03:00",
+  "updated_at": "2026-10-24T13:48:11+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 334,
+      "date": "2026-10-24",
+      "time": "13:42",
+      "title": "Rosatom denies false reports of staff evacuation at Bushehr NPP",
+      "preview": "Russian state nuclear corporation Rosatom has dismissed as false reports claiming employees were evacuated from the Bushehr nuclear power plant in Iran. The Russian embassy in…",
+      "tags": [
+        "#russia",
+        "#politics",
+        "#science"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/334",
+      "src": "https://tass.ru/ekonomika/28249533"
+    },
     {
       "id": 333,
       "date": "2026-10-24",
