@@ -1,5 +1,6 @@
 {
   "seen": {
+    "44213a01daaf5ceb1c9e98d0a7381f6a4f5dfff4": "2026-10-25",
     "b125794b459afab6d0bce5710629e1eaf126125a": "2026-10-24",
     "211423edcf2f9e3fefc5a4193491a982ab115196": "2026-10-24",
     "5501cf35456f6b869397797bfe54b904e4fabb0e": "2026-10-24",
@@ -1639,6 +1640,10 @@
     "336": {
       "kind": "photo",
       "text": "📱 <b>Ukraine says Starlink connection now stable after network limits</b>\n\nUkraine reports its Starlink satellite internet connection has been restored following restrictions that slowed military and drone operations for a week.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "337": {
+      "kind": "photo",
+      "text": "🗳️ <b>Lula and Bolsonaro draw thousands to election-eve rallies</b>\n\nThousands gathered in Brazil for election-eve rallies as the pivotal run-off looms, with supporters of left-wing President Lula and right-wing challenger Bolsonaro making their final pitches.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
