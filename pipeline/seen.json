@@ -1,5 +1,6 @@
 {
   "seen": {
+    "b125794b459afab6d0bce5710629e1eaf126125a": "2026-10-24",
     "07965f791ae290b09d082efa0fa2778fc42b4f1b": "2026-10-23",
     "c9a581bad37d13da852c82e07760b69bbfe12a83": "2026-10-23",
     "c7ec1db7e571d9b4f90a1acd711a9930b5754ca5": "2026-10-23",
@@ -1619,6 +1620,10 @@
     "332": {
       "kind": "photo",
       "text": "⚠️ <b>Seven killed in gun attack at church funeral in Jordan</b>\n\nGunmen opened fire during a church funeral in southern Karak governorate, killing seven and injuring 34. A manhunt is underway following the attack.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "333": {
+      "kind": "text",
+      "text": "⚠️ <b>Power outage in Crimea after strike on energy infrastructure</b>\n\nA blackout hit Crimea overnight following a Ukrainian strike on energy infrastructure, Governor Mikhail Razvozhayev of Sevastopol reported.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9059706\">Kommersant</a>"
     }
   }
 }
