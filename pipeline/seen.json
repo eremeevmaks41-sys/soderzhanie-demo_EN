@@ -12,6 +12,7 @@
     "41e928400d31ca35b19f4213e632a818b3d677a5": "2026-10-23",
     "829ab6c2cf9d5ef988f8db3eaf7b4ab9c6c3fa19": "2026-10-23",
     "446ab61d2646200056de69d9cc4ca213a0041fc3": "2026-10-23",
+    "9cd41a2cc7c2bbd19352e944f29ba1d67bbb1860": "2026-10-23",
     "434532606da53f74187c92ca62698561568030d4": "2026-10-22",
     "fb451103cdf158eb95ff3386c9e6015de529e0a4": "2026-10-22",
     "4ec1abe2de91eb59a624970637910b4fa09613ed": "2026-10-21",
@@ -1649,6 +1650,10 @@
     "338": {
       "kind": "text",
       "text": "📱 <b>Elon Musk: Ukrainian forces violated Starlink usage terms</b>\n\nElon Musk stated that Ukrainian forces breached the terms of using the Starlink satellite internet system, calling its use for offensive operations unacceptable.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9059941\">Kommersant</a>"
+    },
+    "339": {
+      "kind": "photo",
+      "text": "🌍 <b>Mystery over Ebola source in Nigeria fuels spread fears</b>\n\nHealth officials are racing to determine how Nigeria&#x27;s first Ebola patient in over a decade contracted the virus, amid fears the outbreak could spread further across Africa. The Swiss foreign ministry confirmed the patient is the Ugandan-born wife of a Swiss diplomat based in Abuja, who is believed to have contracted the virus while…\n\n• Nigeria&#x27;s first Ebola case in more than 10 years confirmed in a fourth African country\n• Patient believed infected while travelling with husband in Uganda\n• Outbreak has spread from DR Congo to Uganda, Kenya and now Nigeria\n\nSource: <a href=\"https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread\">The Guardian</a>"
     }
   }
 }
