@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T22:52:22+03:00",
+  "updated_at": "2026-10-27T02:45:56+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 345,
+      "date": "2026-10-27",
+      "time": "00:02",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "preview": "Left-wing President Luiz Inácio Lula da Silva secured a fourth term after a dramatic comeback in Brazil's presidential election, overturning his first-round defeat to right-wing…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/345",
+      "src": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 344,
       "date": "2026-10-26",

@@ -1,5 +1,6 @@
 {
   "seen": {
+    "29b1a18ff89dc9c74947568fdb0fa81aa1338ad5": "2026-10-27",
     "d10ce73800920d5faf723aa0c69d19e2bab40311": "2026-10-26",
     "7c5e755dd893c5009d57236d58e240342d6c02bf": "2026-10-26",
     "041eaf267713c0092b1d272ce6a34a507d3e3f24": "2026-10-26",
@@ -1679,6 +1680,10 @@
     "344": {
       "kind": "photo",
       "text": "🎓 <b>French high school students call for protests on Oct 31 and Nov 5</b>\n\nFrench student organizations have called for continued protests on October 31 and November 5, despite some progress following talks with Prime Minister Sebastien Lecornu, Le Figaro reported on Monday.\n\nSource: <a href=\"https://www.interfax.ru/world/1125117\">Interfax</a>"
+    },
+    "345": {
+      "kind": "photo",
+      "text": "🗳️ <b>Lula wins fourth term in dramatic Brazil election comeback</b>\n\nLeft-wing President Luiz Inácio Lula da Silva secured a fourth term after a dramatic comeback in Brazil&#x27;s presidential election, overturning his first-round defeat to right-wing challenger Flávio Bolsonaro.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
