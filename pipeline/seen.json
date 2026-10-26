@@ -1,6 +1,7 @@
 {
   "seen": {
     "d10ce73800920d5faf723aa0c69d19e2bab40311": "2026-10-26",
+    "7c5e755dd893c5009d57236d58e240342d6c02bf": "2026-10-26",
     "44213a01daaf5ceb1c9e98d0a7381f6a4f5dfff4": "2026-10-25",
     "210712e7b9a836f2da0bcd395befe6bbbf1da170": "2026-10-25",
     "08835502b652435e7bb4e9616d7ce2ffc9150f16": "2026-10-25",
@@ -1669,6 +1670,10 @@
     "342": {
       "kind": "photo",
       "text": "🗳️ <b>Marine Le Pen vows French &#x27;renaissance&#x27; as far right eyes power</b>\n\nNational Rally leader Marine Le Pen launches her 2027 presidential campaign amid nationwide protests and deep social and economic discontent, positioning herself as the standard-bearer for the French far right.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "343": {
+      "kind": "photo",
+      "text": "⚠️ <b>US airstrikes trap civilians along rising River Juba in Somalia</b>\n\nUS forces are accused of driving civilians toward the flooded River Juba in southern Somalia as al-Shabaab territory comes under coordinated airstrikes. Rising El Niño waters have reached waist height, leaving residents like Cayni Ali with no escape as their town of Jilib comes under repeated attack.\n\n• Residents report drones killing animals and civilians in Jilib\n• River Juba levels rising rapidly due to El Niño rains\n• Cayni Ali, mother of six, says her home was destroyed by flooding\n\nSource: <a href=\"https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino\">The Guardian</a>"
     }
   }
 }
