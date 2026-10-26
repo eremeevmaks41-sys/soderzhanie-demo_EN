@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T15:48:50+03:00",
+  "updated_at": "2026-10-26T22:52:22+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 344,
+      "date": "2026-10-26",
+      "time": "22:41",
+      "title": "French high school students call for protests on Oct 31 and Nov 5",
+      "preview": "French student organizations have called for continued protests on October 31 and November 5, despite some progress following talks with Prime Minister Sebastien Lecornu, Le…",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/344",
+      "src": "https://www.interfax.ru/world/1125117"
+    },
     {
       "id": 343,
       "date": "2026-10-26",
