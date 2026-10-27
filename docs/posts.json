@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T02:45:56+03:00",
+  "updated_at": "2026-10-27T07:50:34+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 346,
+      "date": "2026-10-27",
+      "time": "07:45",
+      "title": "Far Eastern resident sentenced to 23 years for treason",
+      "preview": "A 61-year-old man from Ussuriysk was found guilty of treason and public calls to terrorist activity by the Pacific Fleet military court. The defendant received a 23-year prison…",
+      "tags": [
+        "#russia",
+        "#politics",
+        "#society"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/346",
+      "src": "https://www.kommersant.ru/doc/9061270"
+    },
     {
       "id": 345,
       "date": "2026-10-27",

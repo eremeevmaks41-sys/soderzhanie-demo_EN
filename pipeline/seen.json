@@ -1,6 +1,7 @@
 {
   "seen": {
     "29b1a18ff89dc9c74947568fdb0fa81aa1338ad5": "2026-10-27",
+    "7c0b2889fbb8ad663c65efa6ad54707a03a0704f": "2026-10-27",
     "d10ce73800920d5faf723aa0c69d19e2bab40311": "2026-10-26",
     "7c5e755dd893c5009d57236d58e240342d6c02bf": "2026-10-26",
     "041eaf267713c0092b1d272ce6a34a507d3e3f24": "2026-10-26",
@@ -1684,6 +1685,10 @@
     "345": {
       "kind": "photo",
       "text": "🗳️ <b>Lula wins fourth term in dramatic Brazil election comeback</b>\n\nLeft-wing President Luiz Inácio Lula da Silva secured a fourth term after a dramatic comeback in Brazil&#x27;s presidential election, overturning his first-round defeat to right-wing challenger Flávio Bolsonaro.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "346": {
+      "kind": "text",
+      "text": "⚖️ <b>Far Eastern resident sentenced to 23 years for treason</b>\n\nA 61-year-old man from Ussuriysk was found guilty of treason and public calls to terrorist activity by the Pacific Fleet military court. The defendant received a 23-year prison sentence for charges under Article 275 of the Criminal Code.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9061270\">Kommersant</a>"
     }
   }
 }
