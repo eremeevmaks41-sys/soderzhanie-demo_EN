@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T11:18:26+03:00",
+  "updated_at": "2026-10-28T19:35:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 352,
+      "date": "2026-10-28",
+      "time": "19:12",
+      "title": "Kremlin says European countries excluded from next Ukraine talks",
+      "preview": "The Kremlin has announced that European nations will not be invited to the upcoming negotiations on Ukraine, as the UK and Netherlands pledge additional military aid to Kyiv.",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/352",
+      "src": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
+    },
     {
       "id": 351,
       "date": "2026-10-28",
