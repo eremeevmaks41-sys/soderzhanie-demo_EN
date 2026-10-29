@@ -6,6 +6,7 @@
     "29ed52faa783c804951c6bb6b8d6108adecce34b": "2026-10-28",
     "5d7fba7e6635522b8ee7ebccb6b87f87a6ca8ed1": "2026-10-28",
     "2db6218b91d55b24cef139e9412bc5fa0bffa560": "2026-10-28",
+    "73a6520b75a6e6900962e5236edf5893a25af690": "2026-10-28",
     "29b1a18ff89dc9c74947568fdb0fa81aa1338ad5": "2026-10-27",
     "7c0b2889fbb8ad663c65efa6ad54707a03a0704f": "2026-10-27",
     "567e4ebfcbb6103ace1ecd891d8e922be326f490": "2026-10-27",
@@ -1729,6 +1730,10 @@
     "354": {
       "kind": "photo",
       "text": "💰 <b>Valley&#x27;s fee for New Year corporate events revealed</b>\n\nDetails have emerged about the compensation received by the head of the Valley region for organizing New Year corporate events. The information sheds light on the financial aspects of regional holiday celebrations.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/29/raskryt-gonorar-dolinoy-za-novogodnie-korporativy/\">Lenta.ru</a>"
+    },
+    "355": {
+      "kind": "photo",
+      "text": "🌍 <b>Egypt fines editor Lina Attalah and shuts independent outlet Mada Masr</b>\n\nA Cairo court convicted prominent journalist Lina Attalah of managing an unlicensed website and ordered the shutdown of Mada Masr, part of an intensifying crackdown on independent media in Egypt. Attalah was briefly detained following the verdict.\n\nSource: <a href=\"https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown\">The Guardian</a>"
     }
   }
 }
