@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T22:32:22+03:00",
+  "updated_at": "2026-10-30T02:55:54+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 357,
+      "date": "2026-10-29",
+      "time": "23:21",
+      "title": "Israeli opposition accuses Netanyahu of trying to delegitimise election",
+      "preview": "Israeli opposition leaders have accused Prime Minister Benjamin Netanyahu of attempting to delegitimise the election result after his Likud party claimed foreign interference and…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/357",
+      "src": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 356,
       "date": "2026-10-29",
