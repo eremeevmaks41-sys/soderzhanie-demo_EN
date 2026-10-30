@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T22:10:05+03:00",
+  "updated_at": "2026-10-31T02:38:29+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 361,
+      "date": "2026-10-31",
+      "time": "01:20",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "preview": "The United States has approved the sale of 500 Patriot interceptors to Ukraine, described as the only effective weapon for downing Russia's ballistic missiles.",
+      "tags": [
+        "#worldnews",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/361",
+      "src": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 360,
       "date": "2026-10-30",
