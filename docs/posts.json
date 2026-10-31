@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T21:27:44+03:00",
+  "updated_at": "2026-11-01T02:18:38+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 365,
+      "date": "2026-10-31",
+      "time": "22:22",
+      "title": "Evacuees recount crossing minefields in occupied Oleshky",
+      "preview": "A Ukrainian couple who fled the front-line city of Oleshky described crossing minefields in search of food after years living under Russian occupation. Their account highlights…",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/365",
+      "src": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 364,
       "date": "2026-10-31",
