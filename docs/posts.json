@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T02:38:29+03:00",
+  "updated_at": "2026-10-31T08:21:27+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 362,
+      "date": "2026-10-31",
+      "time": "08:10",
+      "title": "Putin's envoy comments on coup in Poland",
+      "preview": "Presidential envoy Vladimir Pozner commented on reports of a political upheaval in Poland, stating that the situation requires careful monitoring.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/362",
+      "src": "https://lenta.ru/news/2026/10/31/spetspredstavitel-putina-prokommentiroval-gosperevorot-v-polshe/"
+    },
     {
       "id": 361,
       "date": "2026-10-31",

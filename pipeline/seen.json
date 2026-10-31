@@ -1,6 +1,7 @@
 {
   "seen": {
     "f8a4093ec484fd61b005e072176290d2ea4672f2": "2026-10-31",
+    "9e9972a6a3a798fce1c96520b8a420cdaa7e5a8e": "2026-10-31",
     "e49046c5e9cf687fda7d0c792e5c96988ddee901": "2026-10-30",
     "d5399bfb76f3b73ff4c2ab843d0e8b0b7fc3480e": "2026-10-30",
     "4fe7ba24e335fc9a1f2c3b2bee8df832ec28dce7": "2026-10-30",
@@ -1764,6 +1765,10 @@
     "361": {
       "kind": "photo",
       "text": "🌍 <b>US approves sale of 500 Patriot missiles to Ukraine</b>\n\nThe United States has approved the sale of 500 Patriot interceptors to Ukraine, described as the only effective weapon for downing Russia&#x27;s ballistic missiles.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "362": {
+      "kind": "photo",
+      "text": "⚖️ <b>Putin&#x27;s envoy comments on coup in Poland</b>\n\nPresidential envoy Vladimir Pozner commented on reports of a political upheaval in Poland, stating that the situation requires careful monitoring.\n\nSource: <a href=\"https://lenta.ru/news/2026/10/31/spetspredstavitel-putina-prokommentiroval-gosperevorot-v-polshe/\">Lenta.ru</a>"
     }
   }
 }
