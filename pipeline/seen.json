@@ -2,6 +2,7 @@
   "seen": {
     "c5fa8ab741284a67cdefc7f297b00a9d5e7870d2": "2026-11-01",
     "f4074db23065ebda5041e455cb80eaf40f291e04": "2026-11-01",
+    "ff745a7d3f795b93e35ffb0f9069e5ffd6597501": "2026-11-01",
     "f8a4093ec484fd61b005e072176290d2ea4672f2": "2026-10-31",
     "9e9972a6a3a798fce1c96520b8a420cdaa7e5a8e": "2026-10-31",
     "cfc0e446b644dd4b792990e4c01a88cbe2453a1c": "2026-10-31",
@@ -1794,6 +1795,10 @@
     "367": {
       "kind": "photo",
       "text": "✈️ <b>Iran hopes to receive Russian Su-35 jets after conflict</b>\n\nIran has expressed hope of acquiring Russian Su-35 fighter jets following the resolution of the current conflict, according to reports.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/11/01/1241838-iran-virazil-nadezhdu\">Vedomosti</a>"
+    },
+    "368": {
+      "kind": "photo",
+      "text": "⚠️ <b>Shops looted as German cost-of-living protests turn violent</b>\n\nThousands of protesters took to the streets in German cities including Berlin, Hamburg and Frankfurt, turning violent with shops looted. The unrest occurred alongside massive demonstrations in France on the same day.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
