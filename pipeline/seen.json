@@ -1,6 +1,7 @@
 {
   "seen": {
     "c5fa8ab741284a67cdefc7f297b00a9d5e7870d2": "2026-11-01",
+    "f4074db23065ebda5041e455cb80eaf40f291e04": "2026-11-01",
     "f8a4093ec484fd61b005e072176290d2ea4672f2": "2026-10-31",
     "9e9972a6a3a798fce1c96520b8a420cdaa7e5a8e": "2026-10-31",
     "cfc0e446b644dd4b792990e4c01a88cbe2453a1c": "2026-10-31",
@@ -1789,6 +1790,10 @@
     "366": {
       "kind": "photo",
       "text": "⚠️ <b>Puppies shot dead in Russian region</b>\n\nReports emerge of puppies being shot dead in a Russian region, highlighting a case of animal cruelty. Details on the location and circumstances remain under investigation.\n\nSource: <a href=\"https://lenta.ru/news/2026/11/01/bezzaschitnyh-schenkov-rasstrelyali-v-rossiyskom-regione/\">Lenta.ru</a>"
+    },
+    "367": {
+      "kind": "photo",
+      "text": "✈️ <b>Iran hopes to receive Russian Su-35 jets after conflict</b>\n\nIran has expressed hope of acquiring Russian Su-35 fighter jets following the resolution of the current conflict, according to reports.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/11/01/1241838-iran-virazil-nadezhdu\">Vedomosti</a>"
     }
   }
 }
