@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T02:18:38+03:00",
+  "updated_at": "2026-11-01T08:49:57+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 366,
+      "date": "2026-11-01",
+      "time": "08:37",
+      "title": "Puppies shot dead in Russian region",
+      "preview": "Reports emerge of puppies being shot dead in a Russian region, highlighting a case of animal cruelty. Details on the location and circumstances remain under investigation.",
+      "tags": [
+        "#russia",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/366",
+      "src": "https://lenta.ru/news/2026/11/01/bezzaschitnyh-schenkov-rasstrelyali-v-rossiyskom-regione/"
+    },
     {
       "id": 365,
       "date": "2026-10-31",
