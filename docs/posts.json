@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T21:53:21+03:00",
+  "updated_at": "2026-11-02T02:30:46+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 369,
+      "date": "2026-11-02",
+      "time": "00:55",
+      "title": "Russian strikes cut power to thousands in Ukraine as ceasefire ends",
+      "preview": "Russian attacks have knocked out electricity to thousands of people in Ukraine, just as a humanitarian ceasefire intended to allow civilian evacuations from the Russian-occupied…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/369",
+      "src": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 367,
       "date": "2026-11-01",

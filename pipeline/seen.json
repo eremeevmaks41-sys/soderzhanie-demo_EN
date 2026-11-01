@@ -1,5 +1,6 @@
 {
   "seen": {
+    "3e86e5ed3f68040c6a8e1cab503141fbb09ab529": "2026-11-02",
     "c5fa8ab741284a67cdefc7f297b00a9d5e7870d2": "2026-11-01",
     "f4074db23065ebda5041e455cb80eaf40f291e04": "2026-11-01",
     "ff745a7d3f795b93e35ffb0f9069e5ffd6597501": "2026-11-01",
@@ -1799,6 +1800,10 @@
     "368": {
       "kind": "photo",
       "text": "⚠️ <b>Shops looted as German cost-of-living protests turn violent</b>\n\nThousands of protesters took to the streets in German cities including Berlin, Hamburg and Frankfurt, turning violent with shops looted. The unrest occurred alongside massive demonstrations in France on the same day.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "369": {
+      "kind": "photo",
+      "text": "⚠️ <b>Russian strikes cut power to thousands in Ukraine as ceasefire ends</b>\n\nRussian attacks have knocked out electricity to thousands of people in Ukraine, just as a humanitarian ceasefire intended to allow civilian evacuations from the Russian-occupied city of Oleshky has ended.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
