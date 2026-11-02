@@ -2,6 +2,7 @@
   "seen": {
     "3e86e5ed3f68040c6a8e1cab503141fbb09ab529": "2026-11-02",
     "a5f9c65563a079f63bf622d68653865580e576d2": "2026-11-02",
+    "7db94b1ec7f870fb99816698d8562c07fcfac280": "2026-11-02",
     "c5fa8ab741284a67cdefc7f297b00a9d5e7870d2": "2026-11-01",
     "f4074db23065ebda5041e455cb80eaf40f291e04": "2026-11-01",
     "ff745a7d3f795b93e35ffb0f9069e5ffd6597501": "2026-11-01",
@@ -1809,6 +1810,10 @@
     "370": {
       "kind": "photo",
       "text": "⚠️ <b>Known issue with military aid to Ukraine</b>\n\nDetails have emerged regarding a problem affecting military assistance to Ukraine, though specifics remain limited.\n\nSource: <a href=\"https://lenta.ru/news/2026/11/02/stalo-izvestno-o-probleme-s-voennoy-pomoschyu-ukraine/\">Lenta.ru</a>"
+    },
+    "371": {
+      "kind": "photo",
+      "text": "🏆 <b>Jake Paul to fight MMA star Cedric Doumbe</b>\n\nYouTuber-turned-boxer Jake Paul is set to face mixed martial arts star Cedric Doumbe. The boxing bout will take place in Dubai.\n\nSource: <a href=\"https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
