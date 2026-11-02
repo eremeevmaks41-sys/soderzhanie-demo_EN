@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T18:35:19+03:00",
+  "updated_at": "2026-11-03T02:27:03+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 372,
+      "date": "2026-11-03",
+      "time": "00:10",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "preview": "At least 26 people were killed in a Russian air strike on a humanitarian aid centre in a southern Ukrainian village, officials said. At least nine 3,000kg aerial bombs hit the…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/372",
+      "src": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 371,
       "date": "2026-11-02",
