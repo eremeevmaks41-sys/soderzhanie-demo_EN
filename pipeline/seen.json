@@ -2,6 +2,7 @@
   "seen": {
     "a4ca32db3114388bc21e0b4605c8adec9a040185": "2026-11-03",
     "6e3d3650be23b5a1d126722232066cb0fa45e2d5": "2026-11-03",
+    "34a129c6b433c3c74ec6d39f1484b7704f89f3c4": "2026-11-03",
     "3e86e5ed3f68040c6a8e1cab503141fbb09ab529": "2026-11-02",
     "a5f9c65563a079f63bf622d68653865580e576d2": "2026-11-02",
     "7db94b1ec7f870fb99816698d8562c07fcfac280": "2026-11-02",
@@ -1824,6 +1825,10 @@
     "373": {
       "kind": "photo",
       "text": "🎭 <b>Baltika defender compares Russian Premier League to French championship</b>\n\nA Baltika player has drawn a comparison between the level of the Russian Premier League and the French championship, highlighting the differences in playing style and competition standard.\n\nSource: <a href=\"https://lenta.ru/news/2026/11/03/zaschitnik-baltiki-sravnil-uroven-rpl-i-chempionata-frantsii/\">Lenta.ru</a>"
+    },
+    "374": {
+      "kind": "photo",
+      "text": "⚠️ <b>Syria says it foiled Hezbollah plot to target Homs oil refinery</b>\n\nSyrian authorities announced they had foiled a plot by Hezbollah to target an oil refinery in Homs, state media reported. Hezbollah has denied the accusations, reiterating it has no presence on Syrian territory.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
