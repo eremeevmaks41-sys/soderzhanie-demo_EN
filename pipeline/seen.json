@@ -1,5 +1,6 @@
 {
   "seen": {
+    "1b242238dcdd040dc81380012d3a7f749846f1f9": "2026-11-04",
     "a4ca32db3114388bc21e0b4605c8adec9a040185": "2026-11-03",
     "6e3d3650be23b5a1d126722232066cb0fa45e2d5": "2026-11-03",
     "34a129c6b433c3c74ec6d39f1484b7704f89f3c4": "2026-11-03",
@@ -1829,6 +1830,10 @@
     "374": {
       "kind": "photo",
       "text": "⚠️ <b>Syria says it foiled Hezbollah plot to target Homs oil refinery</b>\n\nSyrian authorities announced they had foiled a plot by Hezbollah to target an oil refinery in Homs, state media reported. Hezbollah has denied the accusations, reiterating it has no presence on Syrian territory.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "375": {
+      "kind": "photo",
+      "text": "🗳️ <b>Netanyahu’s eight-seat problem</b>\n\nBenjamin Netanyahu&#x27;s Likud-led bloc won the most seats in Israel&#x27;s general election, but faces a difficult path to forming a government. The coalition-building process is complicated by a narrow margin and rival political factions.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
