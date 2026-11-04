@@ -2,6 +2,7 @@
   "seen": {
     "1b242238dcdd040dc81380012d3a7f749846f1f9": "2026-11-04",
     "6a11cdc76fd468492d1bec4458a534076187499b": "2026-11-04",
+    "932e5368b90ee8e05a83d7a488611df9f2de40a5": "2026-11-04",
     "a4ca32db3114388bc21e0b4605c8adec9a040185": "2026-11-03",
     "6e3d3650be23b5a1d126722232066cb0fa45e2d5": "2026-11-03",
     "34a129c6b433c3c74ec6d39f1484b7704f89f3c4": "2026-11-03",
@@ -1839,6 +1840,10 @@
     "376": {
       "kind": "photo",
       "text": "✈️ <b>Saratov Airport temporarily suspends flights</b>\n\nTemporary restrictions on aircraft arrivals and departures have been introduced at Saratov Airport, Rosaviation said on Wednesday.\n\nSource: <a href=\"https://www.interfax.ru/russia/1126891\">Interfax</a>"
+    },
+    "377": {
+      "kind": "photo",
+      "text": "🗳️ <b>ANC faces bruising result in South African local elections</b>\n\nThe African National Congress is expected to receive less than a third of the vote in Wednesday&#x27;s local elections. Voters are expressing deep discontent over crumbling infrastructure, water outages, and power cuts.\n\n• ANC&#x27;s support may drop below 33%, down from 45.6% in 2021 and 40.2% in 2024\n• The party is still likely to remain the largest party despite the decline\n\nSource: <a href=\"https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts\">The Guardian</a>"
     }
   }
 }

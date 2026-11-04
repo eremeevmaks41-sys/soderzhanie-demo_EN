@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T05:09:23+03:00",
+  "updated_at": "2026-11-04T15:01:08+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 377,
+      "date": "2026-11-04",
+      "time": "07:00",
+      "title": "ANC faces bruising result in South African local elections",
+      "preview": "The African National Congress is expected to receive less than a third of the vote in Wednesday's local elections. Voters are expressing deep discontent over crumbling…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/377",
+      "src": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+    },
     {
       "id": 376,
       "date": "2026-11-04",
