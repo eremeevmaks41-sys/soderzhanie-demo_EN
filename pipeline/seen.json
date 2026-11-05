@@ -1,5 +1,6 @@
 {
   "seen": {
+    "940dd503c0993d94efcdc1047fd055882927535f": "2026-11-05",
     "1b242238dcdd040dc81380012d3a7f749846f1f9": "2026-11-04",
     "6a11cdc76fd468492d1bec4458a534076187499b": "2026-11-04",
     "932e5368b90ee8e05a83d7a488611df9f2de40a5": "2026-11-04",
@@ -1854,6 +1855,10 @@
     "379": {
       "kind": "photo",
       "text": "🗳️ <b>Angry Republicans blame Trump for midterms defeat</b>\n\nSome Republicans tell the BBC the president&#x27;s focus on his legacy and indifference to voter concerns cost them the midterms\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "380": {
+      "kind": "text",
+      "text": "🏛️ <b>Russia counts 250,000 enterprises ensuring technological sovereignty of SMEs</b>\n\nThe number of small and medium-sized enterprises supporting technological sovereignty in Russia has grown to 250,000, according to a study by the SME Corporation.\n\nSource: <a href=\"https://tass.ru/ekonomika/28288209\">TASS</a>"
     }
   }
 }

@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T03:52:41+03:00",
+  "updated_at": "2026-11-05T12:22:25+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 380,
+      "date": "2026-11-05",
+      "time": "12:20",
+      "title": "Russia counts 250,000 enterprises ensuring technological sovereignty of SMEs",
+      "preview": "The number of small and medium-sized enterprises supporting technological sovereignty in Russia has grown to 250,000, according to a study by the SME Corporation.",
+      "tags": [
+        "#russia",
+        "#economy",
+        "#technology"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/380",
+      "src": "https://tass.ru/ekonomika/28288209"
+    },
     {
       "id": 378,
       "date": "2026-11-04",
