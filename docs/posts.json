@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T12:22:25+03:00",
+  "updated_at": "2026-11-05T20:58:41+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -20,6 +20,20 @@
       "kind": "text",
       "url": "https://t.me/daily_news_digest_en/380",
       "src": "https://tass.ru/ekonomika/28288209"
+    },
+    {
+      "id": 381,
+      "date": "2026-11-05",
+      "time": "06:47",
+      "title": "Vance blasts Trump election defeat, cites Iran war",
+      "preview": "Vice-President JD Vance delivered a scathing critique of the Republican election loss, blaming the Iran conflict, marking a sharp break with former President Donald Trump. The…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/381",
+      "src": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": 378,
