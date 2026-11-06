@@ -1,6 +1,7 @@
 {
   "seen": {
     "e44caa7a75b1599dc2eec6abc035ebce38faf814": "2026-11-06",
+    "265475d8898488b65e4af4f0c8797d2dcc6bdf76": "2026-11-06",
     "940dd503c0993d94efcdc1047fd055882927535f": "2026-11-05",
     "762e4e6a19b25ca742da26c02e9902c3caffe7d7": "2026-11-05",
     "1b242238dcdd040dc81380012d3a7f749846f1f9": "2026-11-04",
@@ -1869,6 +1870,10 @@
     "382": {
       "kind": "photo",
       "text": "📉 <b>Major tech stocks plunge as US midterms add to fears of AI slowdown</b>\n\nMarkets reacted to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "383": {
+      "kind": "photo",
+      "text": "🌍 <b>Ukraine&#x27;s Foreign Minister reveals Abu Dhabi talks agenda</b>\n\nUkraine&#x27;s top diplomat disclosed the agenda of talks held in Abu Dhabi, outlining the key points discussed with visiting delegations.\n\nSource: <a href=\"https://lenta.ru/news/2026/11/06/glava-mid-ukrainy-raskryl-povestku-peregovorov-v-abu-dabi/\">Lenta.ru</a>"
     }
   }
 }

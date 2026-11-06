@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T02:33:41+03:00",
+  "updated_at": "2026-11-06T09:22:40+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 383,
+      "date": "2026-11-06",
+      "time": "09:13",
+      "title": "Ukraine's Foreign Minister reveals Abu Dhabi talks agenda",
+      "preview": "Ukraine's top diplomat disclosed the agenda of talks held in Abu Dhabi, outlining the key points discussed with visiting delegations.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/383",
+      "src": "https://lenta.ru/news/2026/11/06/glava-mid-ukrainy-raskryl-povestku-peregovorov-v-abu-dabi/"
+    },
     {
       "id": 382,
       "date": "2026-11-06",
