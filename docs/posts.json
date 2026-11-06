@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T18:53:47+03:00",
+  "updated_at": "2026-11-07T00:27:53+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 385,
+      "date": "2026-11-07",
+      "time": "00:04",
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "preview": "Protesters breached the perimeter of a Microsoft data centre construction site in Amsterdam on Tuesday, highlighting growing European opposition to the rapid expansion of data…",
+      "tags": [
+        "#worldnews",
+        "#technology",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/385",
+      "src": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss"
+    },
     {
       "id": 384,
       "date": "2026-11-06",
