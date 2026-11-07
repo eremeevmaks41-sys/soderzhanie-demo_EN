@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T11:40:37+03:00",
+  "updated_at": "2026-11-07T19:18:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 388,
+      "date": "2026-11-07",
+      "time": "18:34",
+      "title": "IRGC announces underground weapons sites for missile production",
+      "preview": "Iran's Islamic Revolutionary Guard Corps says underground military complexes will allow missile production to continue despite heavy bombardment.",
+      "tags": [
+        "#worldnews",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/388",
+      "src": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss"
+    },
     {
       "id": 387,
       "date": "2026-11-07",
