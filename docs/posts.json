@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T19:18:37+03:00",
+  "updated_at": "2026-11-08T00:44:17+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 389,
+      "date": "2026-11-07",
+      "time": "23:53",
+      "title": "Mélenchon pledges action against Israeli annexation if elected President",
+      "preview": "Jean-Luc Mélenchon has pledged to take action against Israeli annexation should he win the French presidency, promising a firm stance on the issue during his campaign.",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/389",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
+    },
     {
       "id": 388,
       "date": "2026-11-07",
