@@ -1,6 +1,7 @@
 {
   "seen": {
     "ade78b08c4fa8826496d2f47cb82fcfc9f94c49f": "2026-11-07",
+    "73bcfc4d7b319db20d65b647372ca6def339d923": "2026-11-07",
     "e44caa7a75b1599dc2eec6abc035ebce38faf814": "2026-11-06",
     "265475d8898488b65e4af4f0c8797d2dcc6bdf76": "2026-11-06",
     "0be84f2d4ca684835611eda4f9a64de1c57cdd49": "2026-11-06",
@@ -1884,6 +1885,10 @@
     "385": {
       "kind": "photo",
       "text": "📱 <b>Protesters break into Microsoft data centre site in Amsterdam</b>\n\nProtesters breached the perimeter of a Microsoft data centre construction site in Amsterdam on Tuesday, highlighting growing European opposition to the rapid expansion of data centres due to their high energy and water consumption.\n\n• Construction site breached during demonstration against tech infrastructure expansion\n• Protests across Europe cite massive computing power and water usage as primary concerns\n• Amsterdam site targeted amid broader scrutiny of data centre environmental impact\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "386": {
+      "kind": "photo",
+      "text": "⚖️ <b>New White House Chief of Staff urges Trump to de-escalate with Iran</b>\n\nNew White House Chief of Staff Steven Miller told President Donald Trump that de-escalation of the conflict with Iran is needed, according to The New York Times citing sources present at the meeting.\n\nSource: <a href=\"https://www.interfax.ru/world/1127517\">Interfax</a>"
     }
   }
 }
