@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-07T04:48:00+03:00",
+  "updated_at": "2026-11-07T11:40:37+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 387,
+      "date": "2026-11-07",
+      "time": "11:38",
+      "title": "Prigozhin accuses Ukraine of targeting Russian artists",
+      "preview": "Wagner Group founder Yevgeny Prigozhin claims Ukraine is seeking enemies among Russian artists, though he provided no evidence for the allegation.",
+      "tags": [
+        "#russia",
+        "#politics",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/387",
+      "src": "https://ria.ru/20261107/ukraina--2129914916.html"
+    },
     {
       "id": 386,
       "date": "2026-11-07",

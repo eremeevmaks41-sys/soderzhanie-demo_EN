@@ -2,6 +2,7 @@
   "seen": {
     "ade78b08c4fa8826496d2f47cb82fcfc9f94c49f": "2026-11-07",
     "73bcfc4d7b319db20d65b647372ca6def339d923": "2026-11-07",
+    "8a836c051669deab8539da6bffad5959fbfac6e8": "2026-11-07",
     "e44caa7a75b1599dc2eec6abc035ebce38faf814": "2026-11-06",
     "265475d8898488b65e4af4f0c8797d2dcc6bdf76": "2026-11-06",
     "0be84f2d4ca684835611eda4f9a64de1c57cdd49": "2026-11-06",
@@ -1889,6 +1890,10 @@
     "386": {
       "kind": "photo",
       "text": "⚖️ <b>New White House Chief of Staff urges Trump to de-escalate with Iran</b>\n\nNew White House Chief of Staff Steven Miller told President Donald Trump that de-escalation of the conflict with Iran is needed, according to The New York Times citing sources present at the meeting.\n\nSource: <a href=\"https://www.interfax.ru/world/1127517\">Interfax</a>"
+    },
+    "387": {
+      "kind": "photo",
+      "text": "⚖️ <b>Prigozhin accuses Ukraine of targeting Russian artists</b>\n\nWagner Group founder Yevgeny Prigozhin claims Ukraine is seeking enemies among Russian artists, though he provided no evidence for the allegation.\n\nSource: <a href=\"https://ria.ru/20261107/ukraina--2129914916.html\">RIA Novosti</a>"
     }
   }
 }
