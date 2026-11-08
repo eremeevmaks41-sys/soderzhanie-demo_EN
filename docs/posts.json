@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T04:18:53+03:00",
+  "updated_at": "2026-11-08T11:54:42+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 391,
+      "date": "2026-11-08",
+      "time": "11:52",
+      "title": "Politico reports NATO fatigue over Ukraine",
+      "preview": "The US magazine Politico claims that NATO member states are growing weary of supporting Ukraine, citing diplomatic sources.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/391",
+      "src": "https://ria.ru/20261108/ukraina-2130079623.html"
+    },
     {
       "id": 390,
       "date": "2026-11-08",

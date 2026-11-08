@@ -1,6 +1,7 @@
 {
   "seen": {
     "b20cf82ae0607dd07a6d28b5848f957c8a122575": "2026-11-08",
+    "aa09cbf8b3a5533c57ccc0c7369b47db5b1349d1": "2026-11-08",
     "ade78b08c4fa8826496d2f47cb82fcfc9f94c49f": "2026-11-07",
     "73bcfc4d7b319db20d65b647372ca6def339d923": "2026-11-07",
     "8a836c051669deab8539da6bffad5959fbfac6e8": "2026-11-07",
@@ -1909,6 +1910,10 @@
     "390": {
       "kind": "photo",
       "text": "⚠️ <b>Over 20 injured in 5.5-magnitude earthquake in central Japan</b>\n\nAt least 22 people were injured after a magnitude 5.5 earthquake struck central Japan, local media report.\n\nSource: <a href=\"https://www.interfax.ru/world/1127629\">Interfax</a>"
+    },
+    "391": {
+      "kind": "photo",
+      "text": "⚖️ <b>Politico reports NATO fatigue over Ukraine</b>\n\nThe US magazine Politico claims that NATO member states are growing weary of supporting Ukraine, citing diplomatic sources.\n\nSource: <a href=\"https://ria.ru/20261108/ukraina-2130079623.html\">RIA Novosti</a>"
     }
   }
 }
