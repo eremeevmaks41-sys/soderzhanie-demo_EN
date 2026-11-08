@@ -1,5 +1,6 @@
 {
   "seen": {
+    "8fa54a395f18b1f26eb597a115c2e068bcc5a1ed": "2026-11-09",
     "b20cf82ae0607dd07a6d28b5848f957c8a122575": "2026-11-08",
     "aa09cbf8b3a5533c57ccc0c7369b47db5b1349d1": "2026-11-08",
     "41a6175ad61adec25b68369caeed9a2034589a3c": "2026-11-08",
@@ -1919,6 +1920,10 @@
     "392": {
       "kind": "photo",
       "text": "🌍 <b>Israeli forces release Palestinian journalist Abou Shhadeh</b>\n\nPalestinian journalist Abed Abou Shhadeh was released by Israeli forces after detention. Abou Shhadeh said his detention was part of Israel&#x27;s political measures to intimidate Arab society as a whole.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "393": {
+      "kind": "photo",
+      "text": "⚠️ <b>Deadly sand cliff collapses on displaced families in Gaza</b>\n\nA sand cliff collapse in Gaza buried displaced families sheltering in the area, resulting in multiple casualties. Rescue efforts are underway as the unstable terrain poses ongoing risks.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss\">Al Jazeera</a>"
     }
   }
 }
