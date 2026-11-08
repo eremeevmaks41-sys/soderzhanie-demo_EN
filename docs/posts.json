@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T00:44:17+03:00",
+  "updated_at": "2026-11-08T04:18:53+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 390,
+      "date": "2026-11-08",
+      "time": "03:57",
+      "title": "Over 20 injured in 5.5-magnitude earthquake in central Japan",
+      "preview": "At least 22 people were injured after a magnitude 5.5 earthquake struck central Japan, local media report.",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/390",
+      "src": "https://www.interfax.ru/world/1127629"
+    },
     {
       "id": 389,
       "date": "2026-11-07",

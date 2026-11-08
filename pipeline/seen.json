@@ -1,5 +1,6 @@
 {
   "seen": {
+    "b20cf82ae0607dd07a6d28b5848f957c8a122575": "2026-11-08",
     "ade78b08c4fa8826496d2f47cb82fcfc9f94c49f": "2026-11-07",
     "73bcfc4d7b319db20d65b647372ca6def339d923": "2026-11-07",
     "8a836c051669deab8539da6bffad5959fbfac6e8": "2026-11-07",
@@ -1904,6 +1905,10 @@
     "389": {
       "kind": "photo",
       "text": "🌐 <b>Mélenchon pledges action against Israeli annexation if elected President</b>\n\nJean-Luc Mélenchon has pledged to take action against Israeli annexation should he win the French presidency, promising a firm stance on the issue during his campaign.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "390": {
+      "kind": "photo",
+      "text": "⚠️ <b>Over 20 injured in 5.5-magnitude earthquake in central Japan</b>\n\nAt least 22 people were injured after a magnitude 5.5 earthquake struck central Japan, local media report.\n\nSource: <a href=\"https://www.interfax.ru/world/1127629\">Interfax</a>"
     }
   }
 }
