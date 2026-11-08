@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T11:54:42+03:00",
+  "updated_at": "2026-11-08T19:37:33+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 392,
+      "date": "2026-11-08",
+      "time": "19:18",
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "preview": "Palestinian journalist Abed Abou Shhadeh was released by Israeli forces after detention. Abou Shhadeh said his detention was part of Israel's political measures to intimidate…",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/392",
+      "src": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss"
+    },
     {
       "id": 391,
       "date": "2026-11-08",
