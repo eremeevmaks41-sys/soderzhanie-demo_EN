@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T00:58:17+03:00",
+  "updated_at": "2026-11-09T04:38:10+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 394,
+      "date": "2026-11-09",
+      "time": "04:27",
+      "title": "Trump backs Vance's claim Iran conflict hurt GOP election chances",
+      "preview": "Donald Trump has defended Vice President JD Vance's comments that Republicans lost congressional midterms due to the conflict with Iran, stating the remarks did not damage their…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/394",
+      "src": "https://www.interfax.ru/world/1127733"
+    },
     {
       "id": 393,
       "date": "2026-11-09",
