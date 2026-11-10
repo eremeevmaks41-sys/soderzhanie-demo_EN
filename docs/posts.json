@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T07:03:44+03:00",
+  "updated_at": "2026-11-10T15:29:50+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
@@ -78,6 +78,20 @@
       "kind": "photo",
       "url": "https://t.me/daily_news_digest_en/393",
       "src": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
+    },
+    {
+      "id": 398,
+      "date": "2026-11-08",
+      "time": "20:51",
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "preview": "At least seven people were killed and 125 injured after two trains collided south of Cairo on Sunday. The crash occurred in al-Ayyat district in Giza province when a train…",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/398",
+      "src": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
     },
     {
       "id": 392,
