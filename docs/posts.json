@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T15:29:50+03:00",
+  "updated_at": "2026-11-10T23:47:24+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 399,
+      "date": "2026-11-10",
+      "time": "23:41",
+      "title": "Putin awards Hero of Labour title to Gamaleya Center head Ginzburg",
+      "preview": "President Vladimir Putin has awarded the title of Hero of Labour to Alexander Ginzburg, the scientific director of the Gamaleya National Research Center for Epidemiology and…",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/399",
+      "src": "https://www.interfax.ru/russia/1128152"
+    },
     {
       "id": 397,
       "date": "2026-11-10",

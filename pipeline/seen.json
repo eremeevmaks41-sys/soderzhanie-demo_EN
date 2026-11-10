@@ -1,6 +1,7 @@
 {
   "seen": {
     "f26e0e70bc8692cd3c778801643719182b3d737d": "2026-11-10",
+    "d2aa4475620e8cc5140f11633b5fcca5c279d063": "2026-11-10",
     "8fa54a395f18b1f26eb597a115c2e068bcc5a1ed": "2026-11-09",
     "498d3bb2498149554cc4ed6b14bf759bdcbf0bed": "2026-11-09",
     "eb4b92e075b858bf5e78d6441e175130add72619": "2026-11-09",
@@ -1949,6 +1950,10 @@
     "398": {
       "kind": "photo",
       "text": "⚠️ <b>Collision of two trains in Egypt kills at least seven</b>\n\nAt least seven people were killed and 125 injured after two trains collided south of Cairo on Sunday. The crash occurred in al-Ayyat district in Giza province when a train travelling to Fayoum province crashed into the rear of a train heading to Aswan.\n\n• Transport ministry confirms the collision happened about 50km south of the Egyptian capital.\n• President has ordered a prompt investigation into the incident.\n\nSource: <a href=\"https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision\">The Guardian</a>"
+    },
+    "399": {
+      "kind": "photo",
+      "text": "🏛️ <b>Putin awards Hero of Labour title to Gamaleya Center head Ginzburg</b>\n\nPresident Vladimir Putin has awarded the title of Hero of Labour to Alexander Ginzburg, the scientific director of the Gamaleya National Research Center for Epidemiology and Microbiology.\n\nSource: <a href=\"https://www.interfax.ru/russia/1128152\">Interfax</a>"
     }
   }
 }
