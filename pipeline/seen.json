@@ -1,5 +1,6 @@
 {
   "seen": {
+    "c75d06d180f4d8c027304cdecceb380f34d62580": "2026-11-11",
     "f26e0e70bc8692cd3c778801643719182b3d737d": "2026-11-10",
     "d2aa4475620e8cc5140f11633b5fcca5c279d063": "2026-11-10",
     "8fa54a395f18b1f26eb597a115c2e068bcc5a1ed": "2026-11-09",
@@ -1954,6 +1955,10 @@
     "399": {
       "kind": "photo",
       "text": "🏛️ <b>Putin awards Hero of Labour title to Gamaleya Center head Ginzburg</b>\n\nPresident Vladimir Putin has awarded the title of Hero of Labour to Alexander Ginzburg, the scientific director of the Gamaleya National Research Center for Epidemiology and Microbiology.\n\nSource: <a href=\"https://www.interfax.ru/russia/1128152\">Interfax</a>"
+    },
+    "400": {
+      "kind": "photo",
+      "text": "⚠️ <b>Earthquake of magnitude 4.8 rocks Kamchatka</b>\n\nA magnitude 4.8 earthquake struck off the eastern coast of Kamchatka in the Avachinsky Bay on Wednesday afternoon, the Russian Academy of Sciences reported.\n\nSource: <a href=\"https://www.interfax.ru/russia/1128171\">Interfax</a>"
     }
   }
 }

@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-10T23:47:24+03:00",
+  "updated_at": "2026-11-11T04:51:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 400,
+      "date": "2026-11-11",
+      "time": "04:23",
+      "title": "Earthquake of magnitude 4.8 rocks Kamchatka",
+      "preview": "A magnitude 4.8 earthquake struck off the eastern coast of Kamchatka in the Avachinsky Bay on Wednesday afternoon, the Russian Academy of Sciences reported.",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/400",
+      "src": "https://www.interfax.ru/russia/1128171"
+    },
     {
       "id": 399,
       "date": "2026-11-10",
