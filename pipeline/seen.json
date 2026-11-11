@@ -2,6 +2,7 @@
   "seen": {
     "c75d06d180f4d8c027304cdecceb380f34d62580": "2026-11-11",
     "8cdaa2db8c2c874026ae17f9b564fe9454eb9182": "2026-11-11",
+    "ad31eb20a7019cefcc0ae6f694d59cfb400a8768": "2026-11-11",
     "f26e0e70bc8692cd3c778801643719182b3d737d": "2026-11-10",
     "d2aa4475620e8cc5140f11633b5fcca5c279d063": "2026-11-10",
     "8fa54a395f18b1f26eb597a115c2e068bcc5a1ed": "2026-11-09",
@@ -1964,6 +1965,10 @@
     "401": {
       "kind": "text",
       "text": "🏆 <b>Tretiak says Russia has not yet contacted candidates for national team coach</b>\n\nRussian Ice Hockey Federation president Vladislav Tretiak stated the federation has not yet spoken with any candidates for the head coach position ahead of the World Championship.\n\n• Federation has not contacted coaching candidates\n• Tretiak commented on potential appointments\n\nSource: <a href=\"https://tass.ru/sport/28305881\">TASS</a>"
+    },
+    "402": {
+      "kind": "photo",
+      "text": "⚠️ <b>Spain faces widespread disruption in first general strike in 14 years</b>\n\nSpain faces widespread disruption from a general strike, the first since 2010, ahead of parliamentary elections less than three weeks away. Protests are expected in major cities.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
