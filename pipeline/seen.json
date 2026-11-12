@@ -1,5 +1,6 @@
 {
   "seen": {
+    "5c5b8d25804d6680322a9ede66b4dff158bed783": "2026-11-12",
     "c75d06d180f4d8c027304cdecceb380f34d62580": "2026-11-11",
     "8cdaa2db8c2c874026ae17f9b564fe9454eb9182": "2026-11-11",
     "ad31eb20a7019cefcc0ae6f694d59cfb400a8768": "2026-11-11",
@@ -1969,6 +1970,10 @@
     "402": {
       "kind": "photo",
       "text": "⚠️ <b>Spain faces widespread disruption in first general strike in 14 years</b>\n\nSpain faces widespread disruption from a general strike, the first since 2010, ahead of parliamentary elections less than three weeks away. Protests are expected in major cities.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "403": {
+      "kind": "photo",
+      "text": "🗳️ <b>Democrat Scott Colom wins historic Mississippi Senate race</b>\n\nScott Colom, a Democrat, has secured a historic victory in the Mississippi Senate race, becoming the first Black person elected from the southern state to the US Senate in over 140 years.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
