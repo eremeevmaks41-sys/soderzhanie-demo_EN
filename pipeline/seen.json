@@ -2,6 +2,7 @@
   "seen": {
     "5c5b8d25804d6680322a9ede66b4dff158bed783": "2026-11-12",
     "fec25ce26866df6e66c0e79bcf919af5448e9c0f": "2026-11-12",
+    "838175149a2b52650d8358b3df268c1fc01e611b": "2026-11-12",
     "c75d06d180f4d8c027304cdecceb380f34d62580": "2026-11-11",
     "8cdaa2db8c2c874026ae17f9b564fe9454eb9182": "2026-11-11",
     "ad31eb20a7019cefcc0ae6f694d59cfb400a8768": "2026-11-11",
@@ -1979,6 +1980,10 @@
     "404": {
       "kind": "text",
       "text": "🏛️ <b>Olshovsky calls Mirra Andreeva&#x27;s win over Sabalenka a tricky match</b>\n\nRussian teenager Mirra Andreeva defeated Aryna Sabalenka 6-4, 6-0 in the WTA Finals final, clinching the title.\n\nSource: <a href=\"https://tass.ru/sport/28310833\">TASS</a>"
+    },
+    "405": {
+      "kind": "photo",
+      "text": "⚠️ <b>Ukraine reports Starlink disruption as US envoys meet Putin in Moscow</b>\n\nUkraine&#x27;s military says its Starlink communications have been disrupted again, as US special envoys Jared Kushner and Steve Witkoff arrived in Moscow for talks with President Vladimir Putin. The envoys are set to travel to Dublin later on Thursday to meet President Volodymyr Zelensky.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }

@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T12:42:17+03:00",
+  "updated_at": "2026-11-12T21:09:32+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 405,
+      "date": "2026-11-12",
+      "time": "19:31",
+      "title": "Ukraine reports Starlink disruption as US envoys meet Putin in Moscow",
+      "preview": "Ukraine's military says its Starlink communications have been disrupted again, as US special envoys Jared Kushner and Steve Witkoff arrived in Moscow for talks with President…",
+      "tags": [
+        "#worldnews",
+        "#conflict",
+        "#technology"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/405",
+      "src": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 404,
       "date": "2026-11-12",
