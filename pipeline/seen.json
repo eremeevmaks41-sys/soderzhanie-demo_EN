@@ -2,6 +2,7 @@
   "seen": {
     "5ea1a1b533b1b649f5e4d7fe209d174238a1e0f2": "2026-11-13",
     "8c2eab3d3623d826b4837a95fb626a435e987a33": "2026-11-13",
+    "6841a6d01829f8bbbb8c81fa29fc7e6f02501d61": "2026-11-13",
     "5c5b8d25804d6680322a9ede66b4dff158bed783": "2026-11-12",
     "fec25ce26866df6e66c0e79bcf919af5448e9c0f": "2026-11-12",
     "838175149a2b52650d8358b3df268c1fc01e611b": "2026-11-12",
@@ -1994,6 +1995,10 @@
     "407": {
       "kind": "text",
       "text": "🔥 <b>Trash pile ablaze in Novo-Shakhtinsk</b>\n\nA fire broke out at a municipal waste site in Novo-Shakhtinsk. The blaze covered an area of 150 square meters.\n\nSource: <a href=\"https://tass.ru/proisshestviya/28314875\">TASS</a>"
+    },
+    "408": {
+      "kind": "photo",
+      "text": "⚠️ <b>Microsoft outage persists, services restored gradually</b>\n\nMicrosoft continues restoring Outlook and Teams after a global outage, with the company warning that full recovery may take time and some data could be affected.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
