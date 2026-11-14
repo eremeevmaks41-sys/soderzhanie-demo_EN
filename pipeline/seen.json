@@ -3,6 +3,7 @@
     "46b02f1e45555adf0585db36561a4327d2aa57c4": "2026-11-14",
     "fd53efd8355a6dd134d83e84a7b3aeb89dc37e57": "2026-11-14",
     "6f59d9cca3b758f601961f019833cd060b2259c1": "2026-11-14",
+    "92bb3aa74760f6f6cdf61c0853b90ef17eaa39cb": "2026-11-14",
     "5ea1a1b533b1b649f5e4d7fe209d174238a1e0f2": "2026-11-13",
     "8c2eab3d3623d826b4837a95fb626a435e987a33": "2026-11-13",
     "6841a6d01829f8bbbb8c81fa29fc7e6f02501d61": "2026-11-13",
@@ -1610,6 +1611,10 @@
     "411": {
       "kind": "photo",
       "text": "🌍 <b>Pashinyan: Armenia and Turkey close to establishing diplomatic ties and opening borders</b>\n\nArmenian Prime Minister Nikol Pashinyan says Yerevan and Ankara are close to restoring diplomatic relations and opening the border between the two countries.\n\nSource: <a href=\"https://www.vedomosti.ru/politics/news/2026/11/14/1245387-armeniya-i-turtsiya\">Vedomosti</a>"
+    },
+    "412": {
+      "kind": "photo",
+      "text": "⚠️ <b>US aviation system failure caused by equipment modernization</b>\n\nUS Transportation Secretary Sean Duffy attributed the recent air traffic system failure to equipment modernization, ruling out foreign interference.\n\nSource: <a href=\"https://www.interfax.ru/world/1129040\">Interfax</a>"
     }
   }
 }
