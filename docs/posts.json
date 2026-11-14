@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T09:04:23+03:00",
+  "updated_at": "2026-11-14T16:23:57+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 411,
+      "date": "2026-11-14",
+      "time": "16:18",
+      "title": "Pashinyan: Armenia and Turkey close to establishing diplomatic ties and opening borders",
+      "preview": "Armenian Prime Minister Nikol Pashinyan says Yerevan and Ankara are close to restoring diplomatic relations and opening the border between the two countries.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/411",
+      "src": "https://www.vedomosti.ru/politics/news/2026/11/14/1245387-armeniya-i-turtsiya"
+    },
     {
       "id": 410,
       "date": "2026-11-14",
