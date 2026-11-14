@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T22:01:42+03:00",
+  "updated_at": "2026-11-15T02:49:26+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 413,
+      "date": "2026-11-14",
+      "time": "22:12",
+      "title": "Copper wire upgrade causes nationwide flight suspension, US transport secretary says",
+      "preview": "A copper wire upgrade triggered a nationwide flight suspension across the United States, the transport secretary confirmed, as officials investigate whether the outage stemmed…",
+      "tags": [
+        "#worldnews",
+        "#transport"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/413",
+      "src": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 412,
       "date": "2026-11-14",
