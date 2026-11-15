@@ -2,6 +2,7 @@
   "seen": {
     "7ea4aaad8e5116bbd31e9bf32c4f2f5253c21fa8": "2026-11-15",
     "75e8ed70f4fd6262cd7650d107dd4015ebb08be7": "2026-11-15",
+    "94e355dafb88f7d661cf19b60efec090fb7f152f": "2026-11-15",
     "46b02f1e45555adf0585db36561a4327d2aa57c4": "2026-11-14",
     "fd53efd8355a6dd134d83e84a7b3aeb89dc37e57": "2026-11-14",
     "6f59d9cca3b758f601961f019833cd060b2259c1": "2026-11-14",
@@ -1630,6 +1631,10 @@
     "415": {
       "kind": "photo",
       "text": "🌍 <b>Record number of migrants arrive in Spain&#x27;s Canary Islands</b>\n\nThousands of migrants have reached Spain&#x27;s Canary Islands this year, marking a record arrival rate despite new EU asylum measures aimed at curbing the flow.\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "416": {
+      "kind": "photo",
+      "text": "⚠️ <b>Two injured in Makhachkala after strong wind</b>\n\nTwo people were injured in Makhachkala on November 15 after a metal sheet fell from a multi-story building and a tree fell in a city park due to strong wind, the prosecutor&#x27;s office of Dagestan reported.\n\nSource: <a href=\"https://www.interfax.ru/russia/1129164\">Interfax</a>"
     }
   }
 }
