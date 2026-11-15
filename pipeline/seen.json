@@ -1,5 +1,6 @@
 {
   "seen": {
+    "7ea4aaad8e5116bbd31e9bf32c4f2f5253c21fa8": "2026-11-15",
     "46b02f1e45555adf0585db36561a4327d2aa57c4": "2026-11-14",
     "fd53efd8355a6dd134d83e84a7b3aeb89dc37e57": "2026-11-14",
     "6f59d9cca3b758f601961f019833cd060b2259c1": "2026-11-14",
@@ -1620,6 +1621,10 @@
     "413": {
       "kind": "photo",
       "text": "✈️ <b>Copper wire upgrade causes nationwide flight suspension, US transport secretary says</b>\n\nA copper wire upgrade triggered a nationwide flight suspension across the United States, the transport secretary confirmed, as officials investigate whether the outage stemmed from incompetence or faulty equipment.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "414": {
+      "kind": "photo",
+      "text": "🌐 <b>Macron urges NATO to accept Ukraine</b>\n\nFrench President Emmanuel Macron has called for Ukraine to be admitted into the alliance, the latest push to expand NATO&#x27;s membership amid ongoing geopolitical tensions.\n\nSource: <a href=\"https://lenta.ru/news/2026/11/15/makron-prizval-prinyat-ukrainu-v-nato/\">Lenta.ru</a>"
     }
   }
 }

@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T02:49:26+03:00",
+  "updated_at": "2026-11-15T09:10:03+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 414,
+      "date": "2026-11-15",
+      "time": "09:02",
+      "title": "Macron urges NATO to accept Ukraine",
+      "preview": "French President Emmanuel Macron has called for Ukraine to be admitted into the alliance, the latest push to expand NATO's membership amid ongoing geopolitical tensions.",
+      "tags": [
+        "#russia",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/414",
+      "src": "https://lenta.ru/news/2026/11/15/makron-prizval-prinyat-ukrainu-v-nato/"
+    },
     {
       "id": 413,
       "date": "2026-11-14",
