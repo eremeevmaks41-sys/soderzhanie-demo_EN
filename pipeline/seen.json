@@ -2,6 +2,7 @@
   "seen": {
     "27340e673cda9d5b6f9cfba3893f834bea7f1892": "2026-11-16",
     "9f538b8645556de54fe06956ebfa44e44941c3f7": "2026-11-16",
+    "c7d3c1c6038dfd73523686169d3e287c2c944764": "2026-11-16",
     "7ea4aaad8e5116bbd31e9bf32c4f2f5253c21fa8": "2026-11-15",
     "75e8ed70f4fd6262cd7650d107dd4015ebb08be7": "2026-11-15",
     "94e355dafb88f7d661cf19b60efec090fb7f152f": "2026-11-15",
@@ -1645,6 +1646,10 @@
     "418": {
       "kind": "text",
       "text": "🗳️ <b>Human rights commissioner urges legal definition of &#x27;destructive content&#x27;</b>\n\nThe Russian ombudswoman called for legislation to define the term &#x27;destructive content&#x27; as a necessary step to combat the phenomenon, she noted.\n\nSource: <a href=\"https://tass.ru/obschestvo/28321183\">TASS</a>"
+    },
+    "419": {
+      "kind": "photo",
+      "text": "⚠️ <b>Another 10 drones downed en route to Moscow</b>\n\nMoscow Mayor Sergei Sobyanin reported the destruction of 10 more drones heading toward the capital. The city authorities confirmed the interception of the aerial attack.\n\nSource: <a href=\"https://www.interfax.ru/moscow/1129406\">Interfax</a>"
     }
   }
 }
