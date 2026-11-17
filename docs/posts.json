@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T18:52:36+03:00",
+  "updated_at": "2026-11-18T02:27:22+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 422,
+      "date": "2026-11-18",
+      "time": "00:24",
+      "title": "Putin's Crimean Bridge partly collapses after Ukraine attack",
+      "preview": "Ukraine claimed responsibility for a missile and drone strike that partially collapsed the strategic Crimean Bridge in Russian-annexed Crimea, a target weeks in the planning.…",
+      "tags": [
+        "#worldnews",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/422",
+      "src": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 421,
       "date": "2026-11-17",
