@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T10:07:58+03:00",
+  "updated_at": "2026-11-18T20:09:52+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 424,
+      "date": "2026-11-18",
+      "time": "20:00",
+      "title": "Underground war: Ukrainian forces battle Russia below ground",
+      "preview": "Ukrainian forces have taken the battle below ground to evade Russian drones, conducting operations inside an old gas pipeline. The BBC's Jonathan Beale joined the troops as they…",
+      "tags": [
+        "#worldnews",
+        "#conflict"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/424",
+      "src": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 423,
       "date": "2026-11-18",

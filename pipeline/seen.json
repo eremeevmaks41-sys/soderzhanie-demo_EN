@@ -2,6 +2,7 @@
   "seen": {
     "6333439020162e3a661a3043b94e16b88b679f5d": "2026-11-18",
     "06febce72c4527f5629d8b63697cfbcef56d6655": "2026-11-18",
+    "6ff5375190e3fcbe3f9017607d858fe7e6ab8f4e": "2026-11-18",
     "e577038528621365089770abdbb2aa8932b02f68": "2026-11-17",
     "ec6b5e88bfef14ca320f72ea93c34ff17926dd1a": "2026-11-17",
     "27340e673cda9d5b6f9cfba3893f834bea7f1892": "2026-11-16",
@@ -1670,6 +1671,10 @@
     "423": {
       "kind": "photo",
       "text": "🏛️ <b>Putin visits MGSU and Polytechnic University exhibitions</b>\n\nPresident Vladimir Putin toured exhibitions at Moscow State University and the Beijing Polytechnic University, viewing student projects and scientific achievements.\n\nSource: <a href=\"https://ria.ru/20261118/putin-2132283435.html\">RIA Novosti</a>"
+    },
+    "424": {
+      "kind": "photo",
+      "text": "🌍 <b>Underground war: Ukrainian forces battle Russia below ground</b>\n\nUkrainian forces have taken the battle below ground to evade Russian drones, conducting operations inside an old gas pipeline. The BBC&#x27;s Jonathan Beale joined the troops as they fight an unseen war out of sight of the enemy.\n\nSource: <a href=\"https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
