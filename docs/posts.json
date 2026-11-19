@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T03:13:08+03:00",
+  "updated_at": "2026-11-19T13:09:48+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 426,
+      "date": "2026-11-19",
+      "time": "13:08",
+      "title": "Teen finds pneumatic pistol that injured girl in Primorye park",
+      "preview": "A pneumatic pistol, which injured a girl in the Primorye region, was discovered by a teenager in a local park. The discovery was reported to law enforcement.",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "text",
+      "url": "https://t.me/daily_news_digest_en/426",
+      "src": "https://tass.ru/obschestvo/28334609"
+    },
     {
       "id": 424,
       "date": "2026-11-18",
