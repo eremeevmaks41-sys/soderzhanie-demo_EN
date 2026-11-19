@@ -1,6 +1,7 @@
 {
   "seen": {
     "afa4991f8c2185732eed8801da846a90e051132b": "2026-11-19",
+    "a109d56c7b18fb546ceec3cea2ee404ad841580a": "2026-11-19",
     "6333439020162e3a661a3043b94e16b88b679f5d": "2026-11-18",
     "06febce72c4527f5629d8b63697cfbcef56d6655": "2026-11-18",
     "6ff5375190e3fcbe3f9017607d858fe7e6ab8f4e": "2026-11-18",
@@ -1685,6 +1686,10 @@
     "426": {
       "kind": "text",
       "text": "⚠️ <b>Teen finds pneumatic pistol that injured girl in Primorye park</b>\n\nA pneumatic pistol, which injured a girl in the Primorye region, was discovered by a teenager in a local park. The discovery was reported to law enforcement.\n\nSource: <a href=\"https://tass.ru/obschestvo/28334609\">TASS</a>"
+    },
+    "427": {
+      "kind": "photo",
+      "text": "⚖️ <b>Trump says summit focus was Ukraine, Iran conflict</b>\n\nDonald Trump stated that the main focus of the US, Russia and China summit was the situation in Ukraine. According to him, Putin and Xi Jinping wanted to finish the conflict around Iran.\n\nSource: <a href=\"https://www.interfax.ru/world/1130280\">Interfax</a>"
     }
   }
 }
