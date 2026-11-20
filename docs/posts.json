@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T15:43:31+03:00",
+  "updated_at": "2026-11-21T00:45:01+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 430,
+      "date": "2026-11-21",
+      "time": "00:28",
+      "title": "Iraq PM launches operation in Jurf al-Sakhar to assert state control",
+      "preview": "Prime Minister Ali al-Zaedi announced a security operation in Jurf al-Sakhar, marking the start of a nationwide push to reassert state authority over militia strongholds.",
+      "tags": [
+        "#worldnews",
+        "#politics"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/430",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss"
+    },
     {
       "id": 429,
       "date": "2026-11-20",
