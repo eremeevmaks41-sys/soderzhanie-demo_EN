@@ -1,6 +1,7 @@
 {
   "seen": {
     "c84f5cae8aecef97eee8e4218d3fa0c5964d51a1": "2026-11-21",
+    "a29cbf271837262b8990f9f3a103e03788de1af6": "2026-11-21",
     "1e2c677a69f03edb1f8a1b8a73991be8fbffa45a": "2026-11-20",
     "34ed9397c7f7d687a6be66b6eca304ee356a17d5": "2026-11-20",
     "afa4991f8c2185732eed8801da846a90e051132b": "2026-11-19",
@@ -1705,6 +1706,10 @@
     "430": {
       "kind": "photo",
       "text": "⚖️ <b>Iraq PM launches operation in Jurf al-Sakhar to assert state control</b>\n\nPrime Minister Ali al-Zaedi announced a security operation in Jurf al-Sakhar, marking the start of a nationwide push to reassert state authority over militia strongholds.\n\nSource: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "431": {
+      "kind": "photo",
+      "text": "🌊 <b>Storm destroys over 5,000 homes in southern Brazil, three dead</b>\n\nA destructive storm hit southern Brazil, killing three people and destroying approximately 5,000 homes. Agence France-Presse reports the death toll and damage.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9126981\">Kommersant</a>"
     }
   }
 }

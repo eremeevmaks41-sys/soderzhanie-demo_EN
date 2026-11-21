@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-21T00:45:01+03:00",
+  "updated_at": "2026-11-21T06:05:56+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 431,
+      "date": "2026-11-21",
+      "time": "05:52",
+      "title": "Storm destroys over 5,000 homes in southern Brazil, three dead",
+      "preview": "A destructive storm hit southern Brazil, killing three people and destroying approximately 5,000 homes. Agence France-Presse reports the death toll and damage.",
+      "tags": [
+        "#russia",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/431",
+      "src": "https://www.kommersant.ru/doc/9126981"
+    },
     {
       "id": 430,
       "date": "2026-11-21",
