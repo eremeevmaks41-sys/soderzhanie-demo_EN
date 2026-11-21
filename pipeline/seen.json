@@ -6,6 +6,7 @@
     "34ed9397c7f7d687a6be66b6eca304ee356a17d5": "2026-11-20",
     "afa4991f8c2185732eed8801da846a90e051132b": "2026-11-19",
     "a109d56c7b18fb546ceec3cea2ee404ad841580a": "2026-11-19",
+    "f134fe4f942fcc5e142fcd3432256845e5902a52": "2026-11-19",
     "6333439020162e3a661a3043b94e16b88b679f5d": "2026-11-18",
     "06febce72c4527f5629d8b63697cfbcef56d6655": "2026-11-18",
     "6ff5375190e3fcbe3f9017607d858fe7e6ab8f4e": "2026-11-18",
@@ -1710,6 +1711,10 @@
     "431": {
       "kind": "photo",
       "text": "🌊 <b>Storm destroys over 5,000 homes in southern Brazil, three dead</b>\n\nA destructive storm hit southern Brazil, killing three people and destroying approximately 5,000 homes. Agence France-Presse reports the death toll and damage.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9126981\">Kommersant</a>"
+    },
+    "432": {
+      "kind": "photo",
+      "text": "🌍 <b>South African baobabs intercepted before export to Georgia</b>\n\nEnvironmentalists are racing to replant five centuries-old baobabs in Timbavati after the 20-tonne trees were dug up without permits and intercepted at Durban. The trees were en route to an unnamed buyer in Georgia and have been stranded at a warehouse since July.\n\nSource: <a href=\"https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe\">The Guardian</a>"
     }
   }
 }
