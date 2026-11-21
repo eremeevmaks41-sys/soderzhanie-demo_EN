@@ -2,6 +2,7 @@
   "seen": {
     "c84f5cae8aecef97eee8e4218d3fa0c5964d51a1": "2026-11-21",
     "a29cbf271837262b8990f9f3a103e03788de1af6": "2026-11-21",
+    "b565a11bab3229212ac950c2d776b508101fc359": "2026-11-21",
     "1e2c677a69f03edb1f8a1b8a73991be8fbffa45a": "2026-11-20",
     "34ed9397c7f7d687a6be66b6eca304ee356a17d5": "2026-11-20",
     "afa4991f8c2185732eed8801da846a90e051132b": "2026-11-19",
@@ -1715,6 +1716,10 @@
     "432": {
       "kind": "photo",
       "text": "🌍 <b>South African baobabs intercepted before export to Georgia</b>\n\nEnvironmentalists are racing to replant five centuries-old baobabs in Timbavati after the 20-tonne trees were dug up without permits and intercepted at Durban. The trees were en route to an unnamed buyer in Georgia and have been stranded at a warehouse since July.\n\nSource: <a href=\"https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe\">The Guardian</a>"
+    },
+    "433": {
+      "kind": "photo",
+      "text": "🗳️ <b>Trump names Vance and Rubio as potential 2028 presidential candidates</b>\n\nFormer President Donald Trump suggested that Vice President JD Vance and Secretary of State Marco Rubio could represent the Republican Party in the 2028 White House race, stating there are several strong candidates.\n\nSource: <a href=\"https://www.interfax.ru/world/1130617\">Interfax</a>"
     }
   }
 }
