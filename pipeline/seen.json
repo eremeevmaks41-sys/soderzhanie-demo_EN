@@ -1,5 +1,6 @@
 {
   "seen": {
+    "1b4fb44e3fef6137d09807c9c9c5144384709240": "2026-11-22",
     "c84f5cae8aecef97eee8e4218d3fa0c5964d51a1": "2026-11-21",
     "a29cbf271837262b8990f9f3a103e03788de1af6": "2026-11-21",
     "b565a11bab3229212ac950c2d776b508101fc359": "2026-11-21",
@@ -1720,6 +1721,10 @@
     "433": {
       "kind": "photo",
       "text": "🗳️ <b>Trump names Vance and Rubio as potential 2028 presidential candidates</b>\n\nFormer President Donald Trump suggested that Vice President JD Vance and Secretary of State Marco Rubio could represent the Republican Party in the 2028 White House race, stating there are several strong candidates.\n\nSource: <a href=\"https://www.interfax.ru/world/1130617\">Interfax</a>"
+    },
+    "434": {
+      "kind": "photo",
+      "text": "🌍 <b>Trump calls Putin and Xi Jinping his friends</b>\n\nU.S. President Donald Trump shared photos from his China APEC visit on Truth Social, referring to Chinese President Xi Jinping and Russian President Vladimir Putin as his friends.\n\nSource: <a href=\"https://www.interfax.ru/world/1130626\">Interfax</a>"
     }
   }
 }
