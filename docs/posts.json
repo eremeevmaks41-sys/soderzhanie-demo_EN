@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-22T12:39:45+03:00",
+  "updated_at": "2026-11-22T20:45:05+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 436,
+      "date": "2026-11-22",
+      "time": "20:16",
+      "title": "Explosion rocks Russian ship at Libya port after suspected drone attack",
+      "preview": "An explosion struck a Russian vessel at a Libyan port on Tuesday, officials say, after a suspected drone attack. The ship was stopped for fuel and supplies en route to Russia.",
+      "tags": [
+        "#worldnews",
+        "#incidents"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/436",
+      "src": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "id": 435,
       "date": "2026-11-22",
