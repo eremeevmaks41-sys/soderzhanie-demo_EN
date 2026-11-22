@@ -3,6 +3,7 @@
     "1b4fb44e3fef6137d09807c9c9c5144384709240": "2026-11-22",
     "7ccc61af9d6dc730c0995816b1664fac737700d9": "2026-11-22",
     "2dcedb9a215738ddcb615229fa848320f8348eb7": "2026-11-22",
+    "e293b1a2130fe8d0a230518e02e483cf1ecd1712": "2026-11-22",
     "c84f5cae8aecef97eee8e4218d3fa0c5964d51a1": "2026-11-21",
     "a29cbf271837262b8990f9f3a103e03788de1af6": "2026-11-21",
     "b565a11bab3229212ac950c2d776b508101fc359": "2026-11-21",
@@ -1735,6 +1736,10 @@
     "436": {
       "kind": "photo",
       "text": "⚠️ <b>Explosion rocks Russian ship at Libya port after suspected drone attack</b>\n\nAn explosion struck a Russian vessel at a Libyan port on Tuesday, officials say, after a suspected drone attack. The ship was stopped for fuel and supplies en route to Russia.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "437": {
+      "kind": "photo",
+      "text": "🌍 <b>COP31 talks collapse over fossil fuel language</b>\n\nNegotiators at the COP31 climate summit failed to agree on a major deal, with deep divisions exposed over references to fossil fuels. The talks ended without a breakthrough on tackling climate change.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
     }
   }
 }
