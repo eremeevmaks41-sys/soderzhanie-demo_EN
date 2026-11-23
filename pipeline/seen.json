@@ -1,6 +1,7 @@
 {
   "seen": {
     "bae4f506f26babc96ce2a10255e55b70d23fc86b": "2026-11-23",
+    "34a67761d76631f3c449c1ea4736143bc24d8ed7": "2026-11-23",
     "1b4fb44e3fef6137d09807c9c9c5144384709240": "2026-11-22",
     "7ccc61af9d6dc730c0995816b1664fac737700d9": "2026-11-22",
     "2dcedb9a215738ddcb615229fa848320f8348eb7": "2026-11-22",
@@ -1745,6 +1746,10 @@
     "438": {
       "kind": "photo",
       "text": "💰 <b>SME attracted over 30 billion rubles in preferential loans for investment projects</b>\n\nThe Ministry of Economic Development reports that small and medium-sized businesses have secured more than 30 billion rubles in subsidized financing to support new investment initiatives.\n\nSource: <a href=\"https://ria.ru/20261123/kredit-2133274299.html\">RIA Novosti</a>"
+    },
+    "439": {
+      "kind": "photo",
+      "text": "⚠️ <b>Five injured in drone attacks on Bryansk region</b>\n\nGovernor Yevgeny Kovalchuk reported five injuries after Ukrainian drone attacks on the region on Monday. A residential house caught fire following a drone strike in a local settlement.\n\nSource: <a href=\"https://www.interfax.ru/russia/1130891\">Interfax</a>"
     }
   }
 }
