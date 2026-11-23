@@ -1,5 +1,6 @@
 {
   "seen": {
+    "bae4f506f26babc96ce2a10255e55b70d23fc86b": "2026-11-23",
     "1b4fb44e3fef6137d09807c9c9c5144384709240": "2026-11-22",
     "7ccc61af9d6dc730c0995816b1664fac737700d9": "2026-11-22",
     "2dcedb9a215738ddcb615229fa848320f8348eb7": "2026-11-22",
@@ -1740,6 +1741,10 @@
     "437": {
       "kind": "photo",
       "text": "🌍 <b>COP31 talks collapse over fossil fuel language</b>\n\nNegotiators at the COP31 climate summit failed to agree on a major deal, with deep divisions exposed over references to fossil fuels. The talks ended without a breakthrough on tackling climate change.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "438": {
+      "kind": "photo",
+      "text": "💰 <b>SME attracted over 30 billion rubles in preferential loans for investment projects</b>\n\nThe Ministry of Economic Development reports that small and medium-sized businesses have secured more than 30 billion rubles in subsidized financing to support new investment initiatives.\n\nSource: <a href=\"https://ria.ru/20261123/kredit-2133274299.html\">RIA Novosti</a>"
     }
   }
 }
