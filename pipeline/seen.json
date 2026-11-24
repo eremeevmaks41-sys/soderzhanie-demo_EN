@@ -1,5 +1,6 @@
 {
   "seen": {
+    "10289db7f473ac5083ad401a82ac2b4c20cecc14": "2026-11-24",
     "bae4f506f26babc96ce2a10255e55b70d23fc86b": "2026-11-23",
     "34a67761d76631f3c449c1ea4736143bc24d8ed7": "2026-11-23",
     "1b4fb44e3fef6137d09807c9c9c5144384709240": "2026-11-22",
@@ -1750,6 +1751,10 @@
     "439": {
       "kind": "photo",
       "text": "⚠️ <b>Five injured in drone attacks on Bryansk region</b>\n\nGovernor Yevgeny Kovalchuk reported five injuries after Ukrainian drone attacks on the region on Monday. A residential house caught fire following a drone strike in a local settlement.\n\nSource: <a href=\"https://www.interfax.ru/russia/1130891\">Interfax</a>"
+    },
+    "440": {
+      "kind": "photo",
+      "text": "📊 <b>Major advertisers cut presence on Wildberries and Yandex Market</b>\n\nPresence of top advertisers on Wildberries and Yandex Market fell in January-August compared to full-year 2024, while Ozon saw growth, according to Kommersant and Easy Commerce. On Wildberries, 20% of top advertisers reduced ad slots from 70% to 62%; on Yandex Market from 84% to 73%. Ozon&#x27;s share rose from 82% to 84%.\n\n• Top advertisers&#x27; ad share on Wildberries dropped from 70% to 62% over eight months\n• Yandex Market saw similar decline from 84% to 73% for top advertisers\n• Ozon bucked the trend with ad share rising from 82% to 84%\n\nSource: <a href=\"https://www.kommersant.ru/doc/9128588\">Kommersant</a>"
     }
   }
 }
