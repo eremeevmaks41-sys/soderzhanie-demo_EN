@@ -1,6 +1,7 @@
 {
   "seen": {
     "44412024d53d2263a6a5e4e01d2038ed2d98e9db": "2026-11-25",
+    "05821fc6d075873e9748b0bf17f4088b4293cfb4": "2026-11-25",
     "10289db7f473ac5083ad401a82ac2b4c20cecc14": "2026-11-24",
     "38909ab08f1b7bafb2e24b360322a13cfa430548": "2026-11-24",
     "bae4f506f26babc96ce2a10255e55b70d23fc86b": "2026-11-23",
@@ -1765,6 +1766,10 @@
     "442": {
       "kind": "photo",
       "text": "📊 <b>Trump says US military campaign against Iran funded through end of January</b>\n\nPresident Donald Trump stated that Washington&#x27;s military campaign against Tehran is funded through the end of January 2027. He told The New York Post that funding runs out &quot;basically through the end of January,&quot; amid questions about potential strikes following Democratic victories in the US midterms.\n\nSource: <a href=\"https://www.interfax.ru/world/1131168\">Interfax</a>"
+    },
+    "443": {
+      "kind": "photo",
+      "text": "💊 <b>Day oncology care volumes to rise by 10%</b>\n\nThe volume of oncological care provided in day hospitals across Russia is set to increase by 10 percent, the Ministry of Health reported. The expansion aims to improve access to treatment and reduce the load on inpatient facilities.\n\nSource: <a href=\"https://www.vedomosti.ru/society/news/2026/11/25/1415311-obemi-medpomoschi-virastut\">Vedomosti</a>"
     }
   }
 }
