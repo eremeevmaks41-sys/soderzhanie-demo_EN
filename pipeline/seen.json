@@ -1,5 +1,6 @@
 {
   "seen": {
+    "44412024d53d2263a6a5e4e01d2038ed2d98e9db": "2026-11-25",
     "10289db7f473ac5083ad401a82ac2b4c20cecc14": "2026-11-24",
     "38909ab08f1b7bafb2e24b360322a13cfa430548": "2026-11-24",
     "bae4f506f26babc96ce2a10255e55b70d23fc86b": "2026-11-23",
@@ -1760,6 +1761,10 @@
     "441": {
       "kind": "photo",
       "text": "🤝 <b>Trump claims credit for Nvidia CEO reinstatement amid backlash</b>\n\nFormer President Donald Trump says he pressured Nvidia to reappoint CEO Jensen Huang, drawing criticism from industry observers. Huang&#x27;s return coincided with a trillion-dollar surge in the chipmaker&#x27;s market valuation.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "442": {
+      "kind": "photo",
+      "text": "📊 <b>Trump says US military campaign against Iran funded through end of January</b>\n\nPresident Donald Trump stated that Washington&#x27;s military campaign against Tehran is funded through the end of January 2027. He told The New York Post that funding runs out &quot;basically through the end of January,&quot; amid questions about potential strikes following Democratic victories in the US midterms.\n\nSource: <a href=\"https://www.interfax.ru/world/1131168\">Interfax</a>"
     }
   }
 }
