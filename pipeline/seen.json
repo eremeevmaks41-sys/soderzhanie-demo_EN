@@ -1,5 +1,6 @@
 {
   "seen": {
+    "fc7863565de9fd97537806ee143bc1662bb604e2": "2026-11-26",
     "44412024d53d2263a6a5e4e01d2038ed2d98e9db": "2026-11-25",
     "05821fc6d075873e9748b0bf17f4088b4293cfb4": "2026-11-25",
     "46f59a81253df09b16d5c0df175c556b3e32c614": "2026-11-25",
@@ -1775,6 +1776,10 @@
     "444": {
       "kind": "photo",
       "text": "💰 <b>US announces new tariffs on host of countries including China</b>\n\nThe United States has announced new tariffs targeting many of its biggest trading partners, including China and the European Union.\n\nSource: <a href=\"https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss\">BBC</a>"
+    },
+    "445": {
+      "kind": "text",
+      "text": "🗳️ <b>Pushkov says russophobia does not take root outside the West</b>\n\nState Duma Committee on International Affairs Chairman Alexey Pushkov stated that anti-Russian sentiment has failed to gain traction beyond Western countries. He made the remarks during a briefing, emphasizing the limited spread of such narratives globally.\n\nSource: <a href=\"https://tass.ru/politika/28357799\">TASS</a>"
     }
   }
 }
