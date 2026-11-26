@@ -1,11 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T13:43:46+03:00",
+  "updated_at": "2026-11-27T00:22:31+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 446,
+      "date": "2026-11-27",
+      "time": "00:08",
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "preview": "Prosecutors have ordered drug tests for a 21-year-old suspect arrested in connection with a fuel tanker fire in Cairo that resulted in 31 deaths. The driver claims the crash…",
+      "tags": [
+        "#worldnews",
+        "#incidents",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/446",
+      "src": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
+    },
     {
       "id": 445,
       "date": "2026-11-26",
