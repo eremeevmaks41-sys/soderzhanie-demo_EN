@@ -2,6 +2,7 @@
   "seen": {
     "a454cab7b16fc4a3da96b477465612c0a4a3004e": "2026-11-27",
     "e7facb46a814c91e2c29382afc60e8cf40ff262a": "2026-11-27",
+    "9899cc8c6235f7cfb71c4da481f26a6d280a8cf0": "2026-11-27",
     "fc7863565de9fd97537806ee143bc1662bb604e2": "2026-11-26",
     "44412024d53d2263a6a5e4e01d2038ed2d98e9db": "2026-11-25",
     "05821fc6d075873e9748b0bf17f4088b4293cfb4": "2026-11-25",
@@ -1790,6 +1791,10 @@
     "447": {
       "kind": "photo",
       "text": "💰 <b>Yandex to start courier delivery with humanoid robots</b>\n\nYandex will launch a pilot project by the end of the year using humanoid robots for deliveries, company sources told Kommersant. The rollout will initially cover four locations.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9131791\">Kommersant</a>"
+    },
+    "448": {
+      "kind": "photo",
+      "text": "⚖️ <b>Former MVD General Malakov faces new charge of illegal arms possession</b>\n\nFormer Ministry of Internal Affairs General Malakov has been charged with illegal possession of ammunition, investigators said.\n\nSource: <a href=\"https://www.vedomosti.ru/society/news/2026/11/27/1416101-malkovu-dobavili-obvinenie\">Vedomosti</a>"
     }
   }
 }
