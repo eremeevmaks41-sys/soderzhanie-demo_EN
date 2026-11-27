@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-11-27T16:43:23+03:00",
+  "updated_at": "2026-11-28T01:37:15+03:00",
   "channel": {
     "name": "Daily News Digest",
     "url": "https://t.me/daily_news_digest_en"
   },
   "posts": [
+    {
+      "id": 449,
+      "date": "2026-11-28",
+      "time": "00:59",
+      "title": "Activists of rhythm: Fighting Spain's far-right through art",
+      "preview": "Madrid's La Parceria and Espacio Afro cultural centres are using the arts to combat racism and amplify migrant voices.",
+      "tags": [
+        "#worldnews",
+        "#society"
+      ],
+      "kind": "photo",
+      "url": "https://t.me/daily_news_digest_en/449",
+      "src": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss"
+    },
     {
       "id": 448,
       "date": "2026-11-27",
