@@ -1,6 +1,7 @@
 {
   "seen": {
     "a454cab7b16fc4a3da96b477465612c0a4a3004e": "2026-11-27",
+    "e7facb46a814c91e2c29382afc60e8cf40ff262a": "2026-11-27",
     "fc7863565de9fd97537806ee143bc1662bb604e2": "2026-11-26",
     "44412024d53d2263a6a5e4e01d2038ed2d98e9db": "2026-11-25",
     "05821fc6d075873e9748b0bf17f4088b4293cfb4": "2026-11-25",
@@ -1785,6 +1786,10 @@
     "446": {
       "kind": "photo",
       "text": "🔥 <b>Egypt detains driver over Cairo fuel tanker fire that killed 31</b>\n\nProsecutors have ordered drug tests for a 21-year-old suspect arrested in connection with a fuel tanker fire in Cairo that resulted in 31 deaths. The driver claims the crash occurred while he was overtaking another vehicle.\n\n• The tanker fire broke out following the collision in Cairo\n• Authorities are investigating the cause of the blaze\n\nSource: <a href=\"https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss\">Al Jazeera</a>"
+    },
+    "447": {
+      "kind": "photo",
+      "text": "💰 <b>Yandex to start courier delivery with humanoid robots</b>\n\nYandex will launch a pilot project by the end of the year using humanoid robots for deliveries, company sources told Kommersant. The rollout will initially cover four locations.\n\nSource: <a href=\"https://www.kommersant.ru/doc/9131791\">Kommersant</a>"
     }
   }
 }
